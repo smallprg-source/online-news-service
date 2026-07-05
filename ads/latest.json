@@ -4,15 +4,15 @@
   "items": [
     {
       "id": "ads-20260705-001",
-      "title": "광고 영역 예시",
-      "summary": "프로그램 내 광고 또는 추천 링크를 표시할 수 있습니다.",
-      "url": "https://github.com/",
+      "title": "PhotoBoard 새 기능 안내",
+      "summary": "파일 목록 아래 Information Bar가 추가되었습니다.",
+      "url": "https://github.com/smallprg-source/online-news-service",
       "icon": "ads",
       "type": "ads",
-      "priority": 50,
+      "priority": 10,
       "start": "2026-07-05",
       "end": "2026-12-31",
-      "target": ["*"]
+      "target": ["PhotoBoard"]
     }
   ]
 }
