@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-07-05T23:20:03+09:00",
+  "updated": "2026-07-05T23:25:03+09:00",
   "items": [
     {
       "id": "news-20260705-001",
-      "title": "\"AI시대 경부고속도로 깐다\"…SKT, 15GW AI 데이터센터 구축",
-      "summary": "더팩트 | IT/과학",
+      "title": "'아시아 AI 허브' 노리는 SK텔레콤…15GW 데이터센터 추진",
+      "summary": "한국경제 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -15,11 +15,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/629/0000513196",
+      "source_url": "https://n.news.naver.com/mnews/article/015/0005306278",
       "source": {
-        "title": "\"AI시대 경부고속도로 깐다\"…SKT, 15GW AI 데이터센터 구축",
-        "url": "https://n.news.naver.com/mnews/article/629/0000513196",
-        "press": "더팩트",
+        "title": "'아시아 AI 허브' 노리는 SK텔레콤…15GW 데이터센터 추진",
+        "url": "https://n.news.naver.com/mnews/article/015/0005306278",
+        "press": "한국경제",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -27,8 +27,8 @@
     },
     {
       "id": "news-20260705-002",
-      "title": "폭염·지진 정보, 카카오톡으로 더 빠르게 알린다",
-      "summary": "파이낸셜뉴스 | IT/과학",
+      "title": "국내 첫 농림위성 발사 카운트다운…“내년부터 농지조사·생산 예측 본격 활용”",
+      "summary": "KBS | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -38,11 +38,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/014/0005543714",
+      "source_url": "https://n.news.naver.com/mnews/article/056/0012211880",
       "source": {
-        "title": "폭염·지진 정보, 카카오톡으로 더 빠르게 알린다",
-        "url": "https://n.news.naver.com/mnews/article/014/0005543714",
-        "press": "파이낸셜뉴스",
+        "title": "국내 첫 농림위성 발사 카운트다운…“내년부터 농지조사·생산 예측 본격 활용”",
+        "url": "https://n.news.naver.com/mnews/article/056/0012211880",
+        "press": "KBS",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -50,8 +50,8 @@
     },
     {
       "id": "news-20260705-003",
-      "title": "국내 첫 농림위성 7일 발사…농지·수급·재해 정보 3일마다 확보",
-      "summary": "데일리안 | IT/과학",
+      "title": "AI 에이전트 전력 소모, 생성형 AI보다 최대 136배 많다",
+      "summary": "조선비즈 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -61,11 +61,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/119/0003108040",
+      "source_url": "https://n.news.naver.com/mnews/article/366/0001176895",
       "source": {
-        "title": "국내 첫 농림위성 7일 발사…농지·수급·재해 정보 3일마다 확보",
-        "url": "https://n.news.naver.com/mnews/article/119/0003108040",
-        "press": "데일리안",
+        "title": "AI 에이전트 전력 소모, 생성형 AI보다 최대 136배 많다",
+        "url": "https://n.news.naver.com/mnews/article/366/0001176895",
+        "press": "조선비즈",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -73,8 +73,8 @@
     },
     {
       "id": "news-20260705-004",
-      "title": "네이버, AI 검색 승부수…속도 2배 높이고 비용 3배 낮췄다",
-      "summary": "연합뉴스 | IT/과학",
+      "title": "나혼렙·중증외상센터… 베트남서 K웹툰 전시회",
+      "summary": "파이낸셜뉴스 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -84,11 +84,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/001/0016176153",
+      "source_url": "https://n.news.naver.com/mnews/article/014/0005543835",
       "source": {
-        "title": "네이버, AI 검색 승부수…속도 2배 높이고 비용 3배 낮췄다",
-        "url": "https://n.news.naver.com/mnews/article/001/0016176153",
-        "press": "연합뉴스",
+        "title": "나혼렙·중증외상센터… 베트남서 K웹툰 전시회",
+        "url": "https://n.news.naver.com/mnews/article/014/0005543835",
+        "press": "파이낸셜뉴스",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -96,8 +96,8 @@
     },
     {
       "id": "news-20260705-005",
-      "title": "“똑똑하다 했더니 비싼 값 하네”…AI 에이전트, 전력 136배 더 쓴다",
-      "summary": "매일경제 | IT/과학",
+      "title": "해외에서 무료로 국제 통화…LGU+, '익시오 로밍콜' 서비스 출시",
+      "summary": "뉴스1 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -107,11 +107,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/009/0005702820",
+      "source_url": "https://n.news.naver.com/mnews/article/421/0009041264",
       "source": {
-        "title": "“똑똑하다 했더니 비싼 값 하네”…AI 에이전트, 전력 136배 더 쓴다",
-        "url": "https://n.news.naver.com/mnews/article/009/0005702820",
-        "press": "매일경제",
+        "title": "해외에서 무료로 국제 통화…LGU+, '익시오 로밍콜' 서비스 출시",
+        "url": "https://n.news.naver.com/mnews/article/421/0009041264",
+        "press": "뉴스1",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -119,8 +119,8 @@
     },
     {
       "id": "news-20260705-006",
-      "title": "LGU+, 일본서 ‘익시오 로밍콜’ 출시…하반기 100개국으로 확대",
-      "summary": "이데일리 | IT/과학",
+      "title": "① \"내 SNS 글도 처벌?\"…7일부터 달라지는 것들[허위조작정보 규제]",
+      "summary": "연합뉴스 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -130,11 +130,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/018/0006322989",
+      "source_url": "https://n.news.naver.com/mnews/article/001/0016176108",
       "source": {
-        "title": "LGU+, 일본서 ‘익시오 로밍콜’ 출시…하반기 100개국으로 확대",
-        "url": "https://n.news.naver.com/mnews/article/018/0006322989",
-        "press": "이데일리",
+        "title": "① \"내 SNS 글도 처벌?\"…7일부터 달라지는 것들[허위조작정보 규제]",
+        "url": "https://n.news.naver.com/mnews/article/001/0016176108",
+        "press": "연합뉴스",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -142,8 +142,8 @@
     },
     {
       "id": "news-20260705-007",
-      "title": "'개정 정보통신망법' 시행 코앞...논란 속 쟁점은?",
-      "summary": "YTN | IT/과학",
+      "title": "빨라진 양자컴퓨팅 시계…“韓 금융권 PQC 전환 서둘러야”",
+      "summary": "전자신문 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -153,11 +153,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/052/0002375038",
+      "source_url": "https://n.news.naver.com/mnews/article/030/0003444504",
       "source": {
-        "title": "'개정 정보통신망법' 시행 코앞...논란 속 쟁점은?",
-        "url": "https://n.news.naver.com/mnews/article/052/0002375038",
-        "press": "YTN",
+        "title": "빨라진 양자컴퓨팅 시계…“韓 금융권 PQC 전환 서둘러야”",
+        "url": "https://n.news.naver.com/mnews/article/030/0003444504",
+        "press": "전자신문",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -165,8 +165,8 @@
     },
     {
       "id": "news-20260705-008",
-      "title": "드라마는 대박 났는데 만화 시장은 '성장통'…제2 '나혼렙' 키워라[웹툰 원작 전성시대③]",
-      "summary": "뉴시스 | IT/과학",
+      "title": "\"모르면 되묻는다\"…네이버 AI탭, 거짓말 줄인 검색 AI로 승부",
+      "summary": "이데일리 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -176,11 +176,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/003/0014046417",
+      "source_url": "https://n.news.naver.com/mnews/article/018/0006322915",
       "source": {
-        "title": "드라마는 대박 났는데 만화 시장은 '성장통'…제2 '나혼렙' 키워라[웹툰 원작 전성시대③]",
-        "url": "https://n.news.naver.com/mnews/article/003/0014046417",
-        "press": "뉴시스",
+        "title": "\"모르면 되묻는다\"…네이버 AI탭, 거짓말 줄인 검색 AI로 승부",
+        "url": "https://n.news.naver.com/mnews/article/018/0006322915",
+        "press": "이데일리",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
