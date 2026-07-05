@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-07-05T22:55:03+09:00",
+  "updated": "2026-07-05T23:00:03+09:00",
   "items": [
     {
       "id": "news-20260705-001",
-      "title": "AI 에이전트는 전기 먹는 하마? \"생성형 AI보다 136배 더 써\"",
-      "summary": "한국일보 | IT/과학",
+      "title": "LG U+, 일본 시작으로 해외 100개국 '익시오 로밍콜' 출시",
+      "summary": "아시아경제 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -15,11 +15,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/469/0000940466",
+      "source_url": "https://n.news.naver.com/mnews/article/277/0005785539",
       "source": {
-        "title": "AI 에이전트는 전기 먹는 하마? \"생성형 AI보다 136배 더 써\"",
-        "url": "https://n.news.naver.com/mnews/article/469/0000940466",
-        "press": "한국일보",
+        "title": "LG U+, 일본 시작으로 해외 100개국 '익시오 로밍콜' 출시",
+        "url": "https://n.news.naver.com/mnews/article/277/0005785539",
+        "press": "아시아경제",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -27,127 +27,12 @@
     },
     {
       "id": "news-20260705-002",
-      "title": "UNIST, '퀀텀코리아 2026'서 양자대학원·유니큐 첫 공개",
-      "summary": "더팩트 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 98,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/629/0000513203",
-      "source": {
-        "title": "UNIST, '퀀텀코리아 2026'서 양자대학원·유니큐 첫 공개",
-        "url": "https://n.news.naver.com/mnews/article/629/0000513203",
-        "press": "더팩트",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-003",
-      "title": "‘차세대중형위성 4호’, 7일 우주 발사…농업·산불감시 임무 맡는다",
-      "summary": "헤럴드경제 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 97,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/016/0002665827",
-      "source": {
-        "title": "‘차세대중형위성 4호’, 7일 우주 발사…농업·산불감시 임무 맡는다",
-        "url": "https://n.news.naver.com/mnews/article/016/0002665827",
-        "press": "헤럴드경제",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-004",
-      "title": "LGU+, 일본서 ‘익시오 로밍콜’ 출시…하반기 100개국으로 확대",
-      "summary": "이데일리 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 96,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/018/0006322989",
-      "source": {
-        "title": "LGU+, 일본서 ‘익시오 로밍콜’ 출시…하반기 100개국으로 확대",
-        "url": "https://n.news.naver.com/mnews/article/018/0006322989",
-        "press": "이데일리",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-005",
-      "title": "'입틀막법' 시행 D-2, 네티즌 조심할 포인트는 [여의도는 지금]",
-      "summary": "한국경제 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 95,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/015/0005306286",
-      "source": {
-        "title": "'입틀막법' 시행 D-2, 네티즌 조심할 포인트는 [여의도는 지금]",
-        "url": "https://n.news.naver.com/mnews/article/015/0005306286",
-        "press": "한국경제",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-006",
-      "title": "SKT, 1000조 AI 데이터센터 '속도전'",
-      "summary": "한국경제 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 94,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/015/0005306350",
-      "source": {
-        "title": "SKT, 1000조 AI 데이터센터 '속도전'",
-        "url": "https://n.news.naver.com/mnews/article/015/0005306350",
-        "press": "한국경제",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-007",
       "title": "“27년 검색 노하우, AI로 이어간다”… 네이버, AI 검색 이끌 핵심 기술 3가지 제시",
       "summary": "조선비즈 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
-      "priority": 93,
+      "priority": 98,
       "start": "2026-07-05",
       "end": "2026-07-06",
       "target": [
@@ -164,9 +49,124 @@
       }
     },
     {
+      "id": "news-20260705-003",
+      "title": "UNIST, '퀀텀코리아 2026' 참가… 양자융합원 Uni·양자대학원 전략 공개",
+      "summary": "아시아경제 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 97,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/277/0005785526",
+      "source": {
+        "title": "UNIST, '퀀텀코리아 2026' 참가… 양자융합원 Uni·양자대학원 전략 공개",
+        "url": "https://n.news.naver.com/mnews/article/277/0005785526",
+        "press": "아시아경제",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-004",
+      "title": "'개정 정보통신망법' 시행 코앞...논란 속 쟁점은?",
+      "summary": "YTN | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 96,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/052/0002375038",
+      "source": {
+        "title": "'개정 정보통신망법' 시행 코앞...논란 속 쟁점은?",
+        "url": "https://n.news.naver.com/mnews/article/052/0002375038",
+        "press": "YTN",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-005",
+      "title": "AI 비서에게 일 맡겼더니 챗봇보다 전기 137배 썼다",
+      "summary": "조선일보 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 95,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/023/0003985791",
+      "source": {
+        "title": "AI 비서에게 일 맡겼더니 챗봇보다 전기 137배 썼다",
+        "url": "https://n.news.naver.com/mnews/article/023/0003985791",
+        "press": "조선일보",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-006",
+      "title": "농림위성 7일 첫 발사…전국 농지 촬영해 농지조사·직불제·재해 등에 활용",
+      "summary": "부산일보 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 94,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/082/0001388311",
+      "source": {
+        "title": "농림위성 7일 첫 발사…전국 농지 촬영해 농지조사·직불제·재해 등에 활용",
+        "url": "https://n.news.naver.com/mnews/article/082/0001388311",
+        "press": "부산일보",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-007",
+      "title": "'아시아 AI 인프라 허브' 꿈꾸는 SKT, 15GW 규모 AIDC 구축",
+      "summary": "비즈워치 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 93,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/648/0000048629",
+      "source": {
+        "title": "'아시아 AI 인프라 허브' 꿈꾸는 SKT, 15GW 규모 AIDC 구축",
+        "url": "https://n.news.naver.com/mnews/article/648/0000048629",
+        "press": "비즈워치",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
       "id": "news-20260705-008",
-      "title": "카카오, 기상청과 맞손…폭염 정보 전달부터 취약계층 지원까지",
-      "summary": "데일리안 | IT/과학",
+      "title": "\"이미 팬덤 크니까\"…네이버웹툰 찾는 글로벌 애니 제작사들",
+      "summary": "지디넷코리아 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -176,11 +176,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/119/0003108059",
+      "source_url": "https://n.news.naver.com/mnews/article/092/0002429305",
       "source": {
-        "title": "카카오, 기상청과 맞손…폭염 정보 전달부터 취약계층 지원까지",
-        "url": "https://n.news.naver.com/mnews/article/119/0003108059",
-        "press": "데일리안",
+        "title": "\"이미 팬덤 크니까\"…네이버웹툰 찾는 글로벌 애니 제작사들",
+        "url": "https://n.news.naver.com/mnews/article/092/0002429305",
+        "press": "지디넷코리아",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -396,7 +396,7 @@
     {
       "id": "news-20260705-018",
       "title": "새 최대주주 맞는 위메이드, '나이트크로우' 中 판호 획득에 사업 탄력",
-      "summary": "블로터 | 4시간전 | IT/과학",
+      "summary": "블로터 | 5시간전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -411,7 +411,7 @@
         "title": "새 최대주주 맞는 위메이드, '나이트크로우' 中 판호 획득에 사업 탄력",
         "url": "https://n.news.naver.com/mnews/article/293/0000087238",
         "press": "블로터",
-        "published_at": "4시간전",
+        "published_at": "5시간전",
         "source": "naver",
         "category": "IT/과학"
       }
