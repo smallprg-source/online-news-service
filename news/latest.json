@@ -1,130 +1,15 @@
 {
   "version": 1,
-  "updated": "2026-07-05T23:25:03+09:00",
+  "updated": "2026-07-05T23:28:15+09:00",
   "items": [
     {
       "id": "news-20260705-001",
-      "title": "'아시아 AI 허브' 노리는 SK텔레콤…15GW 데이터센터 추진",
-      "summary": "한국경제 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
+      "title": "1. 7일부터 허위 조작 정보(가짜 뉴스)에 대한 규제가 강화됩니다.\n2. 개인 SNS 게시글이라도 악의적 허위 사실 유포 시 처벌받을 수 있습니다.\n3. 온라인상에서의 책임감 있는 정보 공유와 주의가 필요합니다.",
+      "summary": "연합뉴스 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
       "priority": 99,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/015/0005306278",
-      "source": {
-        "title": "'아시아 AI 허브' 노리는 SK텔레콤…15GW 데이터센터 추진",
-        "url": "https://n.news.naver.com/mnews/article/015/0005306278",
-        "press": "한국경제",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-002",
-      "title": "국내 첫 농림위성 발사 카운트다운…“내년부터 농지조사·생산 예측 본격 활용”",
-      "summary": "KBS | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 98,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/056/0012211880",
-      "source": {
-        "title": "국내 첫 농림위성 발사 카운트다운…“내년부터 농지조사·생산 예측 본격 활용”",
-        "url": "https://n.news.naver.com/mnews/article/056/0012211880",
-        "press": "KBS",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-003",
-      "title": "AI 에이전트 전력 소모, 생성형 AI보다 최대 136배 많다",
-      "summary": "조선비즈 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 97,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/366/0001176895",
-      "source": {
-        "title": "AI 에이전트 전력 소모, 생성형 AI보다 최대 136배 많다",
-        "url": "https://n.news.naver.com/mnews/article/366/0001176895",
-        "press": "조선비즈",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-004",
-      "title": "나혼렙·중증외상센터… 베트남서 K웹툰 전시회",
-      "summary": "파이낸셜뉴스 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 96,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/014/0005543835",
-      "source": {
-        "title": "나혼렙·중증외상센터… 베트남서 K웹툰 전시회",
-        "url": "https://n.news.naver.com/mnews/article/014/0005543835",
-        "press": "파이낸셜뉴스",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-005",
-      "title": "해외에서 무료로 국제 통화…LGU+, '익시오 로밍콜' 서비스 출시",
-      "summary": "뉴스1 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 95,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/421/0009041264",
-      "source": {
-        "title": "해외에서 무료로 국제 통화…LGU+, '익시오 로밍콜' 서비스 출시",
-        "url": "https://n.news.naver.com/mnews/article/421/0009041264",
-        "press": "뉴스1",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-006",
-      "title": "① \"내 SNS 글도 처벌?\"…7일부터 달라지는 것들[허위조작정보 규제]",
-      "summary": "연합뉴스 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 94,
       "start": "2026-07-05",
       "end": "2026-07-06",
       "target": [
@@ -138,13 +23,134 @@
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
-      }
+      },
+      "ai_summary": "1. 7일부터 허위 조작 정보(가짜 뉴스)에 대한 규제가 강화됩니다.\n2. 개인 SNS 게시글이라도 악의적 허위 사실 유포 시 처벌받을 수 있습니다.\n3. 온라인상에서의 책임감 있는 정보 공유와 주의가 필요합니다."
+    },
+    {
+      "id": "news-20260705-002",
+      "title": "1. SKT가 1,000조 원 규모의 15GW급 AI 데이터센터 구축을 추진합니다.\n2. 이를 통해 아시아의 AI 인프라 허브로 도약하겠다는 전략입니다.\n3. 글로벌 AI 생태계 확장을 위해 대규모 인프라 투자를 진행합니다.",
+      "summary": "헤럴드경제 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 98,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/016/0002665764",
+      "source": {
+        "title": "‘1000조’ 투입 15GW AI DC 대역사 추진…SKT, 亞 AI 인프라 허브 ‘도약’",
+        "url": "https://n.news.naver.com/mnews/article/016/0002665764",
+        "press": "헤럴드경제",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. SKT가 1,000조 원 규모의 15GW급 AI 데이터센터 구축을 추진합니다.\n2. 이를 통해 아시아의 AI 인프라 허브로 도약하겠다는 전략입니다.\n3. 글로벌 AI 생태계 확장을 위해 대규모 인프라 투자를 진행합니다."
+    },
+    {
+      "id": "news-20260705-003",
+      "title": "1. AI 에이전트는 챗봇보다 정확도가 높지만 전력 소모는 136배 더 많습니다.\n2. 복잡한 추론 과정에서 발생하는 막대한 에너지 소비가 주요 해결 과제입니다.\n3. 효율적인 전력 관리가 향후 AI 서비스 확산의 핵심 관건이 될 전망입니다.",
+      "summary": "매일경제 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 97,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/009/0005702932",
+      "source": {
+        "title": "챗봇보다 정확도 높지만 … AI에이전트, 전력 136배 더 잡아먹어",
+        "url": "https://n.news.naver.com/mnews/article/009/0005702932",
+        "press": "매일경제",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. AI 에이전트는 챗봇보다 정확도가 높지만 전력 소모는 136배 더 많습니다.\n2. 복잡한 추론 과정에서 발생하는 막대한 에너지 소비가 주요 해결 과제입니다.\n3. 효율적인 전력 관리가 향후 AI 서비스 확산의 핵심 관건이 될 전망입니다."
+    },
+    {
+      "id": "news-20260705-004",
+      "title": "1. SKT와 KT가 '퀀텀코리아 2026'에서 차세대 양자암호 기술을 공개했습니다.\n2. 양자내성암호(PQC)와 양자키분배(QKD) 등 보안 강화 솔루션을 선보였습니다.\n3. 양사 모두 국가 보안망 및 산업 전반에 적용 가능한 기술 상용화에 집중하고 있습니다.",
+      "summary": "디지털타임스 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 96,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/029/0003035241",
+      "source": {
+        "title": "SKT·KT, 퀀텀코리아 2026서 차세대 양자암호 기술 선봬",
+        "url": "https://n.news.naver.com/mnews/article/029/0003035241",
+        "press": "디지털타임스",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. SKT와 KT가 '퀀텀코리아 2026'에서 차세대 양자암호 기술을 공개했습니다.\n2. 양자내성암호(PQC)와 양자키분배(QKD) 등 보안 강화 솔루션을 선보였습니다.\n3. 양사 모두 국가 보안망 및 산업 전반에 적용 가능한 기술 상용화에 집중하고 있습니다."
+    },
+    {
+      "id": "news-20260705-005",
+      "title": "1. 카카오와 기상청이 폭염 등 위험기상 대응을 위해 업무 협약을 체결했습니다.\n2. 카카오톡을 통해 기상청의 위험기상 정보를 신속하게 알릴 예정입니다.\n3. 양 기관은 국민의 안전을 위해 정밀한 기상 정보 전달 체계를 구축합니다.",
+      "summary": "지디넷코리아 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 95,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/092/0002429293",
+      "source": {
+        "title": "카카오-기상청, 폭염 등 위험기상 대응 힘 모은다",
+        "url": "https://n.news.naver.com/mnews/article/092/0002429293",
+        "press": "지디넷코리아",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. 카카오와 기상청이 폭염 등 위험기상 대응을 위해 업무 협약을 체결했습니다.\n2. 카카오톡을 통해 기상청의 위험기상 정보를 신속하게 알릴 예정입니다.\n3. 양 기관은 국민의 안전을 위해 정밀한 기상 정보 전달 체계를 구축합니다."
+    },
+    {
+      "id": "news-20260705-006",
+      "title": "1. 네이버가 예약과 구매까지 가능한 AI 검색 서비스를 선보입니다.\n2. 단순 정보 제공을 넘어 사용자의 의도에 맞는 실행 단계까지 지원합니다.\n3. 이를 통해 검색-탐색-결제로 이어지는 사용자 경험을 혁신할 계획입니다.",
+      "summary": "한국경제 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 94,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/015/0005306346",
+      "source": {
+        "title": "예약·구매까지…네이버, AI 검색 승부수",
+        "url": "https://n.news.naver.com/mnews/article/015/0005306346",
+        "press": "한국경제",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. 네이버가 예약과 구매까지 가능한 AI 검색 서비스를 선보입니다.\n2. 단순 정보 제공을 넘어 사용자의 의도에 맞는 실행 단계까지 지원합니다.\n3. 이를 통해 검색-탐색-결제로 이어지는 사용자 경험을 혁신할 계획입니다."
     },
     {
       "id": "news-20260705-007",
-      "title": "빨라진 양자컴퓨팅 시계…“韓 금융권 PQC 전환 서둘러야”",
-      "summary": "전자신문 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
+      "title": "1. 한국 최초의 농림위성이 7일 미국에서 발사됩니다.\n2. 전 세계 농작물 재배 면적과 작황을 정밀하게 관측합니다.\n3. 수집된 데이터를 통해 기후 변화 대응 및 식량 안보를 강화할 계획입니다.",
+      "summary": "매일경제 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
       "priority": 93,
@@ -153,21 +159,22 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/030/0003444504",
+      "source_url": "https://n.news.naver.com/mnews/article/009/0005702929",
       "source": {
-        "title": "빨라진 양자컴퓨팅 시계…“韓 금융권 PQC 전환 서둘러야”",
-        "url": "https://n.news.naver.com/mnews/article/030/0003444504",
-        "press": "전자신문",
+        "title": "국산 첫 농림위성 우주로 간다 … 7일 美서 발사",
+        "url": "https://n.news.naver.com/mnews/article/009/0005702929",
+        "press": "매일경제",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
-      }
+      },
+      "ai_summary": "1. 한국 최초의 농림위성이 7일 미국에서 발사됩니다.\n2. 전 세계 농작물 재배 면적과 작황을 정밀하게 관측합니다.\n3. 수집된 데이터를 통해 기후 변화 대응 및 식량 안보를 강화할 계획입니다."
     },
     {
       "id": "news-20260705-008",
-      "title": "\"모르면 되묻는다\"…네이버 AI탭, 거짓말 줄인 검색 AI로 승부",
-      "summary": "이데일리 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
+      "title": "1. AI 기업들이 치솟는 토큰 비용 부담을 줄이기 위해 서비스 모델을 재편하고 있습니다.\n2. 고성능 모델 대신 가벼운 소형 언어 모델(sLLM) 도입과 비용 최적화에 집중하고 있습니다.\n3. 수익성 개선을 위해 무제한 제공보다는 효율적인 과금 체계와 운영 전략을 모색 중입니다.",
+      "summary": "매일경제 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
       "priority": 92,
@@ -176,21 +183,22 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/018/0006322915",
+      "source_url": "https://n.news.naver.com/mnews/article/009/0005702839",
       "source": {
-        "title": "\"모르면 되묻는다\"…네이버 AI탭, 거짓말 줄인 검색 AI로 승부",
-        "url": "https://n.news.naver.com/mnews/article/018/0006322915",
-        "press": "이데일리",
+        "title": "치솟는 토큰 비용에...서비스 모델 새판 짜는 AI 기업들",
+        "url": "https://n.news.naver.com/mnews/article/009/0005702839",
+        "press": "매일경제",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
-      }
+      },
+      "ai_summary": "1. AI 기업들이 치솟는 토큰 비용 부담을 줄이기 위해 서비스 모델을 재편하고 있습니다.\n2. 고성능 모델 대신 가벼운 소형 언어 모델(sLLM) 도입과 비용 최적화에 집중하고 있습니다.\n3. 수익성 개선을 위해 무제한 제공보다는 효율적인 과금 체계와 운영 전략을 모색 중입니다."
     },
     {
       "id": "news-20260705-009",
-      "title": "악연에서 절친으로...어느 해커의 '멋진 유산'",
+      "title": "1. 과거 서로 공격하던 해커들이 절친한 사이가 되었습니다.\n2. 이들은 해킹 기술을 보안 강화와 공익적 목적으로 전환했습니다.\n3. 적대 관계를 넘어 기술적 협력과 긍정적인 유산을 남겼습니다.",
       "summary": "지디넷코리아 | 1시간전 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
+      "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
       "priority": 91,
@@ -207,13 +215,14 @@
         "published_at": "1시간전",
         "source": "naver",
         "category": "IT/과학"
-      }
+      },
+      "ai_summary": "1. 과거 서로 공격하던 해커들이 절친한 사이가 되었습니다.\n2. 이들은 해킹 기술을 보안 강화와 공익적 목적으로 전환했습니다.\n3. 적대 관계를 넘어 기술적 협력과 긍정적인 유산을 남겼습니다."
     },
     {
       "id": "news-20260705-010",
-      "title": "이틀 연속 30% 상한가…“삼전닉스 버리고, 샀더니” 믿었던 LG 추락 ‘낭패’",
+      "title": "1. 삼성전자와 SK하이닉스의 부진으로 LG전자 등 가전주로 매수세 이동.\n2. 그러나 기대와 달리 LG전자 주가도 함께 하락하며 투자자들 낭패.\n3. 반도체 중심의 국내 IT 업황 전반의 침체 우려가 반영된 결과.",
       "summary": "헤럴드경제 | 1시간전 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
+      "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
       "priority": 90,
@@ -230,13 +239,14 @@
         "published_at": "1시간전",
         "source": "naver",
         "category": "IT/과학"
-      }
+      },
+      "ai_summary": "1. 삼성전자와 SK하이닉스의 부진으로 LG전자 등 가전주로 매수세 이동.\n2. 그러나 기대와 달리 LG전자 주가도 함께 하락하며 투자자들 낭패.\n3. 반도체 중심의 국내 IT 업황 전반의 침체 우려가 반영된 결과."
     },
     {
       "id": "news-20260705-011",
-      "title": "“억지 코믹 대사” “너무 올드한 개그” 쏟아지는 혹평에도 1위 알고보니…넷플릭스 알고리즘 힘",
+      "title": "1. 넷플릭스 콘텐츠가 작품성나 개그 코드에 대한 혹평 속에서도 1위를 기록했습니다.\n2. 이는 작품의 질보다 넷플릭스의 강력한 추천 알고리즘이 작용한 결과로 분석됩니다.\n3. 시청자들의 부정적인 반응과 별개로 알고리즘이 노출을 극대화하며 순위를 끌어올렸습니다.",
       "summary": "헤럴드경제 | 3시간전 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
+      "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
       "priority": 89,
@@ -253,13 +263,14 @@
         "published_at": "3시간전",
         "source": "naver",
         "category": "IT/과학"
-      }
+      },
+      "ai_summary": "1. 넷플릭스 콘텐츠가 작품성나 개그 코드에 대한 혹평 속에서도 1위를 기록했습니다.\n2. 이는 작품의 질보다 넷플릭스의 강력한 추천 알고리즘이 작용한 결과로 분석됩니다.\n3. 시청자들의 부정적인 반응과 별개로 알고리즘이 노출을 극대화하며 순위를 끌어올렸습니다."
     },
     {
       "id": "news-20260705-012",
-      "title": "TV조선 재승인 재판 4년째… ‘행정 관행’과 ‘조직적 범죄’ 사이",
+      "title": "1. TV조선 재승인 관련 재판이 4년째 이어지며 장기화되고 있습니다.\n2. 핵심 쟁점은 단순한 '행정 관행'인지 아니면 '조직적 범죄'인지 여부입니다.\n3. 재판 결과에 따라 방송사의 책임과 법적 판단이 갈릴 전망입니다.",
       "summary": "이데일리 | 4시간전 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
+      "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
       "priority": 88,
@@ -276,13 +287,14 @@
         "published_at": "4시간전",
         "source": "naver",
         "category": "IT/과학"
-      }
+      },
+      "ai_summary": "1. TV조선 재승인 관련 재판이 4년째 이어지며 장기화되고 있습니다.\n2. 핵심 쟁점은 단순한 '행정 관행'인지 아니면 '조직적 범죄'인지 여부입니다.\n3. 재판 결과에 따라 방송사의 책임과 법적 판단이 갈릴 전망입니다."
     },
     {
       "id": "news-20260705-013",
-      "title": "비만약 맞은 美여성, 결혼·취업률 높아졌다",
+      "title": "1. 미국 여성들이 비만 치료제를 사용한 후 결혼율과 취업률이 상승했습니다.\n2. 체중 감량으로 인한 자신감 회복과 외모 변화가 사회 활동 증가로 이어졌습니다.\n3. 비만약이 단순한 건강 개선을 넘어 삶의 질과 사회적 성취에 영향을 준 것으로 나타났습니다.",
       "summary": "한국경제 | 4시간전 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
+      "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
       "priority": 87,
@@ -299,13 +311,14 @@
         "published_at": "4시간전",
         "source": "naver",
         "category": "IT/과학"
-      }
+      },
+      "ai_summary": "1. 미국 여성들이 비만 치료제를 사용한 후 결혼율과 취업률이 상승했습니다.\n2. 체중 감량으로 인한 자신감 회복과 외모 변화가 사회 활동 증가로 이어졌습니다.\n3. 비만약이 단순한 건강 개선을 넘어 삶의 질과 사회적 성취에 영향을 준 것으로 나타났습니다."
     },
     {
       "id": "news-20260705-014",
-      "title": "SKT, 15GW 초대형 AI데이터센터 구축… 亞 허브 노린다",
+      "title": "1. SKT가 15GW 규모의 초대형 AI 데이터센터를 구축합니다.\n2. 이를 통해 아시아의 AI 인프라 허브로 도약한다는 계획입니다.\n3. 글로벌 빅테크와의 협력을 통해 AI 생태계를 확장할 예정입니다.",
       "summary": "파이낸셜뉴스 | 4시간전 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
+      "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
       "priority": 86,
@@ -322,13 +335,14 @@
         "published_at": "4시간전",
         "source": "naver",
         "category": "IT/과학"
-      }
+      },
+      "ai_summary": "1. SKT가 15GW 규모의 초대형 AI 데이터센터를 구축합니다.\n2. 이를 통해 아시아의 AI 인프라 허브로 도약한다는 계획입니다.\n3. 글로벌 빅테크와의 협력을 통해 AI 생태계를 확장할 예정입니다."
     },
     {
       "id": "news-20260705-015",
-      "title": "美·EU, 로봇 보안 강화하는데…인력도 대책도 없는 韓",
+      "title": "1. 미국과 EU는 로봇 보안 표준을 강화하며 규제 체계를 구축하고 있습니다.\n2. 반면 한국은 관련 전문 인력과 구체적인 보안 대책이 매우 부족한 실정입니다.\n3. 글로벌 보안 추세에 맞춘 국가 차원의 전략적 대응과 인력 양성이 시급합니다.",
       "summary": "서울경제 | 5시간전 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
+      "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
       "priority": 85,
@@ -345,13 +359,14 @@
         "published_at": "5시간전",
         "source": "naver",
         "category": "IT/과학"
-      }
+      },
+      "ai_summary": "1. 미국과 EU는 로봇 보안 표준을 강화하며 규제 체계를 구축하고 있습니다.\n2. 반면 한국은 관련 전문 인력과 구체적인 보안 대책이 매우 부족한 실정입니다.\n3. 글로벌 보안 추세에 맞춘 국가 차원의 전략적 대응과 인력 양성이 시급합니다."
     },
     {
       "id": "news-20260705-016",
-      "title": "“갤럭시 만들었는데, 빌어먹을” 노래까지 나온 성과급 갈등",
+      "title": "1. 삼성전자 직원들이 성과급 산정 기준에 반발하며 갈등이 심화하고 있습니다.\n2. 일부 직원들은 성과급 불만을 담은 노래를 만들어 배포하며 항의하고 있습니다.\n3. 사측의 보상 체계와 직원들의 기대치 간의 간극이 커지며 내부 진통이 이어지는 상황입니다.",
       "summary": "조선일보 | 5시간전 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
+      "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
       "priority": 84,
@@ -368,13 +383,14 @@
         "published_at": "5시간전",
         "source": "naver",
         "category": "IT/과학"
-      }
+      },
+      "ai_summary": "1. 삼성전자 직원들이 성과급 산정 기준에 반발하며 갈등이 심화하고 있습니다.\n2. 일부 직원들은 성과급 불만을 담은 노래를 만들어 배포하며 항의하고 있습니다.\n3. 사측의 보상 체계와 직원들의 기대치 간의 간극이 커지며 내부 진통이 이어지는 상황입니다."
     },
     {
       "id": "news-20260705-017",
-      "title": "30분 넘게 앉아 있지 마세요…암 사망 위험 높아져",
+      "title": "1. 30분 이상 오래 앉아 있으면 암 사망 위험이 높아집니다.\n2. 앉아 있는 시간을 줄이고 가벼운 활동을 하는 것이 중요합니다.\n3. 규칙적인 움직임이 암 예방과 건강 유지에 도움이 됩니다.",
       "summary": "조선일보 | 5시간전 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
+      "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
       "priority": 83,
@@ -391,13 +407,14 @@
         "published_at": "5시간전",
         "source": "naver",
         "category": "IT/과학"
-      }
+      },
+      "ai_summary": "1. 30분 이상 오래 앉아 있으면 암 사망 위험이 높아집니다.\n2. 앉아 있는 시간을 줄이고 가벼운 활동을 하는 것이 중요합니다.\n3. 규칙적인 움직임이 암 예방과 건강 유지에 도움이 됩니다."
     },
     {
       "id": "news-20260705-018",
-      "title": "새 최대주주 맞는 위메이드, '나이트크로우' 中 판호 획득에 사업 탄력",
+      "title": "1. 위메이드의 '나이트 크로우'가 중국 서비스 판호를 획득했습니다.\n2. 이를 통해 중국 시장 진출 및 사업 확장에 탄력이 붙을 전망입니다.\n3. 새로운 최대주주 체제와 맞물려 기업 성장에 기대감이 커지고 있습니다.",
       "summary": "블로터 | 5시간전 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
+      "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
       "priority": 82,
@@ -414,13 +431,14 @@
         "published_at": "5시간전",
         "source": "naver",
         "category": "IT/과학"
-      }
+      },
+      "ai_summary": "1. 위메이드의 '나이트 크로우'가 중국 서비스 판호를 획득했습니다.\n2. 이를 통해 중국 시장 진출 및 사업 확장에 탄력이 붙을 전망입니다.\n3. 새로운 최대주주 체제와 맞물려 기업 성장에 기대감이 커지고 있습니다."
     },
     {
       "id": "news-20260705-019",
-      "title": "“사람이 죽고 있다” 절규해도 외면한 정치인들…전 세계의 약속, 10년도 안 돼 ‘파국’으로 [지구, 뭐래?]",
+      "title": "1. 기후 위기로 인명 피해가 급증하고 있으나 정치권의 대응은 미흡합니다.\n2. 탄소 배출 감축을 위한 전 세계적 약속들이 제대로 지켜지지 않고 있습니다.\n3. 지구 온난화 가속화로 인해 환경 파괴와 인류의 생존 위기가 심화되고 있습니다.",
       "summary": "헤럴드경제 | 5시간전 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
+      "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
       "priority": 81,
@@ -437,13 +455,14 @@
         "published_at": "5시간전",
         "source": "naver",
         "category": "IT/과학"
-      }
+      },
+      "ai_summary": "1. 기후 위기로 인명 피해가 급증하고 있으나 정치권의 대응은 미흡합니다.\n2. 탄소 배출 감축을 위한 전 세계적 약속들이 제대로 지켜지지 않고 있습니다.\n3. 지구 온난화 가속화로 인해 환경 파괴와 인류의 생존 위기가 심화되고 있습니다."
     },
     {
       "id": "news-20260705-020",
-      "title": "\"비용부담 너무 커져\"…'토큰 다이어트' 사활 건 기업들",
+      "title": "1. AI 기업들이 막대한 연산 비용을 줄이기 위해 '토큰 다이어트'에 집중하고 있습니다.\n2. 모델의 효율성을 높여 데이터 처리 비용을 낮추고 서비스 속도를 개선하려는 전략입니다.\n3. 비용 절감과 효율성 확보가 AI 서비스의 수익성과 경쟁력을 결정하는 핵심 요소가 되었습니다.",
       "summary": "매일경제 | 5시간전 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
+      "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
       "priority": 80,
@@ -460,7 +479,584 @@
         "published_at": "5시간전",
         "source": "naver",
         "category": "IT/과학"
-      }
+      },
+      "ai_summary": "1. AI 기업들이 막대한 연산 비용을 줄이기 위해 '토큰 다이어트'에 집중하고 있습니다.\n2. 모델의 효율성을 높여 데이터 처리 비용을 낮추고 서비스 속도를 개선하려는 전략입니다.\n3. 비용 절감과 효율성 확보가 AI 서비스의 수익성과 경쟁력을 결정하는 핵심 요소가 되었습니다."
+    },
+    {
+      "id": "news-20260705-021",
+      "title": "1. SKT가 AI 데이터센터(AIDC) 시장 선점을 위해 투자를 가속화하고 있습니다.\n2. 고성능 GPU 기반의 인프라를 구축해 AI 연산 능력을 대폭 강화할 계획입니다.\n3. 이를 통해 글로벌 AI 생태계 확장과 B2B AI 서비스 경쟁력을 확보하고자 합니다.",
+      "summary": "한국경제 | 5시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 79,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/015/0005306350",
+      "source": {
+        "title": "SKT, 1000조 AI 데이터센터 '속도전'",
+        "url": "https://n.news.naver.com/mnews/article/015/0005306350",
+        "press": "한국경제",
+        "published_at": "5시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. SKT가 AI 데이터센터(AIDC) 시장 선점을 위해 투자를 가속화하고 있습니다.\n2. 고성능 GPU 기반의 인프라를 구축해 AI 연산 능력을 대폭 강화할 계획입니다.\n3. 이를 통해 글로벌 AI 생태계 확장과 B2B AI 서비스 경쟁력을 확보하고자 합니다."
+    },
+    {
+      "id": "news-20260705-022",
+      "title": "1. 대중이 실제 정치인보다 AI 정치인의 답변을 더 신뢰한다는 연구 결과가 나왔습니다.\n2. AI는 구체적이고 논리적인 답변을 제공해 더 전문적이라는 인상을 줍니다.\n3. 이는 AI가 정치적 소통 방식에 큰 영향을 미칠 수 있음을 시사합니다.",
+      "summary": "서울신문 | 5시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 78,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/081/0003658444",
+      "source": {
+        "title": "대중은 진짜 정치인보다 AI 정치인 답변 더 신뢰했다 [달콤한 사이언스]",
+        "url": "https://n.news.naver.com/mnews/article/081/0003658444",
+        "press": "서울신문",
+        "published_at": "5시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. 대중이 실제 정치인보다 AI 정치인의 답변을 더 신뢰한다는 연구 결과가 나왔습니다.\n2. AI는 구체적이고 논리적인 답변을 제공해 더 전문적이라는 인상을 줍니다.\n3. 이는 AI가 정치적 소통 방식에 큰 영향을 미칠 수 있음을 시사합니다."
+    },
+    {
+      "id": "news-20260705-023",
+      "title": "1. 국내 번호를 그대로 사용하여 해외에서 무료 통화가 가능한 서비스가 출시되었습니다.\n2. 보이스톡처럼 데이터 기반이지만, 통신망을 이용해 연결 품질을 개선했습니다.\n3. 데이터 연결이 불안정한 해외에서도 끊김 없는 통화가 가능해 편의성이 높아졌습니다.",
+      "summary": "매일경제 | 6시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 77,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/009/0005702912",
+      "source": {
+        "title": "\"잘 안 터지는 보이스톡 답답해\" 국내번호 그대로 해외 무료통화",
+        "url": "https://n.news.naver.com/mnews/article/009/0005702912",
+        "press": "매일경제",
+        "published_at": "6시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. 국내 번호를 그대로 사용하여 해외에서 무료 통화가 가능한 서비스가 출시되었습니다.\n2. 보이스톡처럼 데이터 기반이지만, 통신망을 이용해 연결 품질을 개선했습니다.\n3. 데이터 연결이 불안정한 해외에서도 끊김 없는 통화가 가능해 편의성이 높아졌습니다."
+    },
+    {
+      "id": "news-20260705-024",
+      "title": "1. 반도체 호황으로 인한 기업 이익 급증과 보상 체계가 사회적 이슈가 되었습니다.\n2. 성과급 차이 등으로 인한 직군 간 '부의 갈등'이 심화되며 외신까지 주목하고 있습니다.\n3. 이는 단순한 임금 문제를 넘어 한국 사회의 새로운 갈등 양상으로 분석됩니다.",
+      "summary": "디지털데일리 | 6시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 76,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/138/0002233183",
+      "source": {
+        "title": "역대급 반도체 호황속, 韓 사회 강타한 '부(富)의 갈등'…외신도 주목",
+        "url": "https://n.news.naver.com/mnews/article/138/0002233183",
+        "press": "디지털데일리",
+        "published_at": "6시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. 반도체 호황으로 인한 기업 이익 급증과 보상 체계가 사회적 이슈가 되었습니다.\n2. 성과급 차이 등으로 인한 직군 간 '부의 갈등'이 심화되며 외신까지 주목하고 있습니다.\n3. 이는 단순한 임금 문제를 넘어 한국 사회의 새로운 갈등 양상으로 분석됩니다."
+    },
+    {
+      "id": "news-20260705-025",
+      "title": "1. 올해 상반기 삼성전자, SK하이닉스보다 높은 수익률을 기록한 종목들이 나타났습니다.\n2. 특히 AI 반도체 관련주 및 일부 특수 종목들이 최대 756%까지 폭등했습니다.\n3. 시장의 관심이 대형주에서 고수익 성장주로 이동하는 추세입니다.",
+      "summary": "디지털타임스 | 6시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 75,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/029/0003035371",
+      "source": {
+        "title": "“삼전닉스 산 개미들 배 아프겠네”…상반기 756% 폭등한 종목은?",
+        "url": "https://n.news.naver.com/mnews/article/029/0003035371",
+        "press": "디지털타임스",
+        "published_at": "6시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. 올해 상반기 삼성전자, SK하이닉스보다 높은 수익률을 기록한 종목들이 나타났습니다.\n2. 특히 AI 반도체 관련주 및 일부 특수 종목들이 최대 756%까지 폭등했습니다.\n3. 시장의 관심이 대형주에서 고수익 성장주로 이동하는 추세입니다."
+    },
+    {
+      "id": "news-20260705-026",
+      "title": "1. 삼성SDI가 미국 내 유휴 생산 라인을 ESS(에너지저장장치) 생산으로 전환합니다.\n2. 신규 수주 물량 대응을 위해 오는 9월부터 본격적인 생산에 돌입할 예정입니다.\n3. 이를 통해 북미 시장 내 ESS 공급 확대 및 사업 경쟁력을 강화할 계획입니다.",
+      "summary": "전자신문 | 6시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 74,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/030/0003444507",
+      "source": {
+        "title": "삼성SDI, 유휴라인 ESS·신규 물량으로 전환…美 9월 생산 본격화",
+        "url": "https://n.news.naver.com/mnews/article/030/0003444507",
+        "press": "전자신문",
+        "published_at": "6시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. 삼성SDI가 미국 내 유휴 생산 라인을 ESS(에너지저장장치) 생산으로 전환합니다.\n2. 신규 수주 물량 대응을 위해 오는 9월부터 본격적인 생산에 돌입할 예정입니다.\n3. 이를 통해 북미 시장 내 ESS 공급 확대 및 사업 경쟁력을 강화할 계획입니다."
+    },
+    {
+      "id": "news-20260705-027",
+      "title": "1. AI 산업 성장으로 삼성전기와 LG이노텍의 2분기 실적 개선이 기대됩니다.\n2. 고성능 기판 및 카메라 모듈 등 AI 관련 부품 수요가 증가한 영향입니다.\n3. 두 기업 모두 AI 훈풍을 타고 본격적인 실적 반등 가능성이 커지고 있습니다.",
+      "summary": "전자신문 | 6시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 73,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/030/0003444506",
+      "source": {
+        "title": "AI 훈풍에 삼성전기·LG이노텍 2분기 호실적 예고",
+        "url": "https://n.news.naver.com/mnews/article/030/0003444506",
+        "press": "전자신문",
+        "published_at": "6시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. AI 산업 성장으로 삼성전기와 LG이노텍의 2분기 실적 개선이 기대됩니다.\n2. 고성능 기판 및 카메라 모듈 등 AI 관련 부품 수요가 증가한 영향입니다.\n3. 두 기업 모두 AI 훈풍을 타고 본격적인 실적 반등 가능성이 커지고 있습니다."
+    },
+    {
+      "id": "news-20260705-028",
+      "title": "1. 인텔이 1.4나노 공정의 성능 향상을 위해 '아키텍처 변형' 전략을 추진합니다.\n2. 전후면 전력 공급(BSPDN) 방식을 검토해 전력 효율과 칩 성능을 높일 계획입니다.\n3. 이를 통해 삼성전자와 TSMC와의 초미세 공정 경쟁에서 승기를 잡겠다는 전략입니다.",
+      "summary": "전자신문 | 6시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 72,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/030/0003444505",
+      "source": {
+        "title": "인텔 1.4나노 '아키텍처 변형' 승부수…전후면 전력공급 검토",
+        "url": "https://n.news.naver.com/mnews/article/030/0003444505",
+        "press": "전자신문",
+        "published_at": "6시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. 인텔이 1.4나노 공정의 성능 향상을 위해 '아키텍처 변형' 전략을 추진합니다.\n2. 전후면 전력 공급(BSPDN) 방식을 검토해 전력 효율과 칩 성능을 높일 계획입니다.\n3. 이를 통해 삼성전자와 TSMC와의 초미세 공정 경쟁에서 승기를 잡겠다는 전략입니다."
+    },
+    {
+      "id": "news-20260705-029",
+      "title": "1. 양자컴퓨팅 기술의 발전으로 기존 암호 체계의 보안 위협이 커지고 있습니다.\n2. 이에 따라 금융권의 양자내성암호(PQC) 전환이 시급하다는 지적이 나옵니다.\n3. 보안 사고 예방을 위해 선제적인 인프라 교체와 대응 전략 마련이 필요합니다.",
+      "summary": "전자신문 | 6시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 71,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/030/0003444504",
+      "source": {
+        "title": "빨라진 양자컴퓨팅 시계…“韓 금융권 PQC 전환 서둘러야”",
+        "url": "https://n.news.naver.com/mnews/article/030/0003444504",
+        "press": "전자신문",
+        "published_at": "6시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. 양자컴퓨팅 기술의 발전으로 기존 암호 체계의 보안 위협이 커지고 있습니다.\n2. 이에 따라 금융권의 양자내성암호(PQC) 전환이 시급하다는 지적이 나옵니다.\n3. 보안 사고 예방을 위해 선제적인 인프라 교체와 대응 전략 마련이 필요합니다."
+    },
+    {
+      "id": "news-20260705-030",
+      "title": "1. 한국 반도체 기업들이 중국 의존도를 낮추기 위해 공급망 재편에 나섰습니다.\n2. 소재·부품·장비(소부장)의 국산화와 수입선 다변화를 통해 리스크를 줄이고 있습니다.\n3. 이는 미·중 갈등과 글로벌 공급망 불안정에 대응하여 경쟁력을 확보하기 위한 전략입니다.",
+      "summary": "전자신문 | 6시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 70,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/030/0003444500",
+      "source": {
+        "title": "中 거리두는 韓반도체, 소부장 공급망 재편",
+        "url": "https://n.news.naver.com/mnews/article/030/0003444500",
+        "press": "전자신문",
+        "published_at": "6시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. 한국 반도체 기업들이 중국 의존도를 낮추기 위해 공급망 재편에 나섰습니다.\n2. 소재·부품·장비(소부장)의 국산화와 수입선 다변화를 통해 리스크를 줄이고 있습니다.\n3. 이는 미·중 갈등과 글로벌 공급망 불안정에 대응하여 경쟁력을 확보하기 위한 전략입니다."
+    },
+    {
+      "id": "news-20260705-031",
+      "title": "1. 양자컴퓨터의 발전으로 기존 암호 체계의 무력화 가능성이 커지고 있습니다.\n2. 적은 큐비트로도 효율적인 암호 해독이 가능하다는 분석이 제기되었습니다.\n3. 이에 따라 양자 내성 암호(PQC) 등 보안 패러다임의 전환이 시급해졌습니다.",
+      "summary": "전자신문 | 6시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 69,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/030/0003444499",
+      "source": {
+        "title": "[뉴스줌인] '수백만 큐비트' 통념 깨졌다…양자컴퓨터가 흔드는 암호 방패",
+        "url": "https://n.news.naver.com/mnews/article/030/0003444499",
+        "press": "전자신문",
+        "published_at": "6시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. 양자컴퓨터의 발전으로 기존 암호 체계의 무력화 가능성이 커지고 있습니다.\n2. 적은 큐비트로도 효율적인 암호 해독이 가능하다는 분석이 제기되었습니다.\n3. 이에 따라 양자 내성 암호(PQC) 등 보안 패러다임의 전환이 시급해졌습니다."
+    },
+    {
+      "id": "news-20260705-032",
+      "title": "1. ESS(에너지저장장치) 시장 성장이 K-배터리의 새로운 돌파구가 되고 있습니다.\n2. 이제는 배터리의 형태와 구조인 '폼팩터' 경쟁이 핵심 승부처가 될 전망입니다.\n3. 기업들은 시장 주도권을 잡기 위해 제품 다변화와 기술 혁신에 집중하고 있습니다.",
+      "summary": "디지털데일리 | 6시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 68,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/138/0002233182",
+      "source": {
+        "title": "ESS가 살린 K-배터리…다음 승부는 '폼팩터' [위클리배터리]",
+        "url": "https://n.news.naver.com/mnews/article/138/0002233182",
+        "press": "디지털데일리",
+        "published_at": "6시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. ESS(에너지저장장치) 시장 성장이 K-배터리의 새로운 돌파구가 되고 있습니다.\n2. 이제는 배터리의 형태와 구조인 '폼팩터' 경쟁이 핵심 승부처가 될 전망입니다.\n3. 기업들은 시장 주도권을 잡기 위해 제품 다변화와 기술 혁신에 집중하고 있습니다."
+    },
+    {
+      "id": "news-20260705-033",
+      "title": "1. AI 에이전트의 하루 예상 전력 사용량이 199GWh에 달할 것으로 전망됩니다.\n2. 이는 미국 전체 전력 소비량의 반나절 분량과 맞먹는 엄청난 규모입니다.\n3. AI 기술 확산에 따른 급격한 에너지 수요 증가가 주요 과제로 떠오르고 있습니다.",
+      "summary": "지디넷코리아 | 6시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 67,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/092/0002429313",
+      "source": {
+        "title": "AI 에이전트, 하루 199GWh 전기사용 예상…미국 반나절 소비 규모",
+        "url": "https://n.news.naver.com/mnews/article/092/0002429313",
+        "press": "지디넷코리아",
+        "published_at": "6시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. AI 에이전트의 하루 예상 전력 사용량이 199GWh에 달할 것으로 전망됩니다.\n2. 이는 미국 전체 전력 소비량의 반나절 분량과 맞먹는 엄청난 규모입니다.\n3. AI 기술 확산에 따른 급격한 에너지 수요 증가가 주요 과제로 떠오르고 있습니다."
+    },
+    {
+      "id": "news-20260705-034",
+      "title": "1. KT에스테이트가 최정규 전 LG AI연구원 그룹장을 영입했습니다.\n2. 최 신임 부사장은 AI 기반의 부동산 서비스 혁신을 주도할 예정입니다.\n3. 이를 통해 KT그룹의 AI 전환(AX)과 부동산 사업 경쟁력을 강화합니다.",
+      "summary": "전자신문 | 6시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 66,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/030/0003444489",
+      "source": {
+        "title": "KT에스테이트, 최정규 전 LG AI연구원 그룹장 영입",
+        "url": "https://n.news.naver.com/mnews/article/030/0003444489",
+        "press": "전자신문",
+        "published_at": "6시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. KT에스테이트가 최정규 전 LG AI연구원 그룹장을 영입했습니다.\n2. 최 신임 부사장은 AI 기반의 부동산 서비스 혁신을 주도할 예정입니다.\n3. 이를 통해 KT그룹의 AI 전환(AX)과 부동산 사업 경쟁력을 강화합니다."
+    },
+    {
+      "id": "news-20260705-035",
+      "title": "1. '인천 로보컵 2026'에서 중국의 고성능 휴머노이드 로봇들이 공개되었습니다.\n2. 정교한 움직임과 뛰어난 제어 기술로 로봇 강국의 위력을 선보였습니다.\n3. 글로벌 로봇 기술 경쟁 속에서 중국의 비약적인 발전이 주목받고 있습니다.",
+      "summary": "아이뉴스24 | 6시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 65,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/031/0001039822",
+      "source": {
+        "title": "'인천 로보컵 2026'서 선보인 중국 휴머노이드 로봇 위력",
+        "url": "https://n.news.naver.com/mnews/article/031/0001039822",
+        "press": "아이뉴스24",
+        "published_at": "6시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. '인천 로보컵 2026'에서 중국의 고성능 휴머노이드 로봇들이 공개되었습니다.\n2. 정교한 움직임과 뛰어난 제어 기술로 로봇 강국의 위력을 선보였습니다.\n3. 글로벌 로봇 기술 경쟁 속에서 중국의 비약적인 발전이 주목받고 있습니다."
+    },
+    {
+      "id": "news-20260705-036",
+      "title": "1. 메모리 공급 부족으로 갤럭시 Z 폴드 8의 가격 인상이 예상됩니다.\n2. 핵심 부품의 수급 불안정과 비용 상승이 주요 원인으로 분석됩니다.\n3. 이에 따라 차기 폴더블폰의 소비자 가격 상승이 불가피할 전망입니다.",
+      "summary": "디지털타임스 | 6시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 64,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/029/0003035357",
+      "source": {
+        "title": "갤럭시 Z 폴드 8 가격 인상 불가피…메모리 공급 부족 여파",
+        "url": "https://n.news.naver.com/mnews/article/029/0003035357",
+        "press": "디지털타임스",
+        "published_at": "6시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. 메모리 공급 부족으로 갤럭시 Z 폴드 8의 가격 인상이 예상됩니다.\n2. 핵심 부품의 수급 불안정과 비용 상승이 주요 원인으로 분석됩니다.\n3. 이에 따라 차기 폴더블폰의 소비자 가격 상승이 불가피할 전망입니다."
+    },
+    {
+      "id": "news-20260705-037",
+      "title": "1. 마이크론이 일본 히로시마에 약 14조 원 규모의 투자를 결정했습니다.\n2. 이곳에 차세대 D램과 HBM 생산 기지를 구축할 계획입니다.\n3. 이를 통해 AI 메모리 시장의 경쟁력을 강화하려는 전략입니다.",
+      "summary": "아이뉴스24 | 7시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 63,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/031/0001039819",
+      "source": {
+        "title": "마이크론, 日 히로시마에 14조 투자…차세대 D램·HBM 생산기지 구축",
+        "url": "https://n.news.naver.com/mnews/article/031/0001039819",
+        "press": "아이뉴스24",
+        "published_at": "7시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. 마이크론이 일본 히로시마에 약 14조 원 규모의 투자를 결정했습니다.\n2. 이곳에 차세대 D램과 HBM 생산 기지를 구축할 계획입니다.\n3. 이를 통해 AI 메모리 시장의 경쟁력을 강화하려는 전략입니다."
+    },
+    {
+      "id": "news-20260705-038",
+      "title": "1. 삼성전자가 3분기 D램 가격을 20% 인상하기로 했습니다.\n2. 중국 고객사들에게 가격 인상 방침을 구두로 통지했습니다.\n3. 이는 메모리 반도체 시장의 수익성 제고를 위한 전략으로 보입니다.",
+      "summary": "아이뉴스24 | 7시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 62,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/031/0001039812",
+      "source": {
+        "title": "\"삼성전자, 3분기 D램값 20% 인상 추진…中 고객사에 구두 통지\"",
+        "url": "https://n.news.naver.com/mnews/article/031/0001039812",
+        "press": "아이뉴스24",
+        "published_at": "7시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. 삼성전자가 3분기 D램 가격을 20% 인상하기로 했습니다.\n2. 중국 고객사들에게 가격 인상 방침을 구두로 통지했습니다.\n3. 이는 메모리 반도체 시장의 수익성 제고를 위한 전략으로 보입니다."
+    },
+    {
+      "id": "news-20260705-039",
+      "title": "1. 트럼프 정부의 AI 정책 설계자가 규제 없는 AI 혁신을 강조했습니다.\n2. 미국 중심의 AI 기술 주도권 확보를 위해 불필요한 규제를 제거할 방침입니다.\n3. 이를 통해 AI 산업의 성장과 국가 경쟁력을 극대화하겠다는 전략입니다.",
+      "summary": "지디넷코리아 | 7시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 61,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/092/0002429310",
+      "source": {
+        "title": "트럼프 AI 정책 설계자 \"미국 AI 혁신 가로막는 규제 없을 것\"",
+        "url": "https://n.news.naver.com/mnews/article/092/0002429310",
+        "press": "지디넷코리아",
+        "published_at": "7시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. 트럼프 정부의 AI 정책 설계자가 규제 없는 AI 혁신을 강조했습니다.\n2. 미국 중심의 AI 기술 주도권 확보를 위해 불필요한 규제를 제거할 방침입니다.\n3. 이를 통해 AI 산업의 성장과 국가 경쟁력을 극대화하겠다는 전략입니다."
+    },
+    {
+      "id": "news-20260705-040",
+      "title": "1. 국내 미용 의료기기 3사가 해외 시장 확대로 2분기 실적 호조를 기록했습니다.\n2. 글로벌 채널 확장과 수출 증가가 고성장의 주요 원인으로 분석됩니다.\n3. K-미용 기기의 세계적 수요 증가로 함께 성장하는 추세입니다.",
+      "summary": "전자신문 | 7시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 60,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/030/0003444486",
+      "source": {
+        "title": "K미용 의료기기 3대장, 2분기 실적 고공행진…해외 채널 확장 효과↑",
+        "url": "https://n.news.naver.com/mnews/article/030/0003444486",
+        "press": "전자신문",
+        "published_at": "7시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. 국내 미용 의료기기 3사가 해외 시장 확대로 2분기 실적 호조를 기록했습니다.\n2. 글로벌 채널 확장과 수출 증가가 고성장의 주요 원인으로 분석됩니다.\n3. K-미용 기기의 세계적 수요 증가로 함께 성장하는 추세입니다."
+    },
+    {
+      "id": "news-20260705-041",
+      "title": "1. 오텍캐리어가 공공 에어컨 시장에서 삼성전자에 이어 점유율 2위를 기록했습니다.\n2. 맞춤형 솔루션과 공격적인 영업으로 공공 조달 시장 내 입지를 넓혔습니다.\n3. 이를 바탕으로 B2B 및 공공 부문 시장 지배력을 더욱 강화할 계획입니다.",
+      "summary": "전자신문 | 7시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 59,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/030/0003444481",
+      "source": {
+        "title": "오텍캐리어, 공공 에어컨 시장 약진...삼성 이어 '2위'",
+        "url": "https://n.news.naver.com/mnews/article/030/0003444481",
+        "press": "전자신문",
+        "published_at": "7시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. 오텍캐리어가 공공 에어컨 시장에서 삼성전자에 이어 점유율 2위를 기록했습니다.\n2. 맞춤형 솔루션과 공격적인 영업으로 공공 조달 시장 내 입지를 넓혔습니다.\n3. 이를 바탕으로 B2B 및 공공 부문 시장 지배력을 더욱 강화할 계획입니다."
+    },
+    {
+      "id": "news-20260705-042",
+      "title": "1. 미국 티켓 재판매 플랫폼 '스텁허브'가 가짜 티켓 판매 의혹으로 조사를 받습니다.\n2. 구매자가 결제 후 티켓을 받지 못하거나 취소되는 '유령 티켓' 문제가 발생했습니다.\n3. 소비자 보호 당국은 스텁허브의 티켓 검증 시스템과 운영 방식을 정밀 조사할 계획입니다.",
+      "summary": "지디넷코리아 | 7시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 58,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/092/0002429308",
+      "source": {
+        "title": "월드컵 티켓 샀는데 취소?…美 스텁허브, ‘유령 티켓’ 조사받는다",
+        "url": "https://n.news.naver.com/mnews/article/092/0002429308",
+        "press": "지디넷코리아",
+        "published_at": "7시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. 미국 티켓 재판매 플랫폼 '스텁허브'가 가짜 티켓 판매 의혹으로 조사를 받습니다.\n2. 구매자가 결제 후 티켓을 받지 못하거나 취소되는 '유령 티켓' 문제가 발생했습니다.\n3. 소비자 보호 당국은 스텁허브의 티켓 검증 시스템과 운영 방식을 정밀 조사할 계획입니다."
+    },
+    {
+      "id": "news-20260705-043",
+      "title": "1. 골드만삭스는 현재 AI 버블론은 시기상조라고 분석했습니다.\n2. AI 인프라와 전력, 빅테크 기업의 성장 가능성에 주목했습니다.\n3. AI 기술이 실제 수익으로 연결되는 과정에 집중할 것을 강조했습니다.",
+      "summary": "디지털데일리 | 7시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 57,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/138/0002233181",
+      "source": {
+        "title": "골드만삭스 “AI 버블? 아직 이르다”… 인프라·전력·빅테크 주목",
+        "url": "https://n.news.naver.com/mnews/article/138/0002233181",
+        "press": "디지털데일리",
+        "published_at": "7시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "1. 골드만삭스는 현재 AI 버블론은 시기상조라고 분석했습니다.\n2. AI 인프라와 전력, 빅테크 기업의 성장 가능성에 주목했습니다.\n3. AI 기술이 실제 수익으로 연결되는 과정에 집중할 것을 강조했습니다."
+    },
+    {
+      "id": "news-20260705-044",
+      "title": "제시해주신 뉴스 내용을 바탕으로 3줄 요약해 드립니다.\n\n1. 대통령이 '한국 대도약 3대 메가프로젝트'의 세부 전략을 점검합니다.\n2. AI-반도체, 바이오, 양자 기술 등 미래 핵심 전략 기술 확보에 집중합니다.\n3. 글로벌 경쟁력 강화를 위해 국가적 역량을 총동원할 계획입니다.",
+      "summary": "지디넷코리아 | 7시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224337344616",
+      "icon": "news",
+      "type": "news",
+      "priority": 56,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/092/0002429307",
+      "source": {
+        "title": "[ZD브리핑] 이 대통령, '韓 대도약 3대 메가프로젝트' 세부전략 들여다본다",
+        "url": "https://n.news.naver.com/mnews/article/092/0002429307",
+        "press": "지디넷코리아",
+        "published_at": "7시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "제시해주신 뉴스 내용을 바탕으로 3줄 요약해 드립니다.\n\n1. 대통령이 '한국 대도약 3대 메가프로젝트'의 세부 전략을 점검합니다.\n2. AI-반도체, 바이오, 양자 기술 등 미래 핵심 전략 기술 확보에 집중합니다.\n3. 글로벌 경쟁력 강화를 위해 국가적 역량을 총동원할 계획입니다."
     }
   ]
 }
