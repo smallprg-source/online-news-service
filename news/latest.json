@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-07-05T20:56:43+09:00",
+  "updated": "2026-07-05T21:00:03+09:00",
   "items": [
     {
       "id": "news-20260705-001",
-      "title": "네이버, AI 검색 고도화 승부수···응답 속도 높이고, 환각 줄이고",
-      "summary": "경향신문 | IT/과학",
+      "title": "\"이미 팬덤 크니까\"…네이버웹툰 찾는 글로벌 애니 제작사들",
+      "summary": "지디넷코리아 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -15,11 +15,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/032/0003456104",
+      "source_url": "https://n.news.naver.com/mnews/article/092/0002429305",
       "source": {
-        "title": "네이버, AI 검색 고도화 승부수···응답 속도 높이고, 환각 줄이고",
-        "url": "https://n.news.naver.com/mnews/article/032/0003456104",
-        "press": "경향신문",
+        "title": "\"이미 팬덤 크니까\"…네이버웹툰 찾는 글로벌 애니 제작사들",
+        "url": "https://n.news.naver.com/mnews/article/092/0002429305",
+        "press": "지디넷코리아",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -27,8 +27,8 @@
     },
     {
       "id": "news-20260705-002",
-      "title": "삼성전자 작년 정보보호 투자 4천억 넘겨…전자 관계사들도 증액",
-      "summary": "연합뉴스 | IT/과학",
+      "title": "LGU+, 일본서 ‘익시오 로밍콜’ 출시…하반기 100개국으로 확대",
+      "summary": "이데일리 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -38,11 +38,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/001/0016176112",
+      "source_url": "https://n.news.naver.com/mnews/article/018/0006322989",
       "source": {
-        "title": "삼성전자 작년 정보보호 투자 4천억 넘겨…전자 관계사들도 증액",
-        "url": "https://n.news.naver.com/mnews/article/001/0016176112",
-        "press": "연합뉴스",
+        "title": "LGU+, 일본서 ‘익시오 로밍콜’ 출시…하반기 100개국으로 확대",
+        "url": "https://n.news.naver.com/mnews/article/018/0006322989",
+        "press": "이데일리",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -50,8 +50,8 @@
     },
     {
       "id": "news-20260705-003",
-      "title": "카카오, 기상청과 18년만 개편 '폭염특보 기준·행동요령' 알린다",
-      "summary": "뉴스1 | IT/과학",
+      "title": "AI 비서에게 일 맡겼더니 챗봇보다 전기 137배 썼다",
+      "summary": "조선일보 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -61,11 +61,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/421/0009041030",
+      "source_url": "https://n.news.naver.com/mnews/article/023/0003985791",
       "source": {
-        "title": "카카오, 기상청과 18년만 개편 '폭염특보 기준·행동요령' 알린다",
-        "url": "https://n.news.naver.com/mnews/article/421/0009041030",
-        "press": "뉴스1",
+        "title": "AI 비서에게 일 맡겼더니 챗봇보다 전기 137배 썼다",
+        "url": "https://n.news.naver.com/mnews/article/023/0003985791",
+        "press": "조선일보",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -73,8 +73,8 @@
     },
     {
       "id": "news-20260705-004",
-      "title": "우리 기술로 만든 첫 농림위성 7일 우주로… 3일마다 한반도 전역 관측",
-      "summary": "한국일보 | IT/과학",
+      "title": "'식당 예약까지 제안'…검색 넘어선 네이버 AI탭",
+      "summary": "비즈워치 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -84,11 +84,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/469/0000940414",
+      "source_url": "https://n.news.naver.com/mnews/article/648/0000048627",
       "source": {
-        "title": "우리 기술로 만든 첫 농림위성 7일 우주로… 3일마다 한반도 전역 관측",
-        "url": "https://n.news.naver.com/mnews/article/469/0000940414",
-        "press": "한국일보",
+        "title": "'식당 예약까지 제안'…검색 넘어선 네이버 AI탭",
+        "url": "https://n.news.naver.com/mnews/article/648/0000048627",
+        "press": "비즈워치",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -96,7 +96,7 @@
     },
     {
       "id": "news-20260705-005",
-      "title": "'메모리 품귀'에 비싸지는 스마트폰…하반기 갤Z폴드8도 가격 오른다",
+      "title": "SKT, 1000조 투입해 '15GW 초대형 AI 데이터센터' 구축",
       "summary": "뉴스1 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
@@ -107,10 +107,10 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/421/0009041299",
+      "source_url": "https://n.news.naver.com/mnews/article/421/0009040988",
       "source": {
-        "title": "'메모리 품귀'에 비싸지는 스마트폰…하반기 갤Z폴드8도 가격 오른다",
-        "url": "https://n.news.naver.com/mnews/article/421/0009041299",
+        "title": "SKT, 1000조 투입해 '15GW 초대형 AI 데이터센터' 구축",
+        "url": "https://n.news.naver.com/mnews/article/421/0009040988",
         "press": "뉴스1",
         "published_at": "",
         "source": "naver",
@@ -119,8 +119,8 @@
     },
     {
       "id": "news-20260705-006",
-      "title": "'개정 정보통신망법' 시행 코앞...논란 속 쟁점은?",
-      "summary": "YTN | IT/과학",
+      "title": "차세대중형위성 4호, 7일 우주 향하다…농업·산림 관측 임무",
+      "summary": "디지털타임스 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -130,11 +130,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/052/0002374991",
+      "source_url": "https://n.news.naver.com/mnews/article/029/0003035302",
       "source": {
-        "title": "'개정 정보통신망법' 시행 코앞...논란 속 쟁점은?",
-        "url": "https://n.news.naver.com/mnews/article/052/0002374991",
-        "press": "YTN",
+        "title": "차세대중형위성 4호, 7일 우주 향하다…농업·산림 관측 임무",
+        "url": "https://n.news.naver.com/mnews/article/029/0003035302",
+        "press": "디지털타임스",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -142,8 +142,8 @@
     },
     {
       "id": "news-20260705-007",
-      "title": "AI 에이전트, 하루 199GWh 전기사용 예상…미국 반나절 소비 규모",
-      "summary": "지디넷코리아 | IT/과학",
+      "title": "AI 메모리 대란에…갤럭시 Z8 가격 인상 유력",
+      "summary": "머니투데이 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -153,11 +153,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/092/0002429313",
+      "source_url": "https://n.news.naver.com/mnews/article/008/0005381565",
       "source": {
-        "title": "AI 에이전트, 하루 199GWh 전기사용 예상…미국 반나절 소비 규모",
-        "url": "https://n.news.naver.com/mnews/article/092/0002429313",
-        "press": "지디넷코리아",
+        "title": "AI 메모리 대란에…갤럭시 Z8 가격 인상 유력",
+        "url": "https://n.news.naver.com/mnews/article/008/0005381565",
+        "press": "머니투데이",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -165,8 +165,8 @@
     },
     {
       "id": "news-20260705-008",
-      "title": "SKT, 15GW 규모 AI 데이터센터 구축…\"아시아 AI 인프라 허브될 것\"",
-      "summary": "아시아경제 | IT/과학",
+      "title": "삼성전자, 작년 정보보호 투자 4121억…공시 이후 최대",
+      "summary": "아이뉴스24 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -176,11 +176,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/277/0005785496",
+      "source_url": "https://n.news.naver.com/mnews/article/031/0001039811",
       "source": {
-        "title": "SKT, 15GW 규모 AI 데이터센터 구축…\"아시아 AI 인프라 허브될 것\"",
-        "url": "https://n.news.naver.com/mnews/article/277/0005785496",
-        "press": "아시아경제",
+        "title": "삼성전자, 작년 정보보호 투자 4121억…공시 이후 최대",
+        "url": "https://n.news.naver.com/mnews/article/031/0001039811",
+        "press": "아이뉴스24",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -350,7 +350,7 @@
     {
       "id": "news-20260705-016",
       "title": "새 최대주주 맞는 위메이드, '나이트크로우' 中 판호 획득에 사업 탄력",
-      "summary": "블로터 | 2시간전 | IT/과학",
+      "summary": "블로터 | 3시간전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -365,7 +365,7 @@
         "title": "새 최대주주 맞는 위메이드, '나이트크로우' 中 판호 획득에 사업 탄력",
         "url": "https://n.news.naver.com/mnews/article/293/0000087238",
         "press": "블로터",
-        "published_at": "2시간전",
+        "published_at": "3시간전",
         "source": "naver",
         "category": "IT/과학"
       }
