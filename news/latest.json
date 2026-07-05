@@ -1,15 +1,176 @@
 {
   "version": 1,
-  "updated": "2026-07-05T22:20:03+09:00",
+  "updated": "2026-07-05T22:23:42+09:00",
   "items": [
     {
       "id": "news-20260705-001",
+      "title": "네이버, AI탭 최적화 모델 공개…\"속도 2배 높이고 환각현상 30%p개선\"",
+      "summary": "아시아경제 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 99,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/277/0005785493",
+      "source": {
+        "title": "네이버, AI탭 최적화 모델 공개…\"속도 2배 높이고 환각현상 30%p개선\"",
+        "url": "https://n.news.naver.com/mnews/article/277/0005785493",
+        "press": "아시아경제",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-002",
+      "title": "스스로 생각·행동 'AI 에이전트', 기존 AI보다 전력 136배 사용",
+      "summary": "연합뉴스 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 98,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/001/0016176488",
+      "source": {
+        "title": "스스로 생각·행동 'AI 에이전트', 기존 AI보다 전력 136배 사용",
+        "url": "https://n.news.naver.com/mnews/article/001/0016176488",
+        "press": "연합뉴스",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-003",
+      "title": "韓 최초 '농림특화 위성' 발사 D-2…이제 농업도 '우주시대'",
+      "summary": "노컷뉴스 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 97,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/079/0004164918",
+      "source": {
+        "title": "韓 최초 '농림특화 위성' 발사 D-2…이제 농업도 '우주시대'",
+        "url": "https://n.news.naver.com/mnews/article/079/0004164918",
+        "press": "노컷뉴스",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-004",
+      "title": "LG U+, 일본에 '익시오 로밍콜' 출시…연내 100여개국으로 확대",
+      "summary": "파이낸셜뉴스 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 96,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/014/0005543685",
+      "source": {
+        "title": "LG U+, 일본에 '익시오 로밍콜' 출시…연내 100여개국으로 확대",
+        "url": "https://n.news.naver.com/mnews/article/014/0005543685",
+        "press": "파이낸셜뉴스",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-005",
+      "title": "카카오-기상청, 폭염 등 위험기상 대응 위한 업무협약 체결",
+      "summary": "아시아경제 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 95,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/277/0005785555",
+      "source": {
+        "title": "카카오-기상청, 폭염 등 위험기상 대응 위한 업무협약 체결",
+        "url": "https://n.news.naver.com/mnews/article/277/0005785555",
+        "press": "아시아경제",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-006",
+      "title": "허위조작정보 규제 7일 시행…플랫폼 업계, 자율규제 체계 정비 마쳐",
+      "summary": "전자신문 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 94,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/030/0003444462",
+      "source": {
+        "title": "허위조작정보 규제 7일 시행…플랫폼 업계, 자율규제 체계 정비 마쳐",
+        "url": "https://n.news.naver.com/mnews/article/030/0003444462",
+        "press": "전자신문",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-007",
+      "title": "나혼렙·중증외상센터… 베트남서 K웹툰 전시회",
+      "summary": "파이낸셜뉴스 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 93,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/014/0005543835",
+      "source": {
+        "title": "나혼렙·중증외상센터… 베트남서 K웹툰 전시회",
+        "url": "https://n.news.naver.com/mnews/article/014/0005543835",
+        "press": "파이낸셜뉴스",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-008",
       "title": "SKT, 1000조 AI 데이터센터 '속도전'",
       "summary": "한국경제 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
-      "priority": 99,
+      "priority": 92,
       "start": "2026-07-05",
       "end": "2026-07-06",
       "target": [
@@ -26,170 +187,9 @@
       }
     },
     {
-      "id": "news-20260705-002",
-      "title": "네이버 \"AI탭, 모델 크기보다 실제 서비스 품질이 핵심\"[일문일답]",
-      "summary": "디지털데일리 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 98,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/138/0002233159",
-      "source": {
-        "title": "네이버 \"AI탭, 모델 크기보다 실제 서비스 품질이 핵심\"[일문일답]",
-        "url": "https://n.news.naver.com/mnews/article/138/0002233159",
-        "press": "디지털데일리",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-003",
-      "title": "국내 첫 '농림위성' 7일 발사…3일마다 한반도 농경지 관측",
-      "summary": "전자신문 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 97,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/030/0003444460",
-      "source": {
-        "title": "국내 첫 '농림위성' 7일 발사…3일마다 한반도 농경지 관측",
-        "url": "https://n.news.naver.com/mnews/article/030/0003444460",
-        "press": "전자신문",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-004",
-      "title": "카카오, 기상청과 폭염 대응 협력… 카톡으로 위험기상 정보 알린다",
-      "summary": "조선비즈 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 96,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/366/0001176826",
-      "source": {
-        "title": "카카오, 기상청과 폭염 대응 협력… 카톡으로 위험기상 정보 알린다",
-        "url": "https://n.news.naver.com/mnews/article/366/0001176826",
-        "press": "조선비즈",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-005",
-      "title": "단순비용일까 전략투자일까…기업들의 R&D 셈법 변화 주목[AI 토큰 청구서④]",
-      "summary": "디지털데일리 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 95,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/138/0002233155",
-      "source": {
-        "title": "단순비용일까 전략투자일까…기업들의 R&D 셈법 변화 주목[AI 토큰 청구서④]",
-        "url": "https://n.news.naver.com/mnews/article/138/0002233155",
-        "press": "디지털데일리",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-006",
-      "title": "\"이미 팬덤 크니까\"…네이버웹툰 찾는 글로벌 애니 제작사들",
-      "summary": "지디넷코리아 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 94,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/092/0002429305",
-      "source": {
-        "title": "\"이미 팬덤 크니까\"…네이버웹툰 찾는 글로벌 애니 제작사들",
-        "url": "https://n.news.naver.com/mnews/article/092/0002429305",
-        "press": "지디넷코리아",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-007",
-      "title": "'개정 정보통신망법' 시행 코앞...논란 속 쟁점은?",
-      "summary": "YTN | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 93,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/052/0002374991",
-      "source": {
-        "title": "'개정 정보통신망법' 시행 코앞...논란 속 쟁점은?",
-        "url": "https://n.news.naver.com/mnews/article/052/0002374991",
-        "press": "YTN",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-008",
-      "title": "LG U+, 100개국서 '익시오 로밍콜'…일본 첫 출시",
-      "summary": "노컷뉴스 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 92,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/079/0004164883",
-      "source": {
-        "title": "LG U+, 100개국서 '익시오 로밍콜'…일본 첫 출시",
-        "url": "https://n.news.naver.com/mnews/article/079/0004164883",
-        "press": "노컷뉴스",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
       "id": "news-20260705-009",
       "title": "악연에서 절친으로...어느 해커의 '멋진 유산'",
-      "summary": "지디넷코리아 | 34분전 | IT/과학",
+      "summary": "지디넷코리아 | 37분전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -204,7 +204,7 @@
         "title": "악연에서 절친으로...어느 해커의 '멋진 유산'",
         "url": "https://n.news.naver.com/mnews/article/092/0002429316",
         "press": "지디넷코리아",
-        "published_at": "34분전",
+        "published_at": "37분전",
         "source": "naver",
         "category": "IT/과학"
       }
@@ -212,7 +212,7 @@
     {
       "id": "news-20260705-010",
       "title": "이틀 연속 30% 상한가…“삼전닉스 버리고, 샀더니” 믿었던 LG 추락 ‘낭패’",
-      "summary": "헤럴드경제 | 39분전 | IT/과학",
+      "summary": "헤럴드경제 | 42분전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -227,7 +227,7 @@
         "title": "이틀 연속 30% 상한가…“삼전닉스 버리고, 샀더니” 믿었던 LG 추락 ‘낭패’",
         "url": "https://n.news.naver.com/mnews/article/016/0002665893",
         "press": "헤럴드경제",
-        "published_at": "39분전",
+        "published_at": "42분전",
         "source": "naver",
         "category": "IT/과학"
       }
