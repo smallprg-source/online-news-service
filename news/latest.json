@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-07-05T22:35:03+09:00",
+  "updated": "2026-07-05T22:40:03+09:00",
   "items": [
     {
       "id": "news-20260705-001",
-      "title": "똑똑한 AI 에이전트, 연봉은 136배?...챗봇AI보다 전력 136배 더 사용",
-      "summary": "매일경제 | IT/과학",
+      "title": "농식품부, 7일 미국서 ‘농림위성’ 발사…사흘마다 전국 농경지 찍는다",
+      "summary": "경기일보 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -15,11 +15,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/009/0005702817",
+      "source_url": "https://n.news.naver.com/mnews/article/666/0000113958",
       "source": {
-        "title": "똑똑한 AI 에이전트, 연봉은 136배?...챗봇AI보다 전력 136배 더 사용",
-        "url": "https://n.news.naver.com/mnews/article/009/0005702817",
-        "press": "매일경제",
+        "title": "농식품부, 7일 미국서 ‘농림위성’ 발사…사흘마다 전국 농경지 찍는다",
+        "url": "https://n.news.naver.com/mnews/article/666/0000113958",
+        "press": "경기일보",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -27,58 +27,12 @@
     },
     {
       "id": "news-20260705-002",
-      "title": "LG유플러스, 해외 무료 통화 서비스 출시",
-      "summary": "조선일보 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 98,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/023/0003985775",
-      "source": {
-        "title": "LG유플러스, 해외 무료 통화 서비스 출시",
-        "url": "https://n.news.naver.com/mnews/article/023/0003985775",
-        "press": "조선일보",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-003",
-      "title": "국산 농림위성 우주로 간다…차중 4호 7일 발사",
-      "summary": "연합뉴스 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 97,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/001/0016176599",
-      "source": {
-        "title": "국산 농림위성 우주로 간다…차중 4호 7일 발사",
-        "url": "https://n.news.naver.com/mnews/article/001/0016176599",
-        "press": "연합뉴스",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-004",
       "title": "AI 토큰 지출 20% 감소…‘투자수익률(ROI) 시대’가 왔다",
       "summary": "이데일리 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
-      "priority": 96,
+      "priority": 98,
       "start": "2026-07-05",
       "end": "2026-07-06",
       "target": [
@@ -95,9 +49,55 @@
       }
     },
     {
+      "id": "news-20260705-003",
+      "title": "해외서 무료통화...LGU+, '익시오 로밍콜' 내놨다",
+      "summary": "지디넷코리아 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 97,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/092/0002429276",
+      "source": {
+        "title": "해외서 무료통화...LGU+, '익시오 로밍콜' 내놨다",
+        "url": "https://n.news.naver.com/mnews/article/092/0002429276",
+        "press": "지디넷코리아",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-004",
+      "title": "똑똑한 AI의 대가…질문 한 번에 전기 136배 더 먹는다",
+      "summary": "KBS | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 96,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/056/0012211876",
+      "source": {
+        "title": "똑똑한 AI의 대가…질문 한 번에 전기 136배 더 먹는다",
+        "url": "https://n.news.naver.com/mnews/article/056/0012211876",
+        "press": "KBS",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
       "id": "news-20260705-005",
-      "title": "SKT, 1000조 AI 데이터센터 '속도전'",
-      "summary": "한국경제 | IT/과학",
+      "title": "SKT, 영남권에 2GW AIDC 짓는다…'아시아 AI 인프라 허브' 도약",
+      "summary": "파이낸셜뉴스 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -107,11 +107,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/015/0005306350",
+      "source_url": "https://n.news.naver.com/mnews/article/014/0005543686",
       "source": {
-        "title": "SKT, 1000조 AI 데이터센터 '속도전'",
-        "url": "https://n.news.naver.com/mnews/article/015/0005306350",
-        "press": "한국경제",
+        "title": "SKT, 영남권에 2GW AIDC 짓는다…'아시아 AI 인프라 허브' 도약",
+        "url": "https://n.news.naver.com/mnews/article/014/0005543686",
+        "press": "파이낸셜뉴스",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -119,8 +119,8 @@
     },
     {
       "id": "news-20260705-006",
-      "title": "\"카톡으로 폭염·지진 정보를\"...기상청·카카오 맞손",
-      "summary": "YTN | IT/과학",
+      "title": "네이버, AI탭 최적화 모델 공개…\"속도 2배 높이고 환각현상 30%p개선\"",
+      "summary": "아시아경제 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -130,11 +130,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/052/0002374890",
+      "source_url": "https://n.news.naver.com/mnews/article/277/0005785493",
       "source": {
-        "title": "\"카톡으로 폭염·지진 정보를\"...기상청·카카오 맞손",
-        "url": "https://n.news.naver.com/mnews/article/052/0002374890",
-        "press": "YTN",
+        "title": "네이버, AI탭 최적화 모델 공개…\"속도 2배 높이고 환각현상 30%p개선\"",
+        "url": "https://n.news.naver.com/mnews/article/277/0005785493",
+        "press": "아시아경제",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -142,8 +142,8 @@
     },
     {
       "id": "news-20260705-007",
-      "title": "\"좋은 LLM만으로는\"…네이버 AI탭, '하네스 엔지니어링'으로 승부수",
-      "summary": "디지털데일리 | IT/과학",
+      "title": "카카오-기상청, 위험기상 대응 업무협약…모금 캠페인도",
+      "summary": "연합뉴스 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -153,11 +153,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/138/0002233152",
+      "source_url": "https://n.news.naver.com/mnews/article/001/0016176266",
       "source": {
-        "title": "\"좋은 LLM만으로는\"…네이버 AI탭, '하네스 엔지니어링'으로 승부수",
-        "url": "https://n.news.naver.com/mnews/article/138/0002233152",
-        "press": "디지털데일리",
+        "title": "카카오-기상청, 위험기상 대응 업무협약…모금 캠페인도",
+        "url": "https://n.news.naver.com/mnews/article/001/0016176266",
+        "press": "연합뉴스",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -165,8 +165,8 @@
     },
     {
       "id": "news-20260705-008",
-      "title": "SKT·KT, 퀀텀코리아 2026서 차세대 양자암호 기술 선봬",
-      "summary": "디지털타임스 | IT/과학",
+      "title": "나혼렙·중증외상센터… 베트남서 K웹툰 전시회",
+      "summary": "파이낸셜뉴스 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -176,11 +176,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/029/0003035241",
+      "source_url": "https://n.news.naver.com/mnews/article/014/0005543835",
       "source": {
-        "title": "SKT·KT, 퀀텀코리아 2026서 차세대 양자암호 기술 선봬",
-        "url": "https://n.news.naver.com/mnews/article/029/0003035241",
-        "press": "디지털타임스",
+        "title": "나혼렙·중증외상센터… 베트남서 K웹툰 전시회",
+        "url": "https://n.news.naver.com/mnews/article/014/0005543835",
+        "press": "파이낸셜뉴스",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -189,7 +189,7 @@
     {
       "id": "news-20260705-009",
       "title": "악연에서 절친으로...어느 해커의 '멋진 유산'",
-      "summary": "지디넷코리아 | 49분전 | IT/과학",
+      "summary": "지디넷코리아 | 54분전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -204,7 +204,7 @@
         "title": "악연에서 절친으로...어느 해커의 '멋진 유산'",
         "url": "https://n.news.naver.com/mnews/article/092/0002429316",
         "press": "지디넷코리아",
-        "published_at": "49분전",
+        "published_at": "54분전",
         "source": "naver",
         "category": "IT/과학"
       }
@@ -212,7 +212,7 @@
     {
       "id": "news-20260705-010",
       "title": "이틀 연속 30% 상한가…“삼전닉스 버리고, 샀더니” 믿었던 LG 추락 ‘낭패’",
-      "summary": "헤럴드경제 | 54분전 | IT/과학",
+      "summary": "헤럴드경제 | 59분전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -227,7 +227,7 @@
         "title": "이틀 연속 30% 상한가…“삼전닉스 버리고, 샀더니” 믿었던 LG 추락 ‘낭패’",
         "url": "https://n.news.naver.com/mnews/article/016/0002665893",
         "press": "헤럴드경제",
-        "published_at": "54분전",
+        "published_at": "59분전",
         "source": "naver",
         "category": "IT/과학"
       }
@@ -442,7 +442,7 @@
     {
       "id": "news-20260705-020",
       "title": "\"비용부담 너무 커져\"…'토큰 다이어트' 사활 건 기업들",
-      "summary": "매일경제 | 4시간전 | IT/과학",
+      "summary": "매일경제 | 5시간전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -457,7 +457,7 @@
         "title": "\"비용부담 너무 커져\"…'토큰 다이어트' 사활 건 기업들",
         "url": "https://n.news.naver.com/mnews/article/009/0005702931",
         "press": "매일경제",
-        "published_at": "4시간전",
+        "published_at": "5시간전",
         "source": "naver",
         "category": "IT/과학"
       }
