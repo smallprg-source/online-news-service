@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-07-05T21:10:03+09:00",
+  "updated": "2026-07-05T21:15:03+09:00",
   "items": [
     {
       "id": "news-20260705-001",
-      "title": "\"해외 100개국서 통화료 부담 없이\"…LGU+, '익시오 로밍콜' 출시",
-      "summary": "뉴시스 | IT/과학",
+      "title": "하정우 \"토큰경제 실현돼야 AI 시대 새 성장동력 현실화\"",
+      "summary": "뉴스1 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -15,11 +15,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/003/0014046719",
+      "source_url": "https://n.news.naver.com/mnews/article/421/0009040770",
       "source": {
-        "title": "\"해외 100개국서 통화료 부담 없이\"…LGU+, '익시오 로밍콜' 출시",
-        "url": "https://n.news.naver.com/mnews/article/003/0014046719",
-        "press": "뉴시스",
+        "title": "하정우 \"토큰경제 실현돼야 AI 시대 새 성장동력 현실화\"",
+        "url": "https://n.news.naver.com/mnews/article/421/0009040770",
+        "press": "뉴스1",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -27,8 +27,8 @@
     },
     {
       "id": "news-20260705-002",
-      "title": "차세대중형위성 4호, 7일 발사…농작물·산림 자원 관측",
-      "summary": "뉴스1 | IT/과학",
+      "title": "SKT, 15GW ‘AI 데이터센터’ 짓는다…아시아 허브 정조준",
+      "summary": "뉴시스 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -38,11 +38,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/421/0009041175",
+      "source_url": "https://n.news.naver.com/mnews/article/003/0014046726",
       "source": {
-        "title": "차세대중형위성 4호, 7일 발사…농작물·산림 자원 관측",
-        "url": "https://n.news.naver.com/mnews/article/421/0009041175",
-        "press": "뉴스1",
+        "title": "SKT, 15GW ‘AI 데이터센터’ 짓는다…아시아 허브 정조준",
+        "url": "https://n.news.naver.com/mnews/article/003/0014046726",
+        "press": "뉴시스",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -50,8 +50,8 @@
     },
     {
       "id": "news-20260705-003",
-      "title": "네이버 \"AI탭, 모델 크기보다 실제 서비스 품질이 핵심\"[일문일답]",
-      "summary": "디지털데일리 | IT/과학",
+      "title": "“똑똑하다 했더니 비싼 값 하네”…AI 에이전트, 전력 136배 더 쓴다",
+      "summary": "매일경제 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -61,11 +61,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/138/0002233159",
+      "source_url": "https://n.news.naver.com/mnews/article/009/0005702820",
       "source": {
-        "title": "네이버 \"AI탭, 모델 크기보다 실제 서비스 품질이 핵심\"[일문일답]",
-        "url": "https://n.news.naver.com/mnews/article/138/0002233159",
-        "press": "디지털데일리",
+        "title": "“똑똑하다 했더니 비싼 값 하네”…AI 에이전트, 전력 136배 더 쓴다",
+        "url": "https://n.news.naver.com/mnews/article/009/0005702820",
+        "press": "매일경제",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -73,8 +73,8 @@
     },
     {
       "id": "news-20260705-004",
-      "title": "SKT, 15GW 규모 AI 데이터센터 구축…\"아시아 AI 인프라 허브될 것\"",
-      "summary": "아시아경제 | IT/과학",
+      "title": "농림위성 7일 미국서 발사…\"한반도 관측으로 과학농정 대전환\"",
+      "summary": "뉴스1 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -84,11 +84,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/277/0005785496",
+      "source_url": "https://n.news.naver.com/mnews/article/421/0009041182",
       "source": {
-        "title": "SKT, 15GW 규모 AI 데이터센터 구축…\"아시아 AI 인프라 허브될 것\"",
-        "url": "https://n.news.naver.com/mnews/article/277/0005785496",
-        "press": "아시아경제",
+        "title": "농림위성 7일 미국서 발사…\"한반도 관측으로 과학농정 대전환\"",
+        "url": "https://n.news.naver.com/mnews/article/421/0009041182",
+        "press": "뉴스1",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -96,8 +96,8 @@
     },
     {
       "id": "news-20260705-005",
-      "title": "AI 에이전트 전력 소모, 생성형 AI보다 최대 136배 많다",
-      "summary": "조선비즈 | IT/과학",
+      "title": "로맨스 여주를 국정원 간첩으로?…네이버웹툰, 덕후들 지갑 열 신무기 나왔다[잇:써봐]",
+      "summary": "이데일리 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -107,11 +107,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/366/0001176895",
+      "source_url": "https://n.news.naver.com/mnews/article/018/0006322502",
       "source": {
-        "title": "AI 에이전트 전력 소모, 생성형 AI보다 최대 136배 많다",
-        "url": "https://n.news.naver.com/mnews/article/366/0001176895",
-        "press": "조선비즈",
+        "title": "로맨스 여주를 국정원 간첩으로?…네이버웹툰, 덕후들 지갑 열 신무기 나왔다[잇:써봐]",
+        "url": "https://n.news.naver.com/mnews/article/018/0006322502",
+        "press": "이데일리",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -119,8 +119,8 @@
     },
     {
       "id": "news-20260705-006",
-      "title": "평균 스마트폰 값 ‘역대 최고’ 전망… 범인은 ‘이것’ 때문?",
-      "summary": "국민일보 | IT/과학",
+      "title": "카카오-기상청, 위험기상 대응 업무협약…모금 캠페인도",
+      "summary": "연합뉴스 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -130,11 +130,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/005/0001858998",
+      "source_url": "https://n.news.naver.com/mnews/article/001/0016176266",
       "source": {
-        "title": "평균 스마트폰 값 ‘역대 최고’ 전망… 범인은 ‘이것’ 때문?",
-        "url": "https://n.news.naver.com/mnews/article/005/0001858998",
-        "press": "국민일보",
+        "title": "카카오-기상청, 위험기상 대응 업무협약…모금 캠페인도",
+        "url": "https://n.news.naver.com/mnews/article/001/0016176266",
+        "press": "연합뉴스",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -142,8 +142,8 @@
     },
     {
       "id": "news-20260705-007",
-      "title": "UNIST, 양자융합원 UniQ 공개…“퀀텀 생태계 거점”",
-      "summary": "이데일리 | IT/과학",
+      "title": "'AI 탭'으로 진화한 네이버 검색…\"27년 검색 인프라·데이터 바탕\"",
+      "summary": "뉴스1 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -153,11 +153,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/018/0006322967",
+      "source_url": "https://n.news.naver.com/mnews/article/421/0009040950",
       "source": {
-        "title": "UNIST, 양자융합원 UniQ 공개…“퀀텀 생태계 거점”",
-        "url": "https://n.news.naver.com/mnews/article/018/0006322967",
-        "press": "이데일리",
+        "title": "'AI 탭'으로 진화한 네이버 검색…\"27년 검색 인프라·데이터 바탕\"",
+        "url": "https://n.news.naver.com/mnews/article/421/0009040950",
+        "press": "뉴스1",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -165,8 +165,8 @@
     },
     {
       "id": "news-20260705-008",
-      "title": "폭염경보·열대야주의보 뜨면 이제 ‘카톡왔숑’",
-      "summary": "한겨레 | IT/과학",
+      "title": "UNIST, '퀀텀코리아 2026'서 양자대학원·유니큐 첫 공개",
+      "summary": "더팩트 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -176,11 +176,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/028/0002812683",
+      "source_url": "https://n.news.naver.com/mnews/article/629/0000513203",
       "source": {
-        "title": "폭염경보·열대야주의보 뜨면 이제 ‘카톡왔숑’",
-        "url": "https://n.news.naver.com/mnews/article/028/0002812683",
-        "press": "한겨레",
+        "title": "UNIST, '퀀텀코리아 2026'서 양자대학원·유니큐 첫 공개",
+        "url": "https://n.news.naver.com/mnews/article/629/0000513203",
+        "press": "더팩트",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
