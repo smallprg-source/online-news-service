@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-07-05T23:30:03+09:00",
+  "updated": "2026-07-05T23:35:03+09:00",
   "items": [
     {
       "id": "news-20260705-001",
-      "title": "국내 첫 농림위성 발사 카운트다운…“내년부터 농지조사·생산 예측 본격 활용”",
-      "summary": "KBS | IT/과학",
+      "title": "\"잘 안 터지는 보이스톡 답답해\" 국내번호 그대로 해외 무료통화",
+      "summary": "매일경제 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -15,56 +15,10 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/056/0012211880",
+      "source_url": "https://n.news.naver.com/mnews/article/009/0005702912",
       "source": {
-        "title": "국내 첫 농림위성 발사 카운트다운…“내년부터 농지조사·생산 예측 본격 활용”",
-        "url": "https://n.news.naver.com/mnews/article/056/0012211880",
-        "press": "KBS",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-002",
-      "title": "네이버 AI검색, 환각 30%P 줄이고 비용도 3분의 1로 절감",
-      "summary": "서울경제 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 98,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/011/0004638300",
-      "source": {
-        "title": "네이버 AI검색, 환각 30%P 줄이고 비용도 3분의 1로 절감",
-        "url": "https://n.news.naver.com/mnews/article/011/0004638300",
-        "press": "서울경제",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-003",
-      "title": "네카오·구글 \"딥페이크 엄단·허위정보 차단 총력\"",
-      "summary": "매일경제 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 97,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/009/0005702911",
-      "source": {
-        "title": "네카오·구글 \"딥페이크 엄단·허위정보 차단 총력\"",
-        "url": "https://n.news.naver.com/mnews/article/009/0005702911",
+        "title": "\"잘 안 터지는 보이스톡 답답해\" 국내번호 그대로 해외 무료통화",
+        "url": "https://n.news.naver.com/mnews/article/009/0005702912",
         "press": "매일경제",
         "published_at": "",
         "source": "naver",
@@ -72,105 +26,13 @@
       }
     },
     {
-      "id": "news-20260705-004",
-      "title": "‘폭염 특보’ 뜨면 카톡으로 알린다",
-      "summary": "서울경제 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 96,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/011/0004638291",
-      "source": {
-        "title": "‘폭염 특보’ 뜨면 카톡으로 알린다",
-        "url": "https://n.news.naver.com/mnews/article/011/0004638291",
-        "press": "서울경제",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-005",
-      "title": "SKT·KT, 퀀텀코리아 2026서 차세대 양자암호 기술 선봬",
-      "summary": "디지털타임스 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 95,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/029/0003035241",
-      "source": {
-        "title": "SKT·KT, 퀀텀코리아 2026서 차세대 양자암호 기술 선봬",
-        "url": "https://n.news.naver.com/mnews/article/029/0003035241",
-        "press": "디지털타임스",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-006",
-      "title": "AI 토큰 지출 20% 감소…‘투자수익률(ROI) 시대’가 왔다",
-      "summary": "이데일리 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 94,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/018/0006323037",
-      "source": {
-        "title": "AI 토큰 지출 20% 감소…‘투자수익률(ROI) 시대’가 왔다",
-        "url": "https://n.news.naver.com/mnews/article/018/0006323037",
-        "press": "이데일리",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-007",
-      "title": "나혼렙·중증외상센터… 베트남서 K웹툰 전시회",
-      "summary": "파이낸셜뉴스 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 93,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/014/0005543835",
-      "source": {
-        "title": "나혼렙·중증외상센터… 베트남서 K웹툰 전시회",
-        "url": "https://n.news.naver.com/mnews/article/014/0005543835",
-        "press": "파이낸셜뉴스",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-008",
+      "id": "news-20260705-002",
       "title": "똑똑한 AI의 대가…질문 한 번에 전기 136배 더 먹는다",
       "summary": "KBS | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
-      "priority": 92,
+      "priority": 98,
       "start": "2026-07-05",
       "end": "2026-07-06",
       "target": [
@@ -181,6 +43,144 @@
         "title": "똑똑한 AI의 대가…질문 한 번에 전기 136배 더 먹는다",
         "url": "https://n.news.naver.com/mnews/article/056/0012211876",
         "press": "KBS",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-003",
+      "title": "'상상력 화수분' K-웹툰, 글로벌 OTT 흥행 보증 수표된 3가지 이유[웹툰 원작 전성시대②]",
+      "summary": "뉴시스 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 97,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/003/0014046363",
+      "source": {
+        "title": "'상상력 화수분' K-웹툰, 글로벌 OTT 흥행 보증 수표된 3가지 이유[웹툰 원작 전성시대②]",
+        "url": "https://n.news.naver.com/mnews/article/003/0014046363",
+        "press": "뉴시스",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-004",
+      "title": "네이버 \"AI탭, 모델 크기보다 실제 서비스 품질이 핵심\"[일문일답]",
+      "summary": "디지털데일리 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 96,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/138/0002233159",
+      "source": {
+        "title": "네이버 \"AI탭, 모델 크기보다 실제 서비스 품질이 핵심\"[일문일답]",
+        "url": "https://n.news.naver.com/mnews/article/138/0002233159",
+        "press": "디지털데일리",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-005",
+      "title": "전국 3일마다 촬영한다…차세대중형위성 4호, 7일 美서 발사",
+      "summary": "아시아경제 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 95,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/277/0005785540",
+      "source": {
+        "title": "전국 3일마다 촬영한다…차세대중형위성 4호, 7일 美서 발사",
+        "url": "https://n.news.naver.com/mnews/article/277/0005785540",
+        "press": "아시아경제",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-006",
+      "title": "'개정 정보통신망법' 시행 코앞...논란 속 쟁점은?",
+      "summary": "YTN | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 94,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/052/0002375038",
+      "source": {
+        "title": "'개정 정보통신망법' 시행 코앞...논란 속 쟁점은?",
+        "url": "https://n.news.naver.com/mnews/article/052/0002375038",
+        "press": "YTN",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-007",
+      "title": "카카오-기상청, 기후변화에 따른 폭염 등 위험기상 대응을 위한 업무협약 체결",
+      "summary": "TV조선 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 93,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/448/0000624410",
+      "source": {
+        "title": "카카오-기상청, 기후변화에 따른 폭염 등 위험기상 대응을 위한 업무협약 체결",
+        "url": "https://n.news.naver.com/mnews/article/448/0000624410",
+        "press": "TV조선",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-008",
+      "title": "SKT 최대 15GW AIDC 구축 추진…풀스택 AI 인프라 역량 결집",
+      "summary": "블로터 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 92,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/293/0000087224",
+      "source": {
+        "title": "SKT 최대 15GW AIDC 구축 추진…풀스택 AI 인프라 역량 결집",
+        "url": "https://n.news.naver.com/mnews/article/293/0000087224",
+        "press": "블로터",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -258,7 +258,7 @@
     {
       "id": "news-20260705-012",
       "title": "TV조선 재승인 재판 4년째… ‘행정 관행’과 ‘조직적 범죄’ 사이",
-      "summary": "이데일리 | 4시간전 | IT/과학",
+      "summary": "이데일리 | 5시간전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -273,7 +273,7 @@
         "title": "TV조선 재승인 재판 4년째… ‘행정 관행’과 ‘조직적 범죄’ 사이",
         "url": "https://n.news.naver.com/mnews/article/018/0006323235",
         "press": "이데일리",
-        "published_at": "4시간전",
+        "published_at": "5시간전",
         "source": "naver",
         "category": "IT/과학"
       }
@@ -281,7 +281,7 @@
     {
       "id": "news-20260705-013",
       "title": "비만약 맞은 美여성, 결혼·취업률 높아졌다",
-      "summary": "한국경제 | 4시간전 | IT/과학",
+      "summary": "한국경제 | 5시간전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -296,7 +296,7 @@
         "title": "비만약 맞은 美여성, 결혼·취업률 높아졌다",
         "url": "https://n.news.naver.com/mnews/article/015/0005306399",
         "press": "한국경제",
-        "published_at": "4시간전",
+        "published_at": "5시간전",
         "source": "naver",
         "category": "IT/과학"
       }
