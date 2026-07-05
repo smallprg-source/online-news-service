@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-07-05T21:35:03+09:00",
+  "updated": "2026-07-05T21:40:03+09:00",
   "items": [
     {
       "id": "news-20260705-001",
-      "title": "\"좋은 LLM만으로는\"…네이버 AI탭, '하네스 엔지니어링'으로 승부수",
-      "summary": "디지털데일리 | IT/과학",
+      "title": "국산 핵심 기술 담은 차세대중형위성 4호, 7일 오후 4시 발사한다",
+      "summary": "머니투데이 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -15,11 +15,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/138/0002233152",
+      "source_url": "https://n.news.naver.com/mnews/article/008/0005381563",
       "source": {
-        "title": "\"좋은 LLM만으로는\"…네이버 AI탭, '하네스 엔지니어링'으로 승부수",
-        "url": "https://n.news.naver.com/mnews/article/138/0002233152",
-        "press": "디지털데일리",
+        "title": "국산 핵심 기술 담은 차세대중형위성 4호, 7일 오후 4시 발사한다",
+        "url": "https://n.news.naver.com/mnews/article/008/0005381563",
+        "press": "머니투데이",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -27,8 +27,8 @@
     },
     {
       "id": "news-20260705-002",
-      "title": "\"LG유플러스 로밍하면 국제전화 공짜\"…'로밍콜' 100개국 확대",
-      "summary": "머니투데이 | IT/과학",
+      "title": "로맨스 여주를 국정원 간첩으로?…네이버웹툰, 덕후들 지갑 열 신무기 나왔다[잇:써봐]",
+      "summary": "이데일리 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -38,11 +38,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/008/0005381489",
+      "source_url": "https://n.news.naver.com/mnews/article/018/0006322502",
       "source": {
-        "title": "\"LG유플러스 로밍하면 국제전화 공짜\"…'로밍콜' 100개국 확대",
-        "url": "https://n.news.naver.com/mnews/article/008/0005381489",
-        "press": "머니투데이",
+        "title": "로맨스 여주를 국정원 간첩으로?…네이버웹툰, 덕후들 지갑 열 신무기 나왔다[잇:써봐]",
+        "url": "https://n.news.naver.com/mnews/article/018/0006322502",
+        "press": "이데일리",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -50,8 +50,8 @@
     },
     {
       "id": "news-20260705-003",
-      "title": "나혼렙·중증외상센터… 베트남서 K웹툰 전시회",
-      "summary": "파이낸셜뉴스 | IT/과학",
+      "title": "SKT·KT, 퀀텀코리아 2026서 차세대 양자암호 기술 선봬",
+      "summary": "디지털타임스 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -61,11 +61,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/014/0005543835",
+      "source_url": "https://n.news.naver.com/mnews/article/029/0003035241",
       "source": {
-        "title": "나혼렙·중증외상센터… 베트남서 K웹툰 전시회",
-        "url": "https://n.news.naver.com/mnews/article/014/0005543835",
-        "press": "파이낸셜뉴스",
+        "title": "SKT·KT, 퀀텀코리아 2026서 차세대 양자암호 기술 선봬",
+        "url": "https://n.news.naver.com/mnews/article/029/0003035241",
+        "press": "디지털타임스",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -73,8 +73,8 @@
     },
     {
       "id": "news-20260705-004",
-      "title": "전국 3일마다 촬영한다…차세대중형위성 4호, 7일 美서 발사",
-      "summary": "아시아경제 | IT/과학",
+      "title": "‘1000조’ 투입 15GW AI DC 대역사 추진…SKT, 亞 AI 인프라 허브 ‘도약’",
+      "summary": "헤럴드경제 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -84,11 +84,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/277/0005785540",
+      "source_url": "https://n.news.naver.com/mnews/article/016/0002665764",
       "source": {
-        "title": "전국 3일마다 촬영한다…차세대중형위성 4호, 7일 美서 발사",
-        "url": "https://n.news.naver.com/mnews/article/277/0005785540",
-        "press": "아시아경제",
+        "title": "‘1000조’ 투입 15GW AI DC 대역사 추진…SKT, 亞 AI 인프라 허브 ‘도약’",
+        "url": "https://n.news.naver.com/mnews/article/016/0002665764",
+        "press": "헤럴드경제",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -96,8 +96,8 @@
     },
     {
       "id": "news-20260705-005",
-      "title": "카카오-기상청, 위험기상 대응 업무협약…모금 캠페인도",
-      "summary": "연합뉴스 | IT/과학",
+      "title": "'식당 예약까지 제안'…검색 넘어선 네이버 AI탭",
+      "summary": "비즈워치 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -107,11 +107,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/001/0016176266",
+      "source_url": "https://n.news.naver.com/mnews/article/648/0000048627",
       "source": {
-        "title": "카카오-기상청, 위험기상 대응 업무협약…모금 캠페인도",
-        "url": "https://n.news.naver.com/mnews/article/001/0016176266",
-        "press": "연합뉴스",
+        "title": "'식당 예약까지 제안'…검색 넘어선 네이버 AI탭",
+        "url": "https://n.news.naver.com/mnews/article/648/0000048627",
+        "press": "비즈워치",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -119,8 +119,8 @@
     },
     {
       "id": "news-20260705-006",
-      "title": "알고 봤더니 AI에이전트, ‘전력 먹는 하마’…생성형 AI보다 137배 더 소모",
-      "summary": "디지털타임스 | IT/과학",
+      "title": "“챗GPT보다 전력소모 136.5배↑”…KAIST, AI 에이전트 ‘숨은 전력 비용’ 첫 규명",
+      "summary": "헤럴드경제 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -130,11 +130,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/029/0003035306",
+      "source_url": "https://n.news.naver.com/mnews/article/016/0002665824",
       "source": {
-        "title": "알고 봤더니 AI에이전트, ‘전력 먹는 하마’…생성형 AI보다 137배 더 소모",
-        "url": "https://n.news.naver.com/mnews/article/029/0003035306",
-        "press": "디지털타임스",
+        "title": "“챗GPT보다 전력소모 136.5배↑”…KAIST, AI 에이전트 ‘숨은 전력 비용’ 첫 규명",
+        "url": "https://n.news.naver.com/mnews/article/016/0002665824",
+        "press": "헤럴드경제",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -142,8 +142,8 @@
     },
     {
       "id": "news-20260705-007",
-      "title": "삼성전자 작년 정보보호 투자 4천억 넘겨…전자 관계사들도 증액",
-      "summary": "연합뉴스 | IT/과학",
+      "title": "LG U+, 일본에 '익시오 로밍콜' 출시…연내 100여개국으로 확대",
+      "summary": "파이낸셜뉴스 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -153,11 +153,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/001/0016176112",
+      "source_url": "https://n.news.naver.com/mnews/article/014/0005543685",
       "source": {
-        "title": "삼성전자 작년 정보보호 투자 4천억 넘겨…전자 관계사들도 증액",
-        "url": "https://n.news.naver.com/mnews/article/001/0016176112",
-        "press": "연합뉴스",
+        "title": "LG U+, 일본에 '익시오 로밍콜' 출시…연내 100여개국으로 확대",
+        "url": "https://n.news.naver.com/mnews/article/014/0005543685",
+        "press": "파이낸셜뉴스",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -165,8 +165,8 @@
     },
     {
       "id": "news-20260705-008",
-      "title": "SKT, 전국 15GW 규모 AI 데이터센터 구축…\"아시아 AI 인프라 허브로\"",
-      "summary": "머니투데이 | IT/과학",
+      "title": "카카오-기상청, 폭염 등 위험기상 대응 힘 모은다",
+      "summary": "지디넷코리아 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -176,11 +176,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/008/0005381487",
+      "source_url": "https://n.news.naver.com/mnews/article/092/0002429293",
       "source": {
-        "title": "SKT, 전국 15GW 규모 AI 데이터센터 구축…\"아시아 AI 인프라 허브로\"",
-        "url": "https://n.news.naver.com/mnews/article/008/0005381487",
-        "press": "머니투데이",
+        "title": "카카오-기상청, 폭염 등 위험기상 대응 힘 모은다",
+        "url": "https://n.news.naver.com/mnews/article/092/0002429293",
+        "press": "지디넷코리아",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -396,7 +396,7 @@
     {
       "id": "news-20260705-018",
       "title": "\"비용부담 너무 커져\"…'토큰 다이어트' 사활 건 기업들",
-      "summary": "매일경제 | 3시간전 | IT/과학",
+      "summary": "매일경제 | 4시간전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -411,7 +411,7 @@
         "title": "\"비용부담 너무 커져\"…'토큰 다이어트' 사활 건 기업들",
         "url": "https://n.news.naver.com/mnews/article/009/0005702931",
         "press": "매일경제",
-        "published_at": "3시간전",
+        "published_at": "4시간전",
         "source": "naver",
         "category": "IT/과학"
       }
@@ -419,7 +419,7 @@
     {
       "id": "news-20260705-019",
       "title": "SKT, 1000조 AI 데이터센터 '속도전'",
-      "summary": "한국경제 | 3시간전 | IT/과학",
+      "summary": "한국경제 | 4시간전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -434,7 +434,7 @@
         "title": "SKT, 1000조 AI 데이터센터 '속도전'",
         "url": "https://n.news.naver.com/mnews/article/015/0005306350",
         "press": "한국경제",
-        "published_at": "3시간전",
+        "published_at": "4시간전",
         "source": "naver",
         "category": "IT/과학"
       }
