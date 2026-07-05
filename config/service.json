@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "service": "Online News Service",
+  "updated": "2026-07-05T17:00:00+09:00",
+  "refresh_minutes": 60,
+  "paths": {
+    "news": "../news/latest.json",
+    "notice": "../notice/latest.json",
+    "event": "../event/latest.json",
+    "tips": "../tips/latest.json",
+    "ads": "../ads/latest.json"
+  }
+}

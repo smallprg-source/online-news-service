@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "updated": "2026-07-05T17:00:00+09:00",
+  "items": [
+    {
+      "id": "event-20260705-001",
+      "title": "PhotoBoard 전용 이벤트",
+      "summary": "PhotoBoard 사용자에게만 표시되는 이벤트 예시입니다.",
+      "url": "",
+      "icon": "event",
+      "type": "event",
+      "priority": 30,
+      "start": "2026-07-05",
+      "end": "2026-12-31",
+      "target": ["PhotoBoard"]
+    }
+  ]
+}
