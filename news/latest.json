@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated": "2026-07-05T23:47:12+09:00",
+  "updated": "2026-07-05T23:50:03+09:00",
   "items": [
     {
       "id": "news-20260705-001",
-      "title": "윤상현 의원은 재검표 일정은 여야 협의로 결정하고, 특검 추천은 야당이 해야 한다고 밝혔습니다.",
-      "summary": "KBS | 정치",
-      "url": "https://blog.naver.com/smallprg/224337344616",
+      "title": "하정우 \"토큰경제 실현돼야 AI 시대 새 성장동력 현실화\"",
+      "summary": "뉴스1 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
       "priority": 99,
@@ -15,22 +15,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/056/0012211912",
+      "source_url": "https://n.news.naver.com/mnews/article/421/0009040770",
       "source": {
-        "title": "윤상현 “투표지 공개 재검표, 여야 협의해 곧 결론…특검 추천은 야당이 해야”",
-        "url": "https://n.news.naver.com/mnews/article/056/0012211912",
-        "press": "KBS",
+        "title": "하정우 \"토큰경제 실현돼야 AI 시대 새 성장동력 현실화\"",
+        "url": "https://n.news.naver.com/mnews/article/421/0009040770",
+        "press": "뉴스1",
         "published_at": "",
         "source": "naver",
-        "category": "정치"
-      },
-      "ai_summary": "윤상현 의원은 재검표 일정은 여야 협의로 결정하고, 특검 추천은 야당이 해야 한다고 밝혔습니다."
+        "category": "IT/과학"
+      }
     },
     {
       "id": "news-20260705-002",
-      "title": "이진숙 방송통신위원장 후보자가 배재고에 응원 화환을 보내며 스타벅스의 5·18 관련 논란에 의문을 제기했습니다.",
-      "summary": "한국일보 | 정치",
-      "url": "https://blog.naver.com/smallprg/224337344616",
+      "title": "“27년 검색 노하우, AI로 이어간다”… 네이버, AI 검색 이끌 핵심 기술 3가지 제시",
+      "summary": "조선비즈 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
       "priority": 98,
@@ -39,22 +38,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/469/0000940505",
+      "source_url": "https://n.news.naver.com/mnews/article/366/0001176812",
       "source": {
-        "title": "이진숙, 배재고에 응원 화환… \"스타벅스가 5·18과 무슨 상관이냐\"",
-        "url": "https://n.news.naver.com/mnews/article/469/0000940505",
-        "press": "한국일보",
+        "title": "“27년 검색 노하우, AI로 이어간다”… 네이버, AI 검색 이끌 핵심 기술 3가지 제시",
+        "url": "https://n.news.naver.com/mnews/article/366/0001176812",
+        "press": "조선비즈",
         "published_at": "",
         "source": "naver",
-        "category": "정치"
-      },
-      "ai_summary": "이진숙 방송통신위원장 후보자가 배재고에 응원 화환을 보내며 스타벅스의 5·18 관련 논란에 의문을 제기했습니다."
+        "category": "IT/과학"
+      }
     },
     {
       "id": "news-20260705-003",
-      "title": "강훈식 의원이 반도체 추가 세수로 미래대응기금을 신설해 미래 산업에 투자하자고 제안했습니다.",
-      "summary": "SBS Biz | 정치",
-      "url": "https://blog.naver.com/smallprg/224337344616",
+      "title": "농림위성 7일 미국서 발사…\"한반도 관측으로 과학농정 대전환\"",
+      "summary": "뉴스1 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
       "priority": 97,
@@ -63,22 +61,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/374/0000519995",
+      "source_url": "https://n.news.naver.com/mnews/article/421/0009041182",
       "source": {
-        "title": "강훈식 \"반도체 추가세수로 미래대응기금 신설…미래위해 투자\"",
-        "url": "https://n.news.naver.com/mnews/article/374/0000519995",
-        "press": "SBS Biz",
+        "title": "농림위성 7일 미국서 발사…\"한반도 관측으로 과학농정 대전환\"",
+        "url": "https://n.news.naver.com/mnews/article/421/0009041182",
+        "press": "뉴스1",
         "published_at": "",
         "source": "naver",
-        "category": "정치"
-      },
-      "ai_summary": "강훈식 의원이 반도체 추가 세수로 미래대응기금을 신설해 미래 산업에 투자하자고 제안했습니다."
+        "category": "IT/과학"
+      }
     },
     {
       "id": "news-20260705-004",
-      "title": "김정은 위원장이 구축함 무기시험을 참관하며 2개월 내 취역을 지시했습니다.",
-      "summary": "MBC | 정치",
-      "url": "https://blog.naver.com/smallprg/224337344616",
+      "title": "SKT, 70조 투자해 15GW AIDC 구축…\"아시아 AI 허브 목표\"",
+      "summary": "데일리안 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
       "priority": 96,
@@ -87,22 +84,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/214/0001509628",
+      "source_url": "https://n.news.naver.com/mnews/article/119/0003107998",
       "source": {
-        "title": "김정은, 구축함 무기시험 참관‥\"2개월 내 취역\" 지시",
-        "url": "https://n.news.naver.com/mnews/article/214/0001509628",
-        "press": "MBC",
+        "title": "SKT, 70조 투자해 15GW AIDC 구축…\"아시아 AI 허브 목표\"",
+        "url": "https://n.news.naver.com/mnews/article/119/0003107998",
+        "press": "데일리안",
         "published_at": "",
         "source": "naver",
-        "category": "정치"
-      },
-      "ai_summary": "김정은 위원장이 구축함 무기시험을 참관하며 2개월 내 취역을 지시했습니다."
+        "category": "IT/과학"
+      }
     },
     {
       "id": "news-20260705-005",
-      "title": "국민의힘은 더불어민주당의 ‘제3자 추천 특검’ 제안을 거부하며 야당 추천 방식이 더 실효성이 있다고 주장했습니다.",
-      "summary": "헤럴드경제 | 정치",
-      "url": "https://blog.naver.com/smallprg/224337344616",
+      "title": "해외서 무료통화...LGU+, '익시오 로밍콜' 내놨다",
+      "summary": "지디넷코리아 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
       "priority": 95,
@@ -111,22 +107,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/016/0002665867",
+      "source_url": "https://n.news.naver.com/mnews/article/092/0002429276",
       "source": {
-        "title": "국힘, 민주 ‘제3자 추천 특검’ 일축…“야당 추천이 실효성”",
-        "url": "https://n.news.naver.com/mnews/article/016/0002665867",
-        "press": "헤럴드경제",
+        "title": "해외서 무료통화...LGU+, '익시오 로밍콜' 내놨다",
+        "url": "https://n.news.naver.com/mnews/article/092/0002429276",
+        "press": "지디넷코리아",
         "published_at": "",
         "source": "naver",
-        "category": "정치"
-      },
-      "ai_summary": "국민의힘은 더불어민주당의 ‘제3자 추천 특검’ 제안을 거부하며 야당 추천 방식이 더 실효성이 있다고 주장했습니다."
+        "category": "IT/과학"
+      }
     },
     {
       "id": "news-20260705-006",
-      "title": "청와대가 5·18 민주화운동을 성역이라 표현한 이병태 의원에게 부적절한 처신이라며 엄중 경고했습니다.",
-      "summary": "MBC | 정치",
-      "url": "https://blog.naver.com/smallprg/224337344616",
+      "title": "폭염·지진 정보, 카카오톡으로 더 빠르게 알린다",
+      "summary": "파이낸셜뉴스 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
       "priority": 94,
@@ -135,22 +130,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/214/0001509587",
+      "source_url": "https://n.news.naver.com/mnews/article/014/0005543714",
       "source": {
-        "title": "청와대, '5·18이 성역인가' 이병태에 엄중 경고‥\"부적절한 처신\"",
-        "url": "https://n.news.naver.com/mnews/article/214/0001509587",
-        "press": "MBC",
+        "title": "폭염·지진 정보, 카카오톡으로 더 빠르게 알린다",
+        "url": "https://n.news.naver.com/mnews/article/014/0005543714",
+        "press": "파이낸셜뉴스",
         "published_at": "",
         "source": "naver",
-        "category": "정치"
-      },
-      "ai_summary": "청와대가 5·18 민주화운동을 성역이라 표현한 이병태 의원에게 부적절한 처신이라며 엄중 경고했습니다."
+        "category": "IT/과학"
+      }
     },
     {
       "id": "news-20260705-007",
-      "title": "이 대통령은 3대 프로젝트가 정치적 수단이라는 주장을 부인하며, 취임 전부터 계획한 국토 대전환임을 강조했습니다.",
-      "summary": "국민일보 | 정치",
-      "url": "https://blog.naver.com/smallprg/224337344616",
+      "title": "UNIST, 양자융합원 UniQ 공개…“퀀텀 생태계 거점”",
+      "summary": "이데일리 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
       "priority": 93,
@@ -159,22 +153,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/005/0001858886",
+      "source_url": "https://n.news.naver.com/mnews/article/018/0006322967",
       "source": {
-        "title": "이 대통령 3대 프로젝트 ‘정치적 수단’ 일축…“취임 전부터 꿈꿔온 국토 대전환”",
-        "url": "https://n.news.naver.com/mnews/article/005/0001858886",
-        "press": "국민일보",
+        "title": "UNIST, 양자융합원 UniQ 공개…“퀀텀 생태계 거점”",
+        "url": "https://n.news.naver.com/mnews/article/018/0006322967",
+        "press": "이데일리",
         "published_at": "",
         "source": "naver",
-        "category": "정치"
-      },
-      "ai_summary": "이 대통령은 3대 프로젝트가 정치적 수단이라는 주장을 부인하며, 취임 전부터 계획한 국토 대전환임을 강조했습니다."
+        "category": "IT/과학"
+      }
     },
     {
       "id": "news-20260705-008",
-      "title": "채현일 전 대변인이 이상호 전 의원의 발언을 두고 '자당착'이라며 비판했습니다.",
-      "summary": "뉴스1 | 정치",
-      "url": "https://blog.naver.com/smallprg/224337344616",
+      "title": "AI 비서에게 일 맡겼더니 챗봇보다 전기 137배 썼다",
+      "summary": "조선일보 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
       "priority": 92,
@@ -183,22 +176,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/421/0009041577",
+      "source_url": "https://n.news.naver.com/mnews/article/023/0003985791",
       "source": {
-        "title": "채현일, '미키루크' 이상호에 \"DJ 정치까지 부정하는 자가당착\"",
-        "url": "https://n.news.naver.com/mnews/article/421/0009041577",
-        "press": "뉴스1",
+        "title": "AI 비서에게 일 맡겼더니 챗봇보다 전기 137배 썼다",
+        "url": "https://n.news.naver.com/mnews/article/023/0003985791",
+        "press": "조선일보",
         "published_at": "",
         "source": "naver",
-        "category": "정치"
-      },
-      "ai_summary": "채현일 전 대변인이 이상호 전 의원의 발언을 두고 '자당착'이라며 비판했습니다."
+        "category": "IT/과학"
+      }
     },
     {
       "id": "news-20260705-009",
-      "title": "정청래·김민석 의원이 호남 지역에서 당원들의 표심을 잡기 위해 치열한 경쟁을 벌이고 있습니다.",
-      "summary": "JTBC | 정치",
-      "url": "https://blog.naver.com/smallprg/224337344616",
+      "title": "악연에서 절친으로...어느 해커의 '멋진 유산'",
+      "summary": "지디넷코리아 | 2시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
       "priority": 91,
@@ -207,22 +199,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/437/0000499503",
+      "source_url": "https://n.news.naver.com/mnews/article/092/0002429316",
       "source": {
-        "title": "정청래·김민석, 호남서 당심 경쟁…주말에도 표심 공략",
-        "url": "https://n.news.naver.com/mnews/article/437/0000499503",
-        "press": "JTBC",
-        "published_at": "",
+        "title": "악연에서 절친으로...어느 해커의 '멋진 유산'",
+        "url": "https://n.news.naver.com/mnews/article/092/0002429316",
+        "press": "지디넷코리아",
+        "published_at": "2시간전",
         "source": "naver",
-        "category": "정치"
-      },
-      "ai_summary": "정청래·김민석 의원이 호남 지역에서 당원들의 표심을 잡기 위해 치열한 경쟁을 벌이고 있습니다."
+        "category": "IT/과학"
+      }
     },
     {
       "id": "news-20260705-010",
-      "title": "사관학교 통합 추진에 따른 군 경쟁력 약화 우려와 비판 지점을 분석한 내용입니다.",
-      "summary": "경향신문 | 정치",
-      "url": "https://blog.naver.com/smallprg/224337344616",
+      "title": "이틀 연속 30% 상한가…“삼전닉스 버리고, 샀더니” 믿었던 LG 추락 ‘낭패’",
+      "summary": "헤럴드경제 | 2시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
       "priority": 90,
@@ -231,16 +222,245 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/032/0003456138",
+      "source_url": "https://n.news.naver.com/mnews/article/016/0002665893",
       "source": {
-        "title": "사관학교 통합, 정말 ‘군 경쟁력 약화’로 이어질까… 비판 지점 살펴보니",
-        "url": "https://n.news.naver.com/mnews/article/032/0003456138",
-        "press": "경향신문",
-        "published_at": "",
+        "title": "이틀 연속 30% 상한가…“삼전닉스 버리고, 샀더니” 믿었던 LG 추락 ‘낭패’",
+        "url": "https://n.news.naver.com/mnews/article/016/0002665893",
+        "press": "헤럴드경제",
+        "published_at": "2시간전",
         "source": "naver",
-        "category": "정치"
-      },
-      "ai_summary": "사관학교 통합 추진에 따른 군 경쟁력 약화 우려와 비판 지점을 분석한 내용입니다."
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-011",
+      "title": "“억지 코믹 대사” “너무 올드한 개그” 쏟아지는 혹평에도 1위 알고보니…넷플릭스 알고리즘 힘",
+      "summary": "헤럴드경제 | 4시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 89,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/016/0002665883",
+      "source": {
+        "title": "“억지 코믹 대사” “너무 올드한 개그” 쏟아지는 혹평에도 1위 알고보니…넷플릭스 알고리즘 힘",
+        "url": "https://n.news.naver.com/mnews/article/016/0002665883",
+        "press": "헤럴드경제",
+        "published_at": "4시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-012",
+      "title": "TV조선 재승인 재판 4년째… ‘행정 관행’과 ‘조직적 범죄’ 사이",
+      "summary": "이데일리 | 5시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 88,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/018/0006323235",
+      "source": {
+        "title": "TV조선 재승인 재판 4년째… ‘행정 관행’과 ‘조직적 범죄’ 사이",
+        "url": "https://n.news.naver.com/mnews/article/018/0006323235",
+        "press": "이데일리",
+        "published_at": "5시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-013",
+      "title": "비만약 맞은 美여성, 결혼·취업률 높아졌다",
+      "summary": "한국경제 | 5시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 87,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/015/0005306399",
+      "source": {
+        "title": "비만약 맞은 美여성, 결혼·취업률 높아졌다",
+        "url": "https://n.news.naver.com/mnews/article/015/0005306399",
+        "press": "한국경제",
+        "published_at": "5시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-014",
+      "title": "SKT, 15GW 초대형 AI데이터센터 구축… 亞 허브 노린다",
+      "summary": "파이낸셜뉴스 | 5시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 86,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/014/0005543857",
+      "source": {
+        "title": "SKT, 15GW 초대형 AI데이터센터 구축… 亞 허브 노린다",
+        "url": "https://n.news.naver.com/mnews/article/014/0005543857",
+        "press": "파이낸셜뉴스",
+        "published_at": "5시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-015",
+      "title": "美·EU, 로봇 보안 강화하는데…인력도 대책도 없는 韓",
+      "summary": "서울경제 | 5시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 85,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/011/0004638289",
+      "source": {
+        "title": "美·EU, 로봇 보안 강화하는데…인력도 대책도 없는 韓",
+        "url": "https://n.news.naver.com/mnews/article/011/0004638289",
+        "press": "서울경제",
+        "published_at": "5시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-016",
+      "title": "“갤럭시 만들었는데, 빌어먹을” 노래까지 나온 성과급 갈등",
+      "summary": "조선일보 | 5시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 84,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/023/0003985809",
+      "source": {
+        "title": "“갤럭시 만들었는데, 빌어먹을” 노래까지 나온 성과급 갈등",
+        "url": "https://n.news.naver.com/mnews/article/023/0003985809",
+        "press": "조선일보",
+        "published_at": "5시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-017",
+      "title": "30분 넘게 앉아 있지 마세요…암 사망 위험 높아져",
+      "summary": "조선일보 | 5시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 83,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/023/0003985808",
+      "source": {
+        "title": "30분 넘게 앉아 있지 마세요…암 사망 위험 높아져",
+        "url": "https://n.news.naver.com/mnews/article/023/0003985808",
+        "press": "조선일보",
+        "published_at": "5시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-018",
+      "title": "새 최대주주 맞는 위메이드, '나이트크로우' 中 판호 획득에 사업 탄력",
+      "summary": "블로터 | 5시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 82,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/293/0000087238",
+      "source": {
+        "title": "새 최대주주 맞는 위메이드, '나이트크로우' 中 판호 획득에 사업 탄력",
+        "url": "https://n.news.naver.com/mnews/article/293/0000087238",
+        "press": "블로터",
+        "published_at": "5시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-019",
+      "title": "“사람이 죽고 있다” 절규해도 외면한 정치인들…전 세계의 약속, 10년도 안 돼 ‘파국’으로 [지구, 뭐래?]",
+      "summary": "헤럴드경제 | 6시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 81,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/016/0002665870",
+      "source": {
+        "title": "“사람이 죽고 있다” 절규해도 외면한 정치인들…전 세계의 약속, 10년도 안 돼 ‘파국’으로 [지구, 뭐래?]",
+        "url": "https://n.news.naver.com/mnews/article/016/0002665870",
+        "press": "헤럴드경제",
+        "published_at": "6시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-020",
+      "title": "\"비용부담 너무 커져\"…'토큰 다이어트' 사활 건 기업들",
+      "summary": "매일경제 | 6시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 80,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/009/0005702931",
+      "source": {
+        "title": "\"비용부담 너무 커져\"…'토큰 다이어트' 사활 건 기업들",
+        "url": "https://n.news.naver.com/mnews/article/009/0005702931",
+        "press": "매일경제",
+        "published_at": "6시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      }
     }
   ]
 }
