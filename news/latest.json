@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-07-05T21:05:03+09:00",
+  "updated": "2026-07-05T21:10:03+09:00",
   "items": [
     {
       "id": "news-20260705-001",
-      "title": "\"잘 안 터지는 보이스톡 답답해\" 국내번호 그대로 해외 무료통화",
-      "summary": "매일경제 | IT/과학",
+      "title": "\"해외 100개국서 통화료 부담 없이\"…LGU+, '익시오 로밍콜' 출시",
+      "summary": "뉴시스 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -15,11 +15,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/009/0005702912",
+      "source_url": "https://n.news.naver.com/mnews/article/003/0014046719",
       "source": {
-        "title": "\"잘 안 터지는 보이스톡 답답해\" 국내번호 그대로 해외 무료통화",
-        "url": "https://n.news.naver.com/mnews/article/009/0005702912",
-        "press": "매일경제",
+        "title": "\"해외 100개국서 통화료 부담 없이\"…LGU+, '익시오 로밍콜' 출시",
+        "url": "https://n.news.naver.com/mnews/article/003/0014046719",
+        "press": "뉴시스",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -27,8 +27,8 @@
     },
     {
       "id": "news-20260705-002",
-      "title": "스스로 생각·행동 'AI 에이전트', 기존 AI보다 전력 136배 사용",
-      "summary": "연합뉴스 | IT/과학",
+      "title": "차세대중형위성 4호, 7일 발사…농작물·산림 자원 관측",
+      "summary": "뉴스1 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -38,11 +38,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/001/0016176488",
+      "source_url": "https://n.news.naver.com/mnews/article/421/0009041175",
       "source": {
-        "title": "스스로 생각·행동 'AI 에이전트', 기존 AI보다 전력 136배 사용",
-        "url": "https://n.news.naver.com/mnews/article/001/0016176488",
-        "press": "연합뉴스",
+        "title": "차세대중형위성 4호, 7일 발사…농작물·산림 자원 관측",
+        "url": "https://n.news.naver.com/mnews/article/421/0009041175",
+        "press": "뉴스1",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -50,7 +50,7 @@
     },
     {
       "id": "news-20260705-003",
-      "title": "단순비용일까 전략투자일까…기업들의 R&D 셈법 변화 주목[AI 토큰 청구서④]",
+      "title": "네이버 \"AI탭, 모델 크기보다 실제 서비스 품질이 핵심\"[일문일답]",
       "summary": "디지털데일리 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
@@ -61,10 +61,10 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/138/0002233155",
+      "source_url": "https://n.news.naver.com/mnews/article/138/0002233159",
       "source": {
-        "title": "단순비용일까 전략투자일까…기업들의 R&D 셈법 변화 주목[AI 토큰 청구서④]",
-        "url": "https://n.news.naver.com/mnews/article/138/0002233155",
+        "title": "네이버 \"AI탭, 모델 크기보다 실제 서비스 품질이 핵심\"[일문일답]",
+        "url": "https://n.news.naver.com/mnews/article/138/0002233159",
         "press": "디지털데일리",
         "published_at": "",
         "source": "naver",
@@ -73,8 +73,8 @@
     },
     {
       "id": "news-20260705-004",
-      "title": "국산 핵심 기술 담은 차세대중형위성 4호, 7일 오후 4시 발사한다",
-      "summary": "머니투데이 | IT/과학",
+      "title": "SKT, 15GW 규모 AI 데이터센터 구축…\"아시아 AI 인프라 허브될 것\"",
+      "summary": "아시아경제 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -84,11 +84,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/008/0005381563",
+      "source_url": "https://n.news.naver.com/mnews/article/277/0005785496",
       "source": {
-        "title": "국산 핵심 기술 담은 차세대중형위성 4호, 7일 오후 4시 발사한다",
-        "url": "https://n.news.naver.com/mnews/article/008/0005381563",
-        "press": "머니투데이",
+        "title": "SKT, 15GW 규모 AI 데이터센터 구축…\"아시아 AI 인프라 허브될 것\"",
+        "url": "https://n.news.naver.com/mnews/article/277/0005785496",
+        "press": "아시아경제",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -96,8 +96,8 @@
     },
     {
       "id": "news-20260705-005",
-      "title": "빨라진 양자컴퓨팅 시계…“韓 금융권 PQC 전환 서둘러야”",
-      "summary": "전자신문 | IT/과학",
+      "title": "AI 에이전트 전력 소모, 생성형 AI보다 최대 136배 많다",
+      "summary": "조선비즈 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -107,11 +107,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/030/0003444504",
+      "source_url": "https://n.news.naver.com/mnews/article/366/0001176895",
       "source": {
-        "title": "빨라진 양자컴퓨팅 시계…“韓 금융권 PQC 전환 서둘러야”",
-        "url": "https://n.news.naver.com/mnews/article/030/0003444504",
-        "press": "전자신문",
+        "title": "AI 에이전트 전력 소모, 생성형 AI보다 최대 136배 많다",
+        "url": "https://n.news.naver.com/mnews/article/366/0001176895",
+        "press": "조선비즈",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -119,8 +119,8 @@
     },
     {
       "id": "news-20260705-006",
-      "title": "네이버, AI 검색 승부수 ‘그린닷’ 채운 AI탭 기술 공개…속도 2배 높이고 비용 3배 낮췄다",
-      "summary": "세계일보 | IT/과학",
+      "title": "평균 스마트폰 값 ‘역대 최고’ 전망… 범인은 ‘이것’ 때문?",
+      "summary": "국민일보 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -130,11 +130,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/022/0004140598",
+      "source_url": "https://n.news.naver.com/mnews/article/005/0001858998",
       "source": {
-        "title": "네이버, AI 검색 승부수 ‘그린닷’ 채운 AI탭 기술 공개…속도 2배 높이고 비용 3배 낮췄다",
-        "url": "https://n.news.naver.com/mnews/article/022/0004140598",
-        "press": "세계일보",
+        "title": "평균 스마트폰 값 ‘역대 최고’ 전망… 범인은 ‘이것’ 때문?",
+        "url": "https://n.news.naver.com/mnews/article/005/0001858998",
+        "press": "국민일보",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -142,8 +142,8 @@
     },
     {
       "id": "news-20260705-007",
-      "title": "삼성전자, 작년 정보보호 투자 4121억…공시 이후 최대",
-      "summary": "아이뉴스24 | IT/과학",
+      "title": "UNIST, 양자융합원 UniQ 공개…“퀀텀 생태계 거점”",
+      "summary": "이데일리 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -153,11 +153,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/031/0001039811",
+      "source_url": "https://n.news.naver.com/mnews/article/018/0006322967",
       "source": {
-        "title": "삼성전자, 작년 정보보호 투자 4121억…공시 이후 최대",
-        "url": "https://n.news.naver.com/mnews/article/031/0001039811",
-        "press": "아이뉴스24",
+        "title": "UNIST, 양자융합원 UniQ 공개…“퀀텀 생태계 거점”",
+        "url": "https://n.news.naver.com/mnews/article/018/0006322967",
+        "press": "이데일리",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -165,8 +165,8 @@
     },
     {
       "id": "news-20260705-008",
-      "title": "애니메이션으로 재탄생하는 네이버웹툰⋯\"美·日·佛 넘나드는 러브콜\"",
-      "summary": "아이뉴스24 | IT/과학",
+      "title": "폭염경보·열대야주의보 뜨면 이제 ‘카톡왔숑’",
+      "summary": "한겨레 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -176,11 +176,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/031/0001039785",
+      "source_url": "https://n.news.naver.com/mnews/article/028/0002812683",
       "source": {
-        "title": "애니메이션으로 재탄생하는 네이버웹툰⋯\"美·日·佛 넘나드는 러브콜\"",
-        "url": "https://n.news.naver.com/mnews/article/031/0001039785",
-        "press": "아이뉴스24",
+        "title": "폭염경보·열대야주의보 뜨면 이제 ‘카톡왔숑’",
+        "url": "https://n.news.naver.com/mnews/article/028/0002812683",
+        "press": "한겨레",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -281,7 +281,7 @@
     {
       "id": "news-20260705-013",
       "title": "美·EU, 로봇 보안 강화하는데…인력도 대책도 없는 韓",
-      "summary": "서울경제 | 2시간전 | IT/과학",
+      "summary": "서울경제 | 3시간전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -296,7 +296,7 @@
         "title": "美·EU, 로봇 보안 강화하는데…인력도 대책도 없는 韓",
         "url": "https://n.news.naver.com/mnews/article/011/0004638289",
         "press": "서울경제",
-        "published_at": "2시간전",
+        "published_at": "3시간전",
         "source": "naver",
         "category": "IT/과학"
       }
