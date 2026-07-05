@@ -1,15 +1,153 @@
 {
   "version": 1,
-  "updated": "2026-07-05T20:05:02+09:00",
+  "updated": "2026-07-05T20:10:02+09:00",
   "items": [
     {
       "id": "news-20260705-001",
+      "title": "\"카톡으로 폭염 대피령\"…카카오·기상청 맞손",
+      "summary": "뉴시스 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 99,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/003/0014046751",
+      "source": {
+        "title": "\"카톡으로 폭염 대피령\"…카카오·기상청 맞손",
+        "url": "https://n.news.naver.com/mnews/article/003/0014046751",
+        "press": "뉴시스",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-002",
+      "title": "차세대중형위성 4호, 7일 오후 4시경 발사",
+      "summary": "파이낸셜뉴스 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 98,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/014/0005543726",
+      "source": {
+        "title": "차세대중형위성 4호, 7일 오후 4시경 발사",
+        "url": "https://n.news.naver.com/mnews/article/014/0005543726",
+        "press": "파이낸셜뉴스",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-003",
+      "title": "아이폰 이어 삼성 폴더블폰 값도 대폭 오른다",
+      "summary": "한국경제 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 97,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/015/0005306424",
+      "source": {
+        "title": "아이폰 이어 삼성 폴더블폰 값도 대폭 오른다",
+        "url": "https://n.news.naver.com/mnews/article/015/0005306424",
+        "press": "한국경제",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-004",
+      "title": "정보통신망법 7일 시행… ‘입틀막법’ 논란 속 개문발차[기획]",
+      "summary": "디지털타임스 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 96,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/029/0003035374",
+      "source": {
+        "title": "정보통신망법 7일 시행… ‘입틀막법’ 논란 속 개문발차[기획]",
+        "url": "https://n.news.naver.com/mnews/article/029/0003035374",
+        "press": "디지털타임스",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-005",
+      "title": "'시끄러운 지하상가서 뚜렷한 엄마 목소리'…LGU+, 무료 로밍콜 \"잘 터지네\"[르포]",
+      "summary": "머니투데이 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 95,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/008/0005381490",
+      "source": {
+        "title": "'시끄러운 지하상가서 뚜렷한 엄마 목소리'…LGU+, 무료 로밍콜 \"잘 터지네\"[르포]",
+        "url": "https://n.news.naver.com/mnews/article/008/0005381490",
+        "press": "머니투데이",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-006",
+      "title": "KAIST \"AI 에이전트, 생성형AI보다 최대 136.5배 많은 전력 소비\"",
+      "summary": "뉴시스 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 94,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/003/0014047009",
+      "source": {
+        "title": "KAIST \"AI 에이전트, 생성형AI보다 최대 136.5배 많은 전력 소비\"",
+        "url": "https://n.news.naver.com/mnews/article/003/0014047009",
+        "press": "뉴시스",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-007",
       "title": "SKT, 15GW 초대형 AI데이터센터 구축… 亞 허브 노린다",
       "summary": "파이낸셜뉴스 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
-      "priority": 99,
+      "priority": 93,
       "start": "2026-07-05",
       "end": "2026-07-06",
       "target": [
@@ -26,147 +164,9 @@
       }
     },
     {
-      "id": "news-20260705-002",
-      "title": "韓 최초 '농림특화 위성' 발사 D-2…이제 농업도 '우주시대'",
-      "summary": "노컷뉴스 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 98,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/079/0004164918",
-      "source": {
-        "title": "韓 최초 '농림특화 위성' 발사 D-2…이제 농업도 '우주시대'",
-        "url": "https://n.news.naver.com/mnews/article/079/0004164918",
-        "press": "노컷뉴스",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-003",
-      "title": "AI 다음은 '양자'…게임체인저가 온다[테크톡노트]",
-      "summary": "연합뉴스 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 97,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/001/0016175692",
-      "source": {
-        "title": "AI 다음은 '양자'…게임체인저가 온다[테크톡노트]",
-        "url": "https://n.news.naver.com/mnews/article/001/0016175692",
-        "press": "연합뉴스",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-004",
-      "title": "아는 척 안 하고 되묻는 AI…네이버 AI '허위 답변' 확 줄인 비결",
-      "summary": "뉴시스 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 96,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/003/0014046680",
-      "source": {
-        "title": "아는 척 안 하고 되묻는 AI…네이버 AI '허위 답변' 확 줄인 비결",
-        "url": "https://n.news.naver.com/mnews/article/003/0014046680",
-        "press": "뉴시스",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-005",
-      "title": "LG U+, 일본 시작으로 해외 100개국 '익시오 로밍콜' 출시",
-      "summary": "아시아경제 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 95,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/277/0005785539",
-      "source": {
-        "title": "LG U+, 일본 시작으로 해외 100개국 '익시오 로밍콜' 출시",
-        "url": "https://n.news.naver.com/mnews/article/277/0005785539",
-        "press": "아시아경제",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-006",
-      "title": "치솟는 토큰 비용에...서비스 모델 새판 짜는 AI 기업들",
-      "summary": "매일경제 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 94,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/009/0005702839",
-      "source": {
-        "title": "치솟는 토큰 비용에...서비스 모델 새판 짜는 AI 기업들",
-        "url": "https://n.news.naver.com/mnews/article/009/0005702839",
-        "press": "매일경제",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-007",
-      "title": "카카오·기상청, 폭염 등 위험기상 대응 협력",
-      "summary": "이데일리 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 93,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/018/0006322974",
-      "source": {
-        "title": "카카오·기상청, 폭염 등 위험기상 대응 협력",
-        "url": "https://n.news.naver.com/mnews/article/018/0006322974",
-        "press": "이데일리",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
       "id": "news-20260705-008",
-      "title": "\"폰 원가 중 메모리 비중이 40%\" 갤럭시 폴드8 가격 인상 유력",
-      "summary": "한국일보 | IT/과학",
+      "title": "UNIST, 양자융합원 UniQ 공개…“퀀텀 생태계 거점”",
+      "summary": "이데일리 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -176,11 +176,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/469/0000940462",
+      "source_url": "https://n.news.naver.com/mnews/article/018/0006322967",
       "source": {
-        "title": "\"폰 원가 중 메모리 비중이 40%\" 갤럭시 폴드8 가격 인상 유력",
-        "url": "https://n.news.naver.com/mnews/article/469/0000940462",
-        "press": "한국일보",
+        "title": "UNIST, 양자융합원 UniQ 공개…“퀀텀 생태계 거점”",
+        "url": "https://n.news.naver.com/mnews/article/018/0006322967",
+        "press": "이데일리",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -189,7 +189,7 @@
     {
       "id": "news-20260705-009",
       "title": "“억지 코믹 대사” “너무 올드한 개그” 쏟아지는 혹평에도 1위 알고보니…넷플릭스 알고리즘 힘",
-      "summary": "헤럴드경제 | 24분전 | IT/과학",
+      "summary": "헤럴드경제 | 29분전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -204,7 +204,7 @@
         "title": "“억지 코믹 대사” “너무 올드한 개그” 쏟아지는 혹평에도 1위 알고보니…넷플릭스 알고리즘 힘",
         "url": "https://n.news.naver.com/mnews/article/016/0002665883",
         "press": "헤럴드경제",
-        "published_at": "24분전",
+        "published_at": "29분전",
         "source": "naver",
         "category": "IT/과학"
       }
@@ -258,7 +258,7 @@
     {
       "id": "news-20260705-012",
       "title": "美·EU, 로봇 보안 강화하는데…인력도 대책도 없는 韓",
-      "summary": "서울경제 | 1시간전 | IT/과학",
+      "summary": "서울경제 | 2시간전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -273,7 +273,7 @@
         "title": "美·EU, 로봇 보안 강화하는데…인력도 대책도 없는 韓",
         "url": "https://n.news.naver.com/mnews/article/011/0004638289",
         "press": "서울경제",
-        "published_at": "1시간전",
+        "published_at": "2시간전",
         "source": "naver",
         "category": "IT/과학"
       }
