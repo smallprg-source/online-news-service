@@ -1,15 +1,153 @@
 {
   "version": 1,
-  "updated": "2026-07-05T21:54:50+09:00",
+  "updated": "2026-07-05T21:55:03+09:00",
   "items": [
     {
       "id": "news-20260705-001",
+      "title": "'시끄러운 지하상가서 뚜렷한 엄마 목소리'…LGU+, 무료 로밍콜 \"잘 터지네\"[르포]",
+      "summary": "머니투데이 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 99,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/008/0005381490",
+      "source": {
+        "title": "'시끄러운 지하상가서 뚜렷한 엄마 목소리'…LGU+, 무료 로밍콜 \"잘 터지네\"[르포]",
+        "url": "https://n.news.naver.com/mnews/article/008/0005381490",
+        "press": "머니투데이",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-002",
+      "title": "\"비용부담 너무 커져\"…'토큰 다이어트' 사활 건 기업들",
+      "summary": "매일경제 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 98,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/009/0005702931",
+      "source": {
+        "title": "\"비용부담 너무 커져\"…'토큰 다이어트' 사활 건 기업들",
+        "url": "https://n.news.naver.com/mnews/article/009/0005702931",
+        "press": "매일경제",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-003",
+      "title": "차세대중형위성 4호, 7일 발사…농작물·산림 자원 관측",
+      "summary": "뉴스1 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 97,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/421/0009041175",
+      "source": {
+        "title": "차세대중형위성 4호, 7일 발사…농작물·산림 자원 관측",
+        "url": "https://n.news.naver.com/mnews/article/421/0009041175",
+        "press": "뉴스1",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-004",
+      "title": "AI 다음은 '양자'…게임체인저가 온다[테크톡노트]",
+      "summary": "연합뉴스 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 96,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/001/0016175692",
+      "source": {
+        "title": "AI 다음은 '양자'…게임체인저가 온다[테크톡노트]",
+        "url": "https://n.news.naver.com/mnews/article/001/0016175692",
+        "press": "연합뉴스",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-005",
+      "title": "SKT, 15GW ‘AI 데이터센터’ 짓는다…아시아 허브 정조준",
+      "summary": "뉴시스 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 95,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/003/0014046726",
+      "source": {
+        "title": "SKT, 15GW ‘AI 데이터센터’ 짓는다…아시아 허브 정조준",
+        "url": "https://n.news.naver.com/mnews/article/003/0014046726",
+        "press": "뉴시스",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-006",
+      "title": "드라마는 대박 났는데 만화 시장은 '성장통'…제2 '나혼렙' 키워라[웹툰 원작 전성시대③]",
+      "summary": "뉴시스 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 94,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/003/0014046417",
+      "source": {
+        "title": "드라마는 대박 났는데 만화 시장은 '성장통'…제2 '나혼렙' 키워라[웹툰 원작 전성시대③]",
+        "url": "https://n.news.naver.com/mnews/article/003/0014046417",
+        "press": "뉴시스",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-007",
       "title": "챗봇보다 정확도 높지만 … AI에이전트, 전력 136배 더 잡아먹어",
       "summary": "매일경제 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
-      "priority": 99,
+      "priority": 93,
       "start": "2026-07-05",
       "end": "2026-07-06",
       "target": [
@@ -26,147 +164,9 @@
       }
     },
     {
-      "id": "news-20260705-002",
-      "title": "폭염특보 카톡 알람 울린다…카카오-기상청, 위험기상 대응 협력",
-      "summary": "머니투데이 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 98,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/008/0005381496",
-      "source": {
-        "title": "폭염특보 카톡 알람 울린다…카카오-기상청, 위험기상 대응 협력",
-        "url": "https://n.news.naver.com/mnews/article/008/0005381496",
-        "press": "머니투데이",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-003",
-      "title": "카톡방에선 OK, 악성 사이버레커엔 10억 철퇴… 7일 달라지는 것들",
-      "summary": "매일경제 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 97,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/009/0005703005",
-      "source": {
-        "title": "카톡방에선 OK, 악성 사이버레커엔 10억 철퇴… 7일 달라지는 것들",
-        "url": "https://n.news.naver.com/mnews/article/009/0005703005",
-        "press": "매일경제",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-004",
-      "title": "국산 핵심 기술 담은 차세대중형위성 4호, 7일 오후 4시 발사한다",
-      "summary": "머니투데이 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 96,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/008/0005381563",
-      "source": {
-        "title": "국산 핵심 기술 담은 차세대중형위성 4호, 7일 오후 4시 발사한다",
-        "url": "https://n.news.naver.com/mnews/article/008/0005381563",
-        "press": "머니투데이",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-005",
-      "title": "예약·구매까지…네이버, AI 검색 승부수",
-      "summary": "한국경제 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 95,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/015/0005306346",
-      "source": {
-        "title": "예약·구매까지…네이버, AI 검색 승부수",
-        "url": "https://n.news.naver.com/mnews/article/015/0005306346",
-        "press": "한국경제",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-006",
-      "title": "1000조·GPU 300만장…SK, 'AI판 경부고속도로' 만든다",
-      "summary": "이데일리 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 94,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/018/0006322944",
-      "source": {
-        "title": "1000조·GPU 300만장…SK, 'AI판 경부고속도로' 만든다",
-        "url": "https://n.news.naver.com/mnews/article/018/0006322944",
-        "press": "이데일리",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-007",
-      "title": "국내 번호 그대로 해외 무료통화…LGU+, ‘익시오 로밍콜’ 100개국 서비스 추진",
-      "summary": "매일경제 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 93,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/009/0005702760",
-      "source": {
-        "title": "국내 번호 그대로 해외 무료통화…LGU+, ‘익시오 로밍콜’ 100개국 서비스 추진",
-        "url": "https://n.news.naver.com/mnews/article/009/0005702760",
-        "press": "매일경제",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
       "id": "news-20260705-008",
-      "title": "치솟는 토큰 비용에...서비스 모델 새판 짜는 AI 기업들",
-      "summary": "매일경제 | IT/과학",
+      "title": "“27년 검색 노하우, AI로 이어간다”… 네이버, AI 검색 이끌 핵심 기술 3가지 제시",
+      "summary": "조선비즈 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -176,11 +176,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/009/0005702839",
+      "source_url": "https://n.news.naver.com/mnews/article/366/0001176812",
       "source": {
-        "title": "치솟는 토큰 비용에...서비스 모델 새판 짜는 AI 기업들",
-        "url": "https://n.news.naver.com/mnews/article/009/0005702839",
-        "press": "매일경제",
+        "title": "“27년 검색 노하우, AI로 이어간다”… 네이버, AI 검색 이끌 핵심 기술 3가지 제시",
+        "url": "https://n.news.naver.com/mnews/article/366/0001176812",
+        "press": "조선비즈",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -189,7 +189,7 @@
     {
       "id": "news-20260705-009",
       "title": "이틀 연속 30% 상한가…“삼전닉스 버리고, 샀더니” 믿었던 LG 추락 ‘낭패’",
-      "summary": "헤럴드경제 | 13분전 | IT/과학",
+      "summary": "헤럴드경제 | 14분전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -204,7 +204,7 @@
         "title": "이틀 연속 30% 상한가…“삼전닉스 버리고, 샀더니” 믿었던 LG 추락 ‘낭패’",
         "url": "https://n.news.naver.com/mnews/article/016/0002665893",
         "press": "헤럴드경제",
-        "published_at": "13분전",
+        "published_at": "14분전",
         "source": "naver",
         "category": "IT/과학"
       }
@@ -418,35 +418,12 @@
     },
     {
       "id": "news-20260705-019",
-      "title": "\"비용부담 너무 커져\"…'토큰 다이어트' 사활 건 기업들",
-      "summary": "매일경제 | 4시간전 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 81,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/009/0005702931",
-      "source": {
-        "title": "\"비용부담 너무 커져\"…'토큰 다이어트' 사활 건 기업들",
-        "url": "https://n.news.naver.com/mnews/article/009/0005702931",
-        "press": "매일경제",
-        "published_at": "4시간전",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-020",
       "title": "SKT, 1000조 AI 데이터센터 '속도전'",
       "summary": "한국경제 | 4시간전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
-      "priority": 80,
+      "priority": 81,
       "start": "2026-07-05",
       "end": "2026-07-06",
       "target": [
@@ -457,6 +434,29 @@
         "title": "SKT, 1000조 AI 데이터센터 '속도전'",
         "url": "https://n.news.naver.com/mnews/article/015/0005306350",
         "press": "한국경제",
+        "published_at": "4시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-020",
+      "title": "대중은 진짜 정치인보다 AI 정치인 답변 더 신뢰했다 [달콤한 사이언스]",
+      "summary": "서울신문 | 4시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 80,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/081/0003658444",
+      "source": {
+        "title": "대중은 진짜 정치인보다 AI 정치인 답변 더 신뢰했다 [달콤한 사이언스]",
+        "url": "https://n.news.naver.com/mnews/article/081/0003658444",
+        "press": "서울신문",
         "published_at": "4시간전",
         "source": "naver",
         "category": "IT/과학"
