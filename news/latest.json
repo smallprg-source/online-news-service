@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-07-05T21:00:03+09:00",
+  "updated": "2026-07-05T21:05:03+09:00",
   "items": [
     {
       "id": "news-20260705-001",
-      "title": "\"이미 팬덤 크니까\"…네이버웹툰 찾는 글로벌 애니 제작사들",
-      "summary": "지디넷코리아 | IT/과학",
+      "title": "\"잘 안 터지는 보이스톡 답답해\" 국내번호 그대로 해외 무료통화",
+      "summary": "매일경제 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -15,11 +15,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/092/0002429305",
+      "source_url": "https://n.news.naver.com/mnews/article/009/0005702912",
       "source": {
-        "title": "\"이미 팬덤 크니까\"…네이버웹툰 찾는 글로벌 애니 제작사들",
-        "url": "https://n.news.naver.com/mnews/article/092/0002429305",
-        "press": "지디넷코리아",
+        "title": "\"잘 안 터지는 보이스톡 답답해\" 국내번호 그대로 해외 무료통화",
+        "url": "https://n.news.naver.com/mnews/article/009/0005702912",
+        "press": "매일경제",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -27,8 +27,8 @@
     },
     {
       "id": "news-20260705-002",
-      "title": "LGU+, 일본서 ‘익시오 로밍콜’ 출시…하반기 100개국으로 확대",
-      "summary": "이데일리 | IT/과학",
+      "title": "스스로 생각·행동 'AI 에이전트', 기존 AI보다 전력 136배 사용",
+      "summary": "연합뉴스 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -38,11 +38,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/018/0006322989",
+      "source_url": "https://n.news.naver.com/mnews/article/001/0016176488",
       "source": {
-        "title": "LGU+, 일본서 ‘익시오 로밍콜’ 출시…하반기 100개국으로 확대",
-        "url": "https://n.news.naver.com/mnews/article/018/0006322989",
-        "press": "이데일리",
+        "title": "스스로 생각·행동 'AI 에이전트', 기존 AI보다 전력 136배 사용",
+        "url": "https://n.news.naver.com/mnews/article/001/0016176488",
+        "press": "연합뉴스",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -50,8 +50,8 @@
     },
     {
       "id": "news-20260705-003",
-      "title": "AI 비서에게 일 맡겼더니 챗봇보다 전기 137배 썼다",
-      "summary": "조선일보 | IT/과학",
+      "title": "단순비용일까 전략투자일까…기업들의 R&D 셈법 변화 주목[AI 토큰 청구서④]",
+      "summary": "디지털데일리 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -61,11 +61,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/023/0003985791",
+      "source_url": "https://n.news.naver.com/mnews/article/138/0002233155",
       "source": {
-        "title": "AI 비서에게 일 맡겼더니 챗봇보다 전기 137배 썼다",
-        "url": "https://n.news.naver.com/mnews/article/023/0003985791",
-        "press": "조선일보",
+        "title": "단순비용일까 전략투자일까…기업들의 R&D 셈법 변화 주목[AI 토큰 청구서④]",
+        "url": "https://n.news.naver.com/mnews/article/138/0002233155",
+        "press": "디지털데일리",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -73,8 +73,8 @@
     },
     {
       "id": "news-20260705-004",
-      "title": "'식당 예약까지 제안'…검색 넘어선 네이버 AI탭",
-      "summary": "비즈워치 | IT/과학",
+      "title": "국산 핵심 기술 담은 차세대중형위성 4호, 7일 오후 4시 발사한다",
+      "summary": "머니투데이 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -84,11 +84,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/648/0000048627",
+      "source_url": "https://n.news.naver.com/mnews/article/008/0005381563",
       "source": {
-        "title": "'식당 예약까지 제안'…검색 넘어선 네이버 AI탭",
-        "url": "https://n.news.naver.com/mnews/article/648/0000048627",
-        "press": "비즈워치",
+        "title": "국산 핵심 기술 담은 차세대중형위성 4호, 7일 오후 4시 발사한다",
+        "url": "https://n.news.naver.com/mnews/article/008/0005381563",
+        "press": "머니투데이",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -96,8 +96,8 @@
     },
     {
       "id": "news-20260705-005",
-      "title": "SKT, 1000조 투입해 '15GW 초대형 AI 데이터센터' 구축",
-      "summary": "뉴스1 | IT/과학",
+      "title": "빨라진 양자컴퓨팅 시계…“韓 금융권 PQC 전환 서둘러야”",
+      "summary": "전자신문 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -107,11 +107,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/421/0009040988",
+      "source_url": "https://n.news.naver.com/mnews/article/030/0003444504",
       "source": {
-        "title": "SKT, 1000조 투입해 '15GW 초대형 AI 데이터센터' 구축",
-        "url": "https://n.news.naver.com/mnews/article/421/0009040988",
-        "press": "뉴스1",
+        "title": "빨라진 양자컴퓨팅 시계…“韓 금융권 PQC 전환 서둘러야”",
+        "url": "https://n.news.naver.com/mnews/article/030/0003444504",
+        "press": "전자신문",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -119,8 +119,8 @@
     },
     {
       "id": "news-20260705-006",
-      "title": "차세대중형위성 4호, 7일 우주 향하다…농업·산림 관측 임무",
-      "summary": "디지털타임스 | IT/과학",
+      "title": "네이버, AI 검색 승부수 ‘그린닷’ 채운 AI탭 기술 공개…속도 2배 높이고 비용 3배 낮췄다",
+      "summary": "세계일보 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -130,11 +130,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/029/0003035302",
+      "source_url": "https://n.news.naver.com/mnews/article/022/0004140598",
       "source": {
-        "title": "차세대중형위성 4호, 7일 우주 향하다…농업·산림 관측 임무",
-        "url": "https://n.news.naver.com/mnews/article/029/0003035302",
-        "press": "디지털타임스",
+        "title": "네이버, AI 검색 승부수 ‘그린닷’ 채운 AI탭 기술 공개…속도 2배 높이고 비용 3배 낮췄다",
+        "url": "https://n.news.naver.com/mnews/article/022/0004140598",
+        "press": "세계일보",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -142,8 +142,8 @@
     },
     {
       "id": "news-20260705-007",
-      "title": "AI 메모리 대란에…갤럭시 Z8 가격 인상 유력",
-      "summary": "머니투데이 | IT/과학",
+      "title": "삼성전자, 작년 정보보호 투자 4121억…공시 이후 최대",
+      "summary": "아이뉴스24 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -153,11 +153,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/008/0005381565",
+      "source_url": "https://n.news.naver.com/mnews/article/031/0001039811",
       "source": {
-        "title": "AI 메모리 대란에…갤럭시 Z8 가격 인상 유력",
-        "url": "https://n.news.naver.com/mnews/article/008/0005381565",
-        "press": "머니투데이",
+        "title": "삼성전자, 작년 정보보호 투자 4121억…공시 이후 최대",
+        "url": "https://n.news.naver.com/mnews/article/031/0001039811",
+        "press": "아이뉴스24",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -165,7 +165,7 @@
     },
     {
       "id": "news-20260705-008",
-      "title": "삼성전자, 작년 정보보호 투자 4121억…공시 이후 최대",
+      "title": "애니메이션으로 재탄생하는 네이버웹툰⋯\"美·日·佛 넘나드는 러브콜\"",
       "summary": "아이뉴스24 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
@@ -176,10 +176,10 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/031/0001039811",
+      "source_url": "https://n.news.naver.com/mnews/article/031/0001039785",
       "source": {
-        "title": "삼성전자, 작년 정보보호 투자 4121억…공시 이후 최대",
-        "url": "https://n.news.naver.com/mnews/article/031/0001039811",
+        "title": "애니메이션으로 재탄생하는 네이버웹툰⋯\"美·日·佛 넘나드는 러브콜\"",
+        "url": "https://n.news.naver.com/mnews/article/031/0001039785",
         "press": "아이뉴스24",
         "published_at": "",
         "source": "naver",
@@ -304,7 +304,7 @@
     {
       "id": "news-20260705-014",
       "title": "“갤럭시 만들었는데, 빌어먹을” 노래까지 나온 성과급 갈등",
-      "summary": "조선일보 | 2시간전 | IT/과학",
+      "summary": "조선일보 | 3시간전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -319,7 +319,7 @@
         "title": "“갤럭시 만들었는데, 빌어먹을” 노래까지 나온 성과급 갈등",
         "url": "https://n.news.naver.com/mnews/article/023/0003985809",
         "press": "조선일보",
-        "published_at": "2시간전",
+        "published_at": "3시간전",
         "source": "naver",
         "category": "IT/과학"
       }
@@ -327,7 +327,7 @@
     {
       "id": "news-20260705-015",
       "title": "30분 넘게 앉아 있지 마세요…암 사망 위험 높아져",
-      "summary": "조선일보 | 2시간전 | IT/과학",
+      "summary": "조선일보 | 3시간전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -342,7 +342,7 @@
         "title": "30분 넘게 앉아 있지 마세요…암 사망 위험 높아져",
         "url": "https://n.news.naver.com/mnews/article/023/0003985808",
         "press": "조선일보",
-        "published_at": "2시간전",
+        "published_at": "3시간전",
         "source": "naver",
         "category": "IT/과학"
       }
