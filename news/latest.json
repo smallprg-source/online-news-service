@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-07-05T19:50:02+09:00",
+  "updated": "2026-07-05T19:55:02+09:00",
   "items": [
     {
       "id": "news-20260705-001",
-      "title": "KAIST, 'AI 에이전트' 숨은 전력 비용 정량 분석...세계 최초 성과",
-      "summary": "전자신문 | IT/과학",
+      "title": "'아시아 AI 허브' 노리는 SK텔레콤…15GW 데이터센터 추진",
+      "summary": "한국경제 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -15,11 +15,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/030/0003444452",
+      "source_url": "https://n.news.naver.com/mnews/article/015/0005306278",
       "source": {
-        "title": "KAIST, 'AI 에이전트' 숨은 전력 비용 정량 분석...세계 최초 성과",
-        "url": "https://n.news.naver.com/mnews/article/030/0003444452",
-        "press": "전자신문",
+        "title": "'아시아 AI 허브' 노리는 SK텔레콤…15GW 데이터센터 추진",
+        "url": "https://n.news.naver.com/mnews/article/015/0005306278",
+        "press": "한국경제",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -27,8 +27,8 @@
     },
     {
       "id": "news-20260705-002",
-      "title": "SKT, 15GW 규모 AI 데이터센터 구축…\"아시아 AI 인프라 허브될 것\"",
-      "summary": "아시아경제 | IT/과학",
+      "title": "애플 첫 폴더블폰 예고에 삼성 ‘와이드형’ 맞불…하반기 격전",
+      "summary": "국제신문 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -38,11 +38,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/277/0005785496",
+      "source_url": "https://n.news.naver.com/mnews/article/658/0000148648",
       "source": {
-        "title": "SKT, 15GW 규모 AI 데이터센터 구축…\"아시아 AI 인프라 허브될 것\"",
-        "url": "https://n.news.naver.com/mnews/article/277/0005785496",
-        "press": "아시아경제",
+        "title": "애플 첫 폴더블폰 예고에 삼성 ‘와이드형’ 맞불…하반기 격전",
+        "url": "https://n.news.naver.com/mnews/article/658/0000148648",
+        "press": "국제신문",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -50,8 +50,8 @@
     },
     {
       "id": "news-20260705-003",
-      "title": "AI 다음은 '양자'…게임체인저가 온다[테크톡노트]",
-      "summary": "연합뉴스 | IT/과학",
+      "title": "LG유플러스, 해외무료통화 '익시오 로밍콜' 출시",
+      "summary": "비즈워치 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -61,11 +61,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/001/0016175692",
+      "source_url": "https://n.news.naver.com/mnews/article/648/0000048630",
       "source": {
-        "title": "AI 다음은 '양자'…게임체인저가 온다[테크톡노트]",
-        "url": "https://n.news.naver.com/mnews/article/001/0016175692",
-        "press": "연합뉴스",
+        "title": "LG유플러스, 해외무료통화 '익시오 로밍콜' 출시",
+        "url": "https://n.news.naver.com/mnews/article/648/0000048630",
+        "press": "비즈워치",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -73,8 +73,8 @@
     },
     {
       "id": "news-20260705-004",
-      "title": "아는 척 안 하고 되묻는 AI…네이버 AI '허위 답변' 확 줄인 비결",
-      "summary": "뉴시스 | IT/과학",
+      "title": "차세대중형위성 4호, 7일 오후 4시경 발사",
+      "summary": "파이낸셜뉴스 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -84,11 +84,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/003/0014046680",
+      "source_url": "https://n.news.naver.com/mnews/article/014/0005543726",
       "source": {
-        "title": "아는 척 안 하고 되묻는 AI…네이버 AI '허위 답변' 확 줄인 비결",
-        "url": "https://n.news.naver.com/mnews/article/003/0014046680",
-        "press": "뉴시스",
+        "title": "차세대중형위성 4호, 7일 오후 4시경 발사",
+        "url": "https://n.news.naver.com/mnews/article/014/0005543726",
+        "press": "파이낸셜뉴스",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -96,8 +96,8 @@
     },
     {
       "id": "news-20260705-005",
-      "title": "AI가 밀어 올린 메모리값…하반기 스마트폰·노트북 또 오른다",
-      "summary": "중앙일보 | IT/과학",
+      "title": "“AI탭으로 부동산 찾고 건강 상담까지”…네이버, ‘실행형 검색’ 키운다",
+      "summary": "헤럴드경제 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -107,11 +107,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/025/0003535387",
+      "source_url": "https://n.news.naver.com/mnews/article/016/0002665744",
       "source": {
-        "title": "AI가 밀어 올린 메모리값…하반기 스마트폰·노트북 또 오른다",
-        "url": "https://n.news.naver.com/mnews/article/025/0003535387",
-        "press": "중앙일보",
+        "title": "“AI탭으로 부동산 찾고 건강 상담까지”…네이버, ‘실행형 검색’ 키운다",
+        "url": "https://n.news.naver.com/mnews/article/016/0002665744",
+        "press": "헤럴드경제",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -119,8 +119,8 @@
     },
     {
       "id": "news-20260705-006",
-      "title": "캠핑지 확인부터 아파트 공정률 체크까지… 누구나 유용하게[쌍둥이위성②]",
-      "summary": "세계일보 | IT/과학",
+      "title": "① \"내 SNS 글도 처벌?\"…7일부터 달라지는 것들[허위조작정보 규제]",
+      "summary": "연합뉴스 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -130,11 +130,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/022/0004140465",
+      "source_url": "https://n.news.naver.com/mnews/article/001/0016176108",
       "source": {
-        "title": "캠핑지 확인부터 아파트 공정률 체크까지… 누구나 유용하게[쌍둥이위성②]",
-        "url": "https://n.news.naver.com/mnews/article/022/0004140465",
-        "press": "세계일보",
+        "title": "① \"내 SNS 글도 처벌?\"…7일부터 달라지는 것들[허위조작정보 규제]",
+        "url": "https://n.news.naver.com/mnews/article/001/0016176108",
+        "press": "연합뉴스",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -142,8 +142,8 @@
     },
     {
       "id": "news-20260705-007",
-      "title": "네카오·구글 \"딥페이크 엄단·허위정보 차단 총력\"",
-      "summary": "매일경제 | IT/과학",
+      "title": "“챗GPT보다 전력소모 136.5배↑”…KAIST, AI 에이전트 ‘숨은 전력 비용’ 첫 규명",
+      "summary": "헤럴드경제 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -153,11 +153,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/009/0005702911",
+      "source_url": "https://n.news.naver.com/mnews/article/016/0002665824",
       "source": {
-        "title": "네카오·구글 \"딥페이크 엄단·허위정보 차단 총력\"",
-        "url": "https://n.news.naver.com/mnews/article/009/0005702911",
-        "press": "매일경제",
+        "title": "“챗GPT보다 전력소모 136.5배↑”…KAIST, AI 에이전트 ‘숨은 전력 비용’ 첫 규명",
+        "url": "https://n.news.naver.com/mnews/article/016/0002665824",
+        "press": "헤럴드경제",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -165,8 +165,8 @@
     },
     {
       "id": "news-20260705-008",
-      "title": "단순비용일까 전략투자일까…기업들의 R&D 셈법 변화 주목[AI 토큰 청구서④]",
-      "summary": "디지털데일리 | IT/과학",
+      "title": "치솟는 토큰 비용에...서비스 모델 새판 짜는 AI 기업들",
+      "summary": "매일경제 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -176,11 +176,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/138/0002233155",
+      "source_url": "https://n.news.naver.com/mnews/article/009/0005702839",
       "source": {
-        "title": "단순비용일까 전략투자일까…기업들의 R&D 셈법 변화 주목[AI 토큰 청구서④]",
-        "url": "https://n.news.naver.com/mnews/article/138/0002233155",
-        "press": "디지털데일리",
+        "title": "치솟는 토큰 비용에...서비스 모델 새판 짜는 AI 기업들",
+        "url": "https://n.news.naver.com/mnews/article/009/0005702839",
+        "press": "매일경제",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
