@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-07-05T22:04:50+09:00",
+  "updated": "2026-07-05T22:05:03+09:00",
   "items": [
     {
       "id": "news-20260705-001",
-      "title": "SKT의 대담한 도전…1000조원 넘는 AI 데이터센터 구축한다",
-      "summary": "세계일보 | IT/과학",
+      "title": "1000조·GPU 300만장…SK, 'AI판 경부고속도로' 만든다",
+      "summary": "이데일리 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -15,11 +15,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/022/0004140681",
+      "source_url": "https://n.news.naver.com/mnews/article/018/0006322944",
       "source": {
-        "title": "SKT의 대담한 도전…1000조원 넘는 AI 데이터센터 구축한다",
-        "url": "https://n.news.naver.com/mnews/article/022/0004140681",
-        "press": "세계일보",
+        "title": "1000조·GPU 300만장…SK, 'AI판 경부고속도로' 만든다",
+        "url": "https://n.news.naver.com/mnews/article/018/0006322944",
+        "press": "이데일리",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -27,8 +27,8 @@
     },
     {
       "id": "news-20260705-002",
-      "title": "‘차세대중형위성 4호’, 7일 우주 발사…농업·산불감시 임무 맡는다",
-      "summary": "헤럴드경제 | IT/과학",
+      "title": "차세대중형위성 4호, 7일 발사…농작물·산림 자원 관측",
+      "summary": "뉴스1 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -38,11 +38,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/016/0002665827",
+      "source_url": "https://n.news.naver.com/mnews/article/421/0009041175",
       "source": {
-        "title": "‘차세대중형위성 4호’, 7일 우주 발사…농업·산불감시 임무 맡는다",
-        "url": "https://n.news.naver.com/mnews/article/016/0002665827",
-        "press": "헤럴드경제",
+        "title": "차세대중형위성 4호, 7일 발사…농작물·산림 자원 관측",
+        "url": "https://n.news.naver.com/mnews/article/421/0009041175",
+        "press": "뉴스1",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -50,81 +50,12 @@
     },
     {
       "id": "news-20260705-003",
-      "title": "\"모호하면 되묻는다\" 네이버, 환각 현상 잡은 'AI 검색' 기술 공개",
-      "summary": "머니투데이 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 97,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/008/0005381515",
-      "source": {
-        "title": "\"모호하면 되묻는다\" 네이버, 환각 현상 잡은 'AI 검색' 기술 공개",
-        "url": "https://n.news.naver.com/mnews/article/008/0005381515",
-        "press": "머니투데이",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-004",
-      "title": "\"카톡으로 폭염·지진 정보를\"...기상청·카카오 맞손",
-      "summary": "YTN | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 96,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/052/0002374890",
-      "source": {
-        "title": "\"카톡으로 폭염·지진 정보를\"...기상청·카카오 맞손",
-        "url": "https://n.news.naver.com/mnews/article/052/0002374890",
-        "press": "YTN",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-005",
-      "title": "국내 번호 그대로 해외 무료통화…LGU+, ‘익시오 로밍콜’ 100개국 서비스 추진",
-      "summary": "매일경제 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 95,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/009/0005702760",
-      "source": {
-        "title": "국내 번호 그대로 해외 무료통화…LGU+, ‘익시오 로밍콜’ 100개국 서비스 추진",
-        "url": "https://n.news.naver.com/mnews/article/009/0005702760",
-        "press": "매일경제",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-006",
       "title": "아이폰 이어 삼성 폴더블폰 값도 대폭 오른다",
       "summary": "한국경제 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
-      "priority": 94,
+      "priority": 97,
       "start": "2026-07-05",
       "end": "2026-07-06",
       "target": [
@@ -141,9 +72,78 @@
       }
     },
     {
+      "id": "news-20260705-004",
+      "title": "UNIST, 양자융합원 UniQ 공개…“퀀텀 생태계 거점”",
+      "summary": "이데일리 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 96,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/018/0006322967",
+      "source": {
+        "title": "UNIST, 양자융합원 UniQ 공개…“퀀텀 생태계 거점”",
+        "url": "https://n.news.naver.com/mnews/article/018/0006322967",
+        "press": "이데일리",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-005",
+      "title": "AI 에이전트는 전기 먹는 하마? \"생성형 AI보다 136배 더 써\"",
+      "summary": "한국일보 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 95,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/469/0000940466",
+      "source": {
+        "title": "AI 에이전트는 전기 먹는 하마? \"생성형 AI보다 136배 더 써\"",
+        "url": "https://n.news.naver.com/mnews/article/469/0000940466",
+        "press": "한국일보",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-006",
+      "title": "폭염·지진 카톡으로 알린다…기상청-카카오 취약계층 보호 협력",
+      "summary": "뉴스1 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 94,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/421/0009041062",
+      "source": {
+        "title": "폭염·지진 카톡으로 알린다…기상청-카카오 취약계층 보호 협력",
+        "url": "https://n.news.naver.com/mnews/article/421/0009041062",
+        "press": "뉴스1",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
       "id": "news-20260705-007",
-      "title": "카톡방에선 OK, 악성 사이버레커엔 10억 철퇴… 7일 달라지는 것들",
-      "summary": "매일경제 | IT/과학",
+      "title": "LG유플러스, 해외무료통화 '익시오 로밍콜' 출시",
+      "summary": "비즈워치 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -153,11 +153,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/009/0005703005",
+      "source_url": "https://n.news.naver.com/mnews/article/648/0000048630",
       "source": {
-        "title": "카톡방에선 OK, 악성 사이버레커엔 10억 철퇴… 7일 달라지는 것들",
-        "url": "https://n.news.naver.com/mnews/article/009/0005703005",
-        "press": "매일경제",
+        "title": "LG유플러스, 해외무료통화 '익시오 로밍콜' 출시",
+        "url": "https://n.news.naver.com/mnews/article/648/0000048630",
+        "press": "비즈워치",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -165,8 +165,8 @@
     },
     {
       "id": "news-20260705-008",
-      "title": "AI 에이전트, 질문 한 번에 생성형AI보다 전력 136배 더 써",
-      "summary": "세계일보 | IT/과학",
+      "title": "\"비용부담 너무 커져\"…'토큰 다이어트' 사활 건 기업들",
+      "summary": "매일경제 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -176,11 +176,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/022/0004140588",
+      "source_url": "https://n.news.naver.com/mnews/article/009/0005702931",
       "source": {
-        "title": "AI 에이전트, 질문 한 번에 생성형AI보다 전력 136배 더 써",
-        "url": "https://n.news.naver.com/mnews/article/022/0004140588",
-        "press": "세계일보",
+        "title": "\"비용부담 너무 커져\"…'토큰 다이어트' 사활 건 기업들",
+        "url": "https://n.news.naver.com/mnews/article/009/0005702931",
+        "press": "매일경제",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -189,7 +189,7 @@
     {
       "id": "news-20260705-009",
       "title": "악연에서 절친으로...어느 해커의 '멋진 유산'",
-      "summary": "지디넷코리아 | 18분전 | IT/과학",
+      "summary": "지디넷코리아 | 19분전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -204,7 +204,7 @@
         "title": "악연에서 절친으로...어느 해커의 '멋진 유산'",
         "url": "https://n.news.naver.com/mnews/article/092/0002429316",
         "press": "지디넷코리아",
-        "published_at": "18분전",
+        "published_at": "19분전",
         "source": "naver",
         "category": "IT/과학"
       }
@@ -212,7 +212,7 @@
     {
       "id": "news-20260705-010",
       "title": "이틀 연속 30% 상한가…“삼전닉스 버리고, 샀더니” 믿었던 LG 추락 ‘낭패’",
-      "summary": "헤럴드경제 | 23분전 | IT/과학",
+      "summary": "헤럴드경제 | 24분전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -227,7 +227,7 @@
         "title": "이틀 연속 30% 상한가…“삼전닉스 버리고, 샀더니” 믿었던 LG 추락 ‘낭패’",
         "url": "https://n.news.naver.com/mnews/article/016/0002665893",
         "press": "헤럴드경제",
-        "published_at": "23분전",
+        "published_at": "24분전",
         "source": "naver",
         "category": "IT/과학"
       }
@@ -441,8 +441,8 @@
     },
     {
       "id": "news-20260705-020",
-      "title": "\"비용부담 너무 커져\"…'토큰 다이어트' 사활 건 기업들",
-      "summary": "매일경제 | 4시간전 | IT/과학",
+      "title": "SKT, 1000조 AI 데이터센터 '속도전'",
+      "summary": "한국경제 | 4시간전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -452,11 +452,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/009/0005702931",
+      "source_url": "https://n.news.naver.com/mnews/article/015/0005306350",
       "source": {
-        "title": "\"비용부담 너무 커져\"…'토큰 다이어트' 사활 건 기업들",
-        "url": "https://n.news.naver.com/mnews/article/009/0005702931",
-        "press": "매일경제",
+        "title": "SKT, 1000조 AI 데이터센터 '속도전'",
+        "url": "https://n.news.naver.com/mnews/article/015/0005306350",
+        "press": "한국경제",
         "published_at": "4시간전",
         "source": "naver",
         "category": "IT/과학"
