@@ -1,15 +1,61 @@
 {
   "version": 1,
-  "updated": "2026-07-05T21:15:03+09:00",
+  "updated": "2026-07-05T21:20:03+09:00",
   "items": [
     {
       "id": "news-20260705-001",
+      "title": "① \"내 SNS 글도 처벌?\"…7일부터 달라지는 것들[허위조작정보 규제]",
+      "summary": "연합뉴스 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 99,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/001/0016176108",
+      "source": {
+        "title": "① \"내 SNS 글도 처벌?\"…7일부터 달라지는 것들[허위조작정보 규제]",
+        "url": "https://n.news.naver.com/mnews/article/001/0016176108",
+        "press": "연합뉴스",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-002",
+      "title": "네이버 AI검색, 환각 30%P 줄이고 비용도 3분의 1로 절감",
+      "summary": "서울경제 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 98,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/011/0004638300",
+      "source": {
+        "title": "네이버 AI검색, 환각 30%P 줄이고 비용도 3분의 1로 절감",
+        "url": "https://n.news.naver.com/mnews/article/011/0004638300",
+        "press": "서울경제",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-003",
       "title": "하정우 \"토큰경제 실현돼야 AI 시대 새 성장동력 현실화\"",
       "summary": "뉴스1 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
-      "priority": 99,
+      "priority": 97,
       "start": "2026-07-05",
       "end": "2026-07-06",
       "target": [
@@ -26,55 +72,9 @@
       }
     },
     {
-      "id": "news-20260705-002",
-      "title": "SKT, 15GW ‘AI 데이터센터’ 짓는다…아시아 허브 정조준",
-      "summary": "뉴시스 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 98,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/003/0014046726",
-      "source": {
-        "title": "SKT, 15GW ‘AI 데이터센터’ 짓는다…아시아 허브 정조준",
-        "url": "https://n.news.naver.com/mnews/article/003/0014046726",
-        "press": "뉴시스",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-003",
-      "title": "“똑똑하다 했더니 비싼 값 하네”…AI 에이전트, 전력 136배 더 쓴다",
-      "summary": "매일경제 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 97,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/009/0005702820",
-      "source": {
-        "title": "“똑똑하다 했더니 비싼 값 하네”…AI 에이전트, 전력 136배 더 쓴다",
-        "url": "https://n.news.naver.com/mnews/article/009/0005702820",
-        "press": "매일경제",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
       "id": "news-20260705-004",
-      "title": "농림위성 7일 미국서 발사…\"한반도 관측으로 과학농정 대전환\"",
-      "summary": "뉴스1 | IT/과학",
+      "title": "LG U+, 일본에 '익시오 로밍콜' 출시…연내 100여개국으로 확대",
+      "summary": "파이낸셜뉴스 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -84,11 +84,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/421/0009041182",
+      "source_url": "https://n.news.naver.com/mnews/article/014/0005543685",
       "source": {
-        "title": "농림위성 7일 미국서 발사…\"한반도 관측으로 과학농정 대전환\"",
-        "url": "https://n.news.naver.com/mnews/article/421/0009041182",
-        "press": "뉴스1",
+        "title": "LG U+, 일본에 '익시오 로밍콜' 출시…연내 100여개국으로 확대",
+        "url": "https://n.news.naver.com/mnews/article/014/0005543685",
+        "press": "파이낸셜뉴스",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -96,8 +96,8 @@
     },
     {
       "id": "news-20260705-005",
-      "title": "로맨스 여주를 국정원 간첩으로?…네이버웹툰, 덕후들 지갑 열 신무기 나왔다[잇:써봐]",
-      "summary": "이데일리 | IT/과학",
+      "title": "빨라진 양자컴퓨팅 시계…“韓 금융권 PQC 전환 서둘러야”",
+      "summary": "전자신문 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -107,11 +107,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/018/0006322502",
+      "source_url": "https://n.news.naver.com/mnews/article/030/0003444504",
       "source": {
-        "title": "로맨스 여주를 국정원 간첩으로?…네이버웹툰, 덕후들 지갑 열 신무기 나왔다[잇:써봐]",
-        "url": "https://n.news.naver.com/mnews/article/018/0006322502",
-        "press": "이데일리",
+        "title": "빨라진 양자컴퓨팅 시계…“韓 금융권 PQC 전환 서둘러야”",
+        "url": "https://n.news.naver.com/mnews/article/030/0003444504",
+        "press": "전자신문",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -119,8 +119,8 @@
     },
     {
       "id": "news-20260705-006",
-      "title": "카카오-기상청, 위험기상 대응 업무협약…모금 캠페인도",
-      "summary": "연합뉴스 | IT/과학",
+      "title": "우리 기술로 만든 첫 농림위성 7일 우주로… 3일마다 한반도 전역 관측",
+      "summary": "한국일보 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -130,11 +130,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/001/0016176266",
+      "source_url": "https://n.news.naver.com/mnews/article/469/0000940414",
       "source": {
-        "title": "카카오-기상청, 위험기상 대응 업무협약…모금 캠페인도",
-        "url": "https://n.news.naver.com/mnews/article/001/0016176266",
-        "press": "연합뉴스",
+        "title": "우리 기술로 만든 첫 농림위성 7일 우주로… 3일마다 한반도 전역 관측",
+        "url": "https://n.news.naver.com/mnews/article/469/0000940414",
+        "press": "한국일보",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -142,8 +142,8 @@
     },
     {
       "id": "news-20260705-007",
-      "title": "'AI 탭'으로 진화한 네이버 검색…\"27년 검색 인프라·데이터 바탕\"",
-      "summary": "뉴스1 | IT/과학",
+      "title": "SKT, AI DC 사업에 올인…2035년까지 15GW 구축 ‘그랜드 플랜’",
+      "summary": "디지털타임스 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -153,11 +153,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/421/0009040950",
+      "source_url": "https://n.news.naver.com/mnews/article/029/0003035310",
       "source": {
-        "title": "'AI 탭'으로 진화한 네이버 검색…\"27년 검색 인프라·데이터 바탕\"",
-        "url": "https://n.news.naver.com/mnews/article/421/0009040950",
-        "press": "뉴스1",
+        "title": "SKT, AI DC 사업에 올인…2035년까지 15GW 구축 ‘그랜드 플랜’",
+        "url": "https://n.news.naver.com/mnews/article/029/0003035310",
+        "press": "디지털타임스",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -165,8 +165,8 @@
     },
     {
       "id": "news-20260705-008",
-      "title": "UNIST, '퀀텀코리아 2026'서 양자대학원·유니큐 첫 공개",
-      "summary": "더팩트 | IT/과학",
+      "title": "\"카톡으로 폭염·지진 정보를\"...기상청·카카오 맞손",
+      "summary": "YTN | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -176,11 +176,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/629/0000513203",
+      "source_url": "https://n.news.naver.com/mnews/article/052/0002374890",
       "source": {
-        "title": "UNIST, '퀀텀코리아 2026'서 양자대학원·유니큐 첫 공개",
-        "url": "https://n.news.naver.com/mnews/article/629/0000513203",
-        "press": "더팩트",
+        "title": "\"카톡으로 폭염·지진 정보를\"...기상청·카카오 맞손",
+        "url": "https://n.news.naver.com/mnews/article/052/0002374890",
+        "press": "YTN",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
