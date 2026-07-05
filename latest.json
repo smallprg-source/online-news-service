@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "service": "PhotoBoard",
+  "updated": "2026-07-05T09:00:00+09:00",
+  "refresh_minutes": 60,
+  "items": [
+    {
+      "id": 1,
+      "title": "OpenAI, 새로운 AI 모델 발표",
+      "summary": "GPT-6 관련 주요 기능이 공개되었습니다.",
+      "url": "https://blog.naver.com/xxxx/123456",
+      "icon": "📰",
+      "type": "news",
+      "priority": 10,
+      "start": "2026-07-05",
+      "end": "2026-07-10",
+      "target": [
+        "*"
+      ]
+    }
+  ]
+}
