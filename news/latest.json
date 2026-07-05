@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-07-05T20:30:03+09:00",
+  "updated": "2026-07-05T20:35:03+09:00",
   "items": [
     {
       "id": "news-20260705-001",
-      "title": "국내 첫 ‘농림위성’, 스페이스X 팰컨9 타고 내일 우주로",
-      "summary": "이데일리 | IT/과학",
+      "title": "SKT, 영남권에 2GW AIDC 짓는다…'아시아 AI 인프라 허브' 도약",
+      "summary": "파이낸셜뉴스 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -15,11 +15,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/018/0006323033",
+      "source_url": "https://n.news.naver.com/mnews/article/014/0005543686",
       "source": {
-        "title": "국내 첫 ‘농림위성’, 스페이스X 팰컨9 타고 내일 우주로",
-        "url": "https://n.news.naver.com/mnews/article/018/0006323033",
-        "press": "이데일리",
+        "title": "SKT, 영남권에 2GW AIDC 짓는다…'아시아 AI 인프라 허브' 도약",
+        "url": "https://n.news.naver.com/mnews/article/014/0005543686",
+        "press": "파이낸셜뉴스",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -27,8 +27,8 @@
     },
     {
       "id": "news-20260705-002",
-      "title": "하정우 \"토큰경제 실현돼야 AI 시대 새 성장동력 현실화\"",
-      "summary": "뉴스1 | IT/과학",
+      "title": "\"잘 안 터지는 보이스톡 답답해\" 국내번호 그대로 해외 무료통화",
+      "summary": "매일경제 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -38,11 +38,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/421/0009040770",
+      "source_url": "https://n.news.naver.com/mnews/article/009/0005702912",
       "source": {
-        "title": "하정우 \"토큰경제 실현돼야 AI 시대 새 성장동력 현실화\"",
-        "url": "https://n.news.naver.com/mnews/article/421/0009040770",
-        "press": "뉴스1",
+        "title": "\"잘 안 터지는 보이스톡 답답해\" 국내번호 그대로 해외 무료통화",
+        "url": "https://n.news.naver.com/mnews/article/009/0005702912",
+        "press": "매일경제",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -50,8 +50,8 @@
     },
     {
       "id": "news-20260705-003",
-      "title": "LG U+, 일본 시작으로 해외 100개국 '익시오 로밍콜' 출시",
-      "summary": "아시아경제 | IT/과학",
+      "title": "카카오, 기상청과 폭염 대응 협력… 카톡으로 위험기상 정보 알린다",
+      "summary": "조선비즈 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -61,11 +61,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/277/0005785539",
+      "source_url": "https://n.news.naver.com/mnews/article/366/0001176826",
       "source": {
-        "title": "LG U+, 일본 시작으로 해외 100개국 '익시오 로밍콜' 출시",
-        "url": "https://n.news.naver.com/mnews/article/277/0005785539",
-        "press": "아시아경제",
+        "title": "카카오, 기상청과 폭염 대응 협력… 카톡으로 위험기상 정보 알린다",
+        "url": "https://n.news.naver.com/mnews/article/366/0001176826",
+        "press": "조선비즈",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -73,81 +73,12 @@
     },
     {
       "id": "news-20260705-004",
-      "title": "나혼렙·중증외상센터… 베트남서 K웹툰 전시회",
-      "summary": "파이낸셜뉴스 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 96,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/014/0005543835",
-      "source": {
-        "title": "나혼렙·중증외상센터… 베트남서 K웹툰 전시회",
-        "url": "https://n.news.naver.com/mnews/article/014/0005543835",
-        "press": "파이낸셜뉴스",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-005",
-      "title": "네이버 AI검색, 환각 30%P 줄이고 비용도 3분의 1로 절감",
-      "summary": "서울경제 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 95,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/011/0004638300",
-      "source": {
-        "title": "네이버 AI검색, 환각 30%P 줄이고 비용도 3분의 1로 절감",
-        "url": "https://n.news.naver.com/mnews/article/011/0004638300",
-        "press": "서울경제",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-006",
-      "title": "에이전트AI, 생성AI보다 전력 소모 '136.5배'↑…\"에너지 인프라 중요성 부각\"",
-      "summary": "디지털데일리 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 94,
-      "start": "2026-07-05",
-      "end": "2026-07-06",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/138/0002233169",
-      "source": {
-        "title": "에이전트AI, 생성AI보다 전력 소모 '136.5배'↑…\"에너지 인프라 중요성 부각\"",
-        "url": "https://n.news.naver.com/mnews/article/138/0002233169",
-        "press": "디지털데일리",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      }
-    },
-    {
-      "id": "news-20260705-007",
       "title": "정보통신망법 7일 시행… ‘입틀막법’ 논란 속 개문발차[기획]",
       "summary": "디지털타임스 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
-      "priority": 93,
+      "priority": 96,
       "start": "2026-07-05",
       "end": "2026-07-06",
       "target": [
@@ -164,9 +95,78 @@
       }
     },
     {
+      "id": "news-20260705-005",
+      "title": "예약·구매까지…네이버, AI 검색 승부수",
+      "summary": "한국경제 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 95,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/015/0005306346",
+      "source": {
+        "title": "예약·구매까지…네이버, AI 검색 승부수",
+        "url": "https://n.news.naver.com/mnews/article/015/0005306346",
+        "press": "한국경제",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-006",
+      "title": "메모리 품귀에 가격 4.6배 폭등…삼성 ‘갤럭시Z 폴드8’ 가격 인상 유력",
+      "summary": "서울경제 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 94,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/011/0004638179",
+      "source": {
+        "title": "메모리 품귀에 가격 4.6배 폭등…삼성 ‘갤럭시Z 폴드8’ 가격 인상 유력",
+        "url": "https://n.news.naver.com/mnews/article/011/0004638179",
+        "press": "서울경제",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
+      "id": "news-20260705-007",
+      "title": "‘답변’ 아닌 ‘과제’ 수행하는 AI, 에너지 소비 136.6배 많아",
+      "summary": "한겨레 | IT/과학",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 93,
+      "start": "2026-07-05",
+      "end": "2026-07-06",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/028/0002812702",
+      "source": {
+        "title": "‘답변’ 아닌 ‘과제’ 수행하는 AI, 에너지 소비 136.6배 많아",
+        "url": "https://n.news.naver.com/mnews/article/028/0002812702",
+        "press": "한겨레",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      }
+    },
+    {
       "id": "news-20260705-008",
-      "title": "AI가 밀어 올린 메모리값…하반기 스마트폰·노트북 또 오른다",
-      "summary": "중앙일보 | IT/과학",
+      "title": "국내 첫 '농림위성' 7일 발사…내년부터 농지조사·수급예측 투입",
+      "summary": "머니투데이 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -176,11 +176,11 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/025/0003535387",
+      "source_url": "https://n.news.naver.com/mnews/article/008/0005381558",
       "source": {
-        "title": "AI가 밀어 올린 메모리값…하반기 스마트폰·노트북 또 오른다",
-        "url": "https://n.news.naver.com/mnews/article/025/0003535387",
-        "press": "중앙일보",
+        "title": "국내 첫 '농림위성' 7일 발사…내년부터 농지조사·수급예측 투입",
+        "url": "https://n.news.naver.com/mnews/article/008/0005381558",
+        "press": "머니투데이",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
@@ -189,7 +189,7 @@
     {
       "id": "news-20260705-009",
       "title": "“억지 코믹 대사” “너무 올드한 개그” 쏟아지는 혹평에도 1위 알고보니…넷플릭스 알고리즘 힘",
-      "summary": "헤럴드경제 | 49분전 | IT/과학",
+      "summary": "헤럴드경제 | 54분전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -204,7 +204,7 @@
         "title": "“억지 코믹 대사” “너무 올드한 개그” 쏟아지는 혹평에도 1위 알고보니…넷플릭스 알고리즘 힘",
         "url": "https://n.news.naver.com/mnews/article/016/0002665883",
         "press": "헤럴드경제",
-        "published_at": "49분전",
+        "published_at": "54분전",
         "source": "naver",
         "category": "IT/과학"
       }
@@ -212,7 +212,7 @@
     {
       "id": "news-20260705-010",
       "title": "TV조선 재승인 재판 4년째… ‘행정 관행’과 ‘조직적 범죄’ 사이",
-      "summary": "이데일리 | 1시간전 | IT/과학",
+      "summary": "이데일리 | 2시간전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -227,7 +227,7 @@
         "title": "TV조선 재승인 재판 4년째… ‘행정 관행’과 ‘조직적 범죄’ 사이",
         "url": "https://n.news.naver.com/mnews/article/018/0006323235",
         "press": "이데일리",
-        "published_at": "1시간전",
+        "published_at": "2시간전",
         "source": "naver",
         "category": "IT/과학"
       }
@@ -442,7 +442,7 @@
     {
       "id": "news-20260705-020",
       "title": "대중은 진짜 정치인보다 AI 정치인 답변 더 신뢰했다 [달콤한 사이언스]",
-      "summary": "서울신문 | 2시간전 | IT/과학",
+      "summary": "서울신문 | 3시간전 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -457,7 +457,7 @@
         "title": "대중은 진짜 정치인보다 AI 정치인 답변 더 신뢰했다 [달콤한 사이언스]",
         "url": "https://n.news.naver.com/mnews/article/081/0003658444",
         "press": "서울신문",
-        "published_at": "2시간전",
+        "published_at": "3시간전",
         "source": "naver",
         "category": "IT/과학"
       }
