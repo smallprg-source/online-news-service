@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-07-07T23:24:51+09:00",
+  "updated": "2026-07-07T23:48:37+09:00",
   "items": [
     {
       "id": "news-20260707-001",
-      "title": "김민석 의원이 검찰개혁 반대 주장은 가짜뉴스라고 비판했습니다.\n동시에 당의 방향과 반대로 행동하는 모습에 대해 지적했습니다.",
-      "summary": "서울경제 | 정치",
+      "title": "- 이성윤 의원이 계엄 당시 김민석 의원이 감기약을 먹었다며 공세를 펼쳤습니다.\n- 이에 김민석 의원은 국민의힘에서 하는 말인 줄 알았다며 반박했습니다.",
+      "summary": "한겨레 | 정치",
       "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
@@ -15,21 +15,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/011/0004639152",
+      "source_url": "https://n.news.naver.com/mnews/article/028/0002812969",
       "source": {
-        "title": "김민석 “검찰개혁 반대는 100% 가짜뉴스…당 반대로 연기”",
-        "url": "https://n.news.naver.com/mnews/article/011/0004639152",
-        "press": "서울경제",
+        "title": "김민석, ‘계엄날 감기약’ 이성윤 공세에 “국힘서 얘기하는 줄”",
+        "url": "https://n.news.naver.com/mnews/article/028/0002812969",
+        "press": "한겨레",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "김민석 의원이 검찰개혁 반대 주장은 가짜뉴스라고 비판했습니다.\n동시에 당의 방향과 반대로 행동하는 모습에 대해 지적했습니다."
+      "ai_summary": "- 이성윤 의원이 계엄 당시 김민석 의원이 감기약을 먹었다며 공세를 펼쳤습니다.\n- 이에 김민석 의원은 국민의힘에서 하는 말인 줄 알았다며 반박했습니다."
     },
     {
       "id": "news-20260707-002",
-      "title": "김민석 의원이 '메가프로젝트' 추진 주체로 당대표를 지목했습니다.\n전대 이후 차기 당대표가 이를 직접 맡아야 한다고 주장했습니다.",
-      "summary": "뉴시스 | 정치",
+      "title": "김민석 의원이 지방주도성장을 위한 메가프로젝트 전략을 논의했습니다.\n이를 통해 지역 경제 활성화와 국가적 대전환을 추진할 계획입니다.",
+      "summary": "kbc광주방송 | 정치",
       "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
@@ -39,21 +39,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/003/0014051882",
+      "source_url": "https://n.news.naver.com/mnews/article/660/0000112677",
       "source": {
-        "title": "김민석 \"메가프로젝트, 전대 이후 당대표가 맡아야\" [뉴시스Pic]",
-        "url": "https://n.news.naver.com/mnews/article/003/0014051882",
-        "press": "뉴시스",
+        "title": "\"메가프로젝트는 국가 대전환\"…김민석, 지방주도성장 전략 논의",
+        "url": "https://n.news.naver.com/mnews/article/660/0000112677",
+        "press": "kbc광주방송",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "김민석 의원이 '메가프로젝트' 추진 주체로 당대표를 지목했습니다.\n전대 이후 차기 당대표가 이를 직접 맡아야 한다고 주장했습니다."
+      "ai_summary": "김민석 의원이 지방주도성장을 위한 메가프로젝트 전략을 논의했습니다.\n이를 통해 지역 경제 활성화와 국가적 대전환을 추진할 계획입니다."
     },
     {
       "id": "news-20260707-003",
-      "title": "- 국민힘이 친한계 의원들에 대한 중징계를 강행하는 분위기입니다.\n- 장제원 의원은 해당 행위자에 대해 복당 영구 금지를 주장했습니다.",
-      "summary": "국민일보 | 정치",
+      "title": "국민의힘이 캐나다 잠수함 수주 실패를 지적하며 정부를 비판했습니다.\n실질적인 성과 없이 명분과 의미만 앞세우고 있다고 주장했습니다.",
+      "summary": "이데일리 | 정치",
       "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
@@ -63,21 +63,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/005/0001859263",
+      "source_url": "https://n.news.naver.com/mnews/article/018/0006324492",
       "source": {
-        "title": "친한계 중징계 강행 태세… 張 “해당 행위, 복당 영구금지해야”",
-        "url": "https://n.news.naver.com/mnews/article/005/0001859263",
-        "press": "국민일보",
+        "title": "국힘, 李정부 겨냥 \"캐나다 잠수함 수주 실패하고도 의미만 앞세워\"",
+        "url": "https://n.news.naver.com/mnews/article/018/0006324492",
+        "press": "이데일리",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "- 국민힘이 친한계 의원들에 대한 중징계를 강행하는 분위기입니다.\n- 장제원 의원은 해당 행위자에 대해 복당 영구 금지를 주장했습니다."
+      "ai_summary": "국민의힘이 캐나다 잠수함 수주 실패를 지적하며 정부를 비판했습니다.\n실질적인 성과 없이 명분과 의미만 앞세우고 있다고 주장했습니다."
     },
     {
       "id": "news-20260707-004",
-      "title": "- 한국 잠수함의 60조 원 규모 수출 시도가 동맹국 간의 정치적 갈등과 벽에 부딪혔습니다.\n- 기술 이전 및 전략적 이해관계 차이로 인해 대규모 수주 가능성이 불투명해진 상황입니다.",
-      "summary": "채널A | 정치",
+      "title": "- '무섭노'가 일베 용어인지에 대해 여론조사 결과 절반 이상이 지역 사투리라고 답했습니다.\n- 특정 표현의 혐오 커뮤니티 사용 여부를 두고 대중의 인식 차이가 나타났습니다.",
+      "summary": "조선비즈 | 정치",
       "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
@@ -87,21 +87,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/449/0000351936",
+      "source_url": "https://n.news.naver.com/mnews/article/366/0001177409",
       "source": {
-        "title": "동맹 벽에 막힌 60조 잠수함 수주",
-        "url": "https://n.news.naver.com/mnews/article/449/0000351936",
-        "press": "채널A",
+        "title": "원이 ‘무섭노’가 일베 표현?… 여론조사선 절반 이상이 “지역 사투리”",
+        "url": "https://n.news.naver.com/mnews/article/366/0001177409",
+        "press": "조선비즈",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "- 한국 잠수함의 60조 원 규모 수출 시도가 동맹국 간의 정치적 갈등과 벽에 부딪혔습니다.\n- 기술 이전 및 전략적 이해관계 차이로 인해 대규모 수주 가능성이 불투명해진 상황입니다."
+      "ai_summary": "- '무섭노'가 일베 용어인지에 대해 여론조사 결과 절반 이상이 지역 사투리라고 답했습니다.\n- 특정 표현의 혐오 커뮤니티 사용 여부를 두고 대중의 인식 차이가 나타났습니다."
     },
     {
       "id": "news-20260707-005",
-      "title": "여당이 전당대회에서 결선투표 대신 '선호투표제'를 도입하기로 했습니다.\n또한 청년 최고위원 제도를 새롭게 도입하여 청년들의 참여를 확대합니다.",
-      "summary": "동아일보 | 정치",
+      "title": "홈플러스의 기업회생 절차가 폐지되면서 MBK파트너스가 막대한 채무를 떠안게 되었습니다.\n이에 따라 MBK는 약 4,000억 원 규모의 청구서를 처리해야 하는 상황에 직면했습니다.",
+      "summary": "블로터 | 정치",
       "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
@@ -111,21 +111,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/020/0003732126",
+      "source_url": "https://n.news.naver.com/mnews/article/293/0000087313",
       "source": {
-        "title": "與 전대, 결선투표 대신 ‘선호투표’…청년 최고위원제도 도입",
-        "url": "https://n.news.naver.com/mnews/article/020/0003732126",
-        "press": "동아일보",
+        "title": "회생 폐지에 MBK로 날아올 4000억 '청구서'[홈플러스 M&A]",
+        "url": "https://n.news.naver.com/mnews/article/293/0000087313",
+        "press": "블로터",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "여당이 전당대회에서 결선투표 대신 '선호투표제'를 도입하기로 했습니다.\n또한 청년 최고위원 제도를 새롭게 도입하여 청년들의 참여를 확대합니다."
+      "ai_summary": "홈플러스의 기업회생 절차가 폐지되면서 MBK파트너스가 막대한 채무를 떠안게 되었습니다.\n이에 따라 MBK는 약 4,000억 원 규모의 청구서를 처리해야 하는 상황에 직면했습니다."
     },
     {
       "id": "news-20260707-006",
-      "title": "정점식 의원이 개정 정보통신망법 시행 첫날, 해당 법안에 대해 헌법소원을 청구하겠다고 밝혔습니다.\n그는 이 법안을 표현의 자유를 억압하는 '입틀막법'이라며 강하게 비판했습니다.",
-      "summary": "뉴시스 | 정치",
+      "title": "- 이 대통령이 나토 정상회의 참석을 위해 공식 일정에 돌입했습니다.\n- 이번 방문을 통해 K-방산 수출 확대를 위한 적극적인 세일즈에 나섭니다.",
+      "summary": "MBC | 정치",
       "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
@@ -135,21 +135,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/003/0014050062",
+      "source_url": "https://n.news.naver.com/mnews/article/214/0001510162",
       "source": {
-        "title": "정점식, 개정 정통망법 시행 첫 날 \"입틀막법 헌법소원심판 청구할 것\"",
-        "url": "https://n.news.naver.com/mnews/article/003/0014050062",
-        "press": "뉴시스",
+        "title": "이 대통령, 'K-방산 세일즈' 나토 정상회의 공식일정 돌입",
+        "url": "https://n.news.naver.com/mnews/article/214/0001510162",
+        "press": "MBC",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "정점식 의원이 개정 정보통신망법 시행 첫날, 해당 법안에 대해 헌법소원을 청구하겠다고 밝혔습니다.\n그는 이 법안을 표현의 자유를 억압하는 '입틀막법'이라며 강하게 비판했습니다."
+      "ai_summary": "- 이 대통령이 나토 정상회의 참석을 위해 공식 일정에 돌입했습니다.\n- 이번 방문을 통해 K-방산 수출 확대를 위한 적극적인 세일즈에 나섭니다."
     },
     {
       "id": "news-20260707-007",
-      "title": "이 대통령이 나토 정상회의 참석을 위해 튀르키예로 출국했습니다.\n이번 방문을 통해 'K-방산'의 수출 확대와 세일즈에 집중할 예정입니다.",
-      "summary": "한국경제 | 정치",
+      "title": "호우철 지뢰 발견 시 절대 만지지 말고 즉시 신고해야 합니다.\n북한산 목함지뢰는 침수 시 이동 가능성이 커 각별한 주의가 필요합니다.",
+      "summary": "아시아경제 | 정치",
       "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
@@ -159,21 +159,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/015/0005306980",
+      "source_url": "https://n.news.naver.com/mnews/article/277/0005786491",
       "source": {
-        "title": "[속보] 李대통령, 튀르키예로 출국…나토 정상회의 'K-방산 세일즈'",
-        "url": "https://n.news.naver.com/mnews/article/015/0005306980",
-        "press": "한국경제",
+        "title": "호우철 이걸 봤다면 '북한 목함지뢰'",
+        "url": "https://n.news.naver.com/mnews/article/277/0005786491",
+        "press": "아시아경제",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "이 대통령이 나토 정상회의 참석을 위해 튀르키예로 출국했습니다.\n이번 방문을 통해 'K-방산'의 수출 확대와 세일즈에 집중할 예정입니다."
+      "ai_summary": "호우철 지뢰 발견 시 절대 만지지 말고 즉시 신고해야 합니다.\n북한산 목함지뢰는 침수 시 이동 가능성이 커 각별한 주의가 필요합니다."
     },
     {
       "id": "news-20260707-008",
-      "title": "- 국정조사특위 위원장과 여당이 투표용지 재검표를 적극 검토하고 있습니다.\n- 이번 재검표 여부는 향후 정치적 쟁점이 될 전망입니다.",
-      "summary": "매일경제 | 정치",
+      "title": "- 감사원은 김형석 전 관장 임명 과정에서 후보 추천위원회 운영이 부적정했다고 판단했습니다.\n- 다만, 임명 과정 자체가 법을 위반했다는 '불법 임명' 주장은 기각했습니다.",
+      "summary": "조선일보 | 정치",
       "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
@@ -183,21 +183,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/009/0005703797",
+      "source_url": "https://n.news.naver.com/mnews/article/023/0003986248",
       "source": {
-        "title": "올공 투표용지 재검표 할 듯…국조특위장 이어 與도 “적극 검토”",
-        "url": "https://n.news.naver.com/mnews/article/009/0005703797",
-        "press": "매일경제",
+        "title": "감사원 “김형석 전 독립기념관장 임명 때 후보 추천위 운영 부적정”… ‘불법 임명’ 주장은 기각",
+        "url": "https://n.news.naver.com/mnews/article/023/0003986248",
+        "press": "조선일보",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "- 국정조사특위 위원장과 여당이 투표용지 재검표를 적극 검토하고 있습니다.\n- 이번 재검표 여부는 향후 정치적 쟁점이 될 전망입니다."
+      "ai_summary": "- 감사원은 김형석 전 관장 임명 과정에서 후보 추천위원회 운영이 부적정했다고 판단했습니다.\n- 다만, 임명 과정 자체가 법을 위반했다는 '불법 임명' 주장은 기각했습니다."
     },
     {
       "id": "news-20260707-009",
-      "title": "조국 대표가 정성호 의원에게 검찰개혁의 완수를 당부했습니다.\n검찰개혁에 차질이 없도록 만전을 기해달라는 요청입니다.",
-      "summary": "YTN | 정치",
+      "title": "- 국조특위가 중앙선관위를 방문해 투표지 부족 사태의 부실 대응을 강력히 질타했습니다.\n- 선관위의 관리 소홀 문제를 지적하며 책임 있는 답변과 대책 마련을 요구했습니다.",
+      "summary": "머니투데이 | 정치",
       "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
@@ -207,21 +207,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/052/0002375968",
+      "source_url": "https://n.news.naver.com/mnews/article/008/0005382529",
       "source": {
-        "title": "조 의장, 정성호에 \"검찰개혁 차질 없도록 만전 기해달라\"",
-        "url": "https://n.news.naver.com/mnews/article/052/0002375968",
-        "press": "YTN",
+        "title": "중앙선관위 찾아간 국조특위…'투표지 부족' 부실 대응 '맹폭'",
+        "url": "https://n.news.naver.com/mnews/article/008/0005382529",
+        "press": "머니투데이",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "조국 대표가 정성호 의원에게 검찰개혁의 완수를 당부했습니다.\n검찰개혁에 차질이 없도록 만전을 기해달라는 요청입니다."
+      "ai_summary": "- 국조특위가 중앙선관위를 방문해 투표지 부족 사태의 부실 대응을 강력히 질타했습니다.\n- 선관위의 관리 소홀 문제를 지적하며 책임 있는 답변과 대책 마련을 요구했습니다."
     },
     {
       "id": "news-20260707-010",
-      "title": "- 김민석 의원이 친명계 비판인 '감기약' 발언을 듣고 국민의힘 얘기인 줄 알았다고 말했습니다.\n- 그는 당내 비판보다 국민의힘의 상황이 더 심각하다는 취지로 반응했습니다.",
-      "summary": "파이낸셜뉴스 | 정치",
+      "title": "- 한국과 나토(NATO)가 방위산업 파트너십을 '2.0' 단계로 격상했습니다.\n- 이를 통해 한국은 세계 최대 방산 시장 공략을 본격화할 계획입니다.",
+      "summary": "서울신문 | 정치",
       "url": "https://blog.naver.com/smallprg/224337344616",
       "icon": "news",
       "type": "news",
@@ -231,16 +231,16 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/014/0005544669",
+      "source_url": "https://n.news.naver.com/mnews/article/081/0003659189",
       "source": {
-        "title": "김민석, 친청 '감기약' 비판에 \"국힘 얘기인 줄\"",
-        "url": "https://n.news.naver.com/mnews/article/014/0005544669",
-        "press": "파이낸셜뉴스",
+        "title": "李 대통령 “한-나토 방위산업 파트너십 2.0 격상”…최대 방산시장 공략나선다",
+        "url": "https://n.news.naver.com/mnews/article/081/0003659189",
+        "press": "서울신문",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "- 김민석 의원이 친명계 비판인 '감기약' 발언을 듣고 국민의힘 얘기인 줄 알았다고 말했습니다.\n- 그는 당내 비판보다 국민의힘의 상황이 더 심각하다는 취지로 반응했습니다."
+      "ai_summary": "- 한국과 나토(NATO)가 방위산업 파트너십을 '2.0' 단계로 격상했습니다.\n- 이를 통해 한국은 세계 최대 방산 시장 공략을 본격화할 계획입니다."
     }
   ]
 }
