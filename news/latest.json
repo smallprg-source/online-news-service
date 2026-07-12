@@ -1,246 +1,246 @@
 {
   "version": 1,
-  "updated": "2026-07-11T14:15:20+09:00",
+  "updated": "2026-07-12T14:41:55+09:00",
   "items": [
     {
-      "id": "news-20260711-001",
-      "title": "장동혁 의원은 한동훈 대표의 '당원 게시판' 범죄 혐의로 인한 제명을 주장했습니다.\n또한, 대표 사퇴 요구는 당의 결속력을 해치는 '뺄셈 정치'라고 비판했습니다.",
-      "summary": "한겨레 | 정치",
-      "url": "https://blog.naver.com/smallprg/224337344616",
+      "id": "news-20260712-001",
+      "title": "해군 함정 승조원 1명이 동해 경비 임무 중 실종되었습니다.\n현재 해군과 관계 기관이 합동으로 수색 작업을 진행 중입니다.",
+      "summary": "중앙일보 | 정치",
+      "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
       "priority": 99,
-      "start": "2026-07-11",
-      "end": "2026-07-12",
+      "start": "2026-07-12",
+      "end": "2026-07-13",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/028/0002813549",
+      "source_url": "https://n.news.naver.com/mnews/article/025/0003536953",
       "source": {
-        "title": "장동혁 “한동훈은 ‘당게’ 범죄로 제명…대표사퇴 요구가 뺄셈정치”",
-        "url": "https://n.news.naver.com/mnews/article/028/0002813549",
-        "press": "한겨레",
+        "title": "해군 “동해서 함정 승조원 1명 경비 임무 중 실종…수색 중”",
+        "url": "https://n.news.naver.com/mnews/article/025/0003536953",
+        "press": "중앙일보",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "장동혁 의원은 한동훈 대표의 '당원 게시판' 범죄 혐의로 인한 제명을 주장했습니다.\n또한, 대표 사퇴 요구는 당의 결속력을 해치는 '뺄셈 정치'라고 비판했습니다."
+      "ai_summary": "해군 함정 승조원 1명이 동해 경비 임무 중 실종되었습니다.\n현재 해군과 관계 기관이 합동으로 수색 작업을 진행 중입니다."
     },
     {
-      "id": "news-20260711-002",
-      "title": "현직 검사가 보완수사권 폐지 시 수사 효율성 저하와 공백을 우려했습니다.\n이로 인해 기소 후 증거 부족으로 인한 무죄 판결률이 높아질 것이라 전망했습니다.",
-      "summary": "한국경제 | 정치",
-      "url": "https://blog.naver.com/smallprg/224337344616",
+      "id": "news-20260712-002",
+      "title": "안철수 의원이 한동훈 전 위원장의 복당에 대해 강력한 반대 입장을 밝혔습니다.\n기자회견을 통해 한 전 위원장이 당에 돌아오는 것을 거부했습니다.",
+      "summary": "강원도민일보 | 정치",
+      "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
       "priority": 98,
-      "start": "2026-07-11",
-      "end": "2026-07-12",
+      "start": "2026-07-12",
+      "end": "2026-07-13",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/015/0005308763",
+      "source_url": "https://n.news.naver.com/mnews/article/654/0000189967",
       "source": {
-        "title": "\"무죄율 높아질 것\"…현직 검사의 '보완수사권 폐지' 후 전망 [이슈+]",
-        "url": "https://n.news.naver.com/mnews/article/015/0005308763",
-        "press": "한국경제",
+        "title": "안철수, 한동훈에 \"우리 당에 얼씬도 말라\"…복당 반대 기자회견",
+        "url": "https://n.news.naver.com/mnews/article/654/0000189967",
+        "press": "강원도민일보",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "현직 검사가 보완수사권 폐지 시 수사 효율성 저하와 공백을 우려했습니다.\n이로 인해 기소 후 증거 부족으로 인한 무죄 판결률이 높아질 것이라 전망했습니다."
+      "ai_summary": "안철수 의원이 한동훈 전 위원장의 복당에 대해 강력한 반대 입장을 밝혔습니다.\n기자회견을 통해 한 전 위원장이 당에 돌아오는 것을 거부했습니다."
     },
     {
-      "id": "news-20260711-003",
-      "title": "SK하이닉스가 10일 미국 나스닥 시장에서 첫 거래를 시작합니다.\n이를 통해 글로벌 인지도 제고와 투자 유치 확대가 기대됩니다.",
-      "summary": "아시아경제 | 경제",
-      "url": "https://blog.naver.com/smallprg/224337344616",
+      "id": "news-20260712-003",
+      "title": "HBM 수요가 기하급수적으로 급증하며 시장 기대감이 커지고 있습니다.\n이에 따라 관련 주가가 첫날 13% 상승하는 강세를 보였습니다.",
+      "summary": "MBC | 경제",
+      "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
       "priority": 97,
-      "start": "2026-07-11",
-      "end": "2026-07-12",
+      "start": "2026-07-12",
+      "end": "2026-07-13",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/277/0005788486",
+      "source_url": "https://n.news.naver.com/mnews/article/214/0001511018",
       "source": {
-        "title": "SK하이닉스, 美 나스닥 전격 입성…10일 첫 거래 개시",
-        "url": "https://n.news.naver.com/mnews/article/277/0005788486",
-        "press": "아시아경제",
+        "title": "첫날 13% 상승‥\"HBM 수요 기하급수적 급증\"",
+        "url": "https://n.news.naver.com/mnews/article/214/0001511018",
+        "press": "MBC",
         "published_at": "",
         "source": "naver",
         "category": "경제"
       },
-      "ai_summary": "SK하이닉스가 10일 미국 나스닥 시장에서 첫 거래를 시작합니다.\n이를 통해 글로벌 인지도 제고와 투자 유치 확대가 기대됩니다."
+      "ai_summary": "HBM 수요가 기하급수적으로 급증하며 시장 기대감이 커지고 있습니다.\n이에 따라 관련 주가가 첫날 13% 상승하는 강세를 보였습니다."
     },
     {
-      "id": "news-20260711-004",
-      "title": "SK하이닉스가 HBM 공급 과잉으로 인한 수익성 악화 우려에 직면했습니다.\n시장의 수요 감소 전망으로 인해 주가와 실적에 충격이 예상됩니다.",
-      "summary": "한경비즈니스 | 경제",
-      "url": "https://blog.naver.com/smallprg/224337344616",
+      "id": "news-20260712-004",
+      "title": "현대경제연구원은 하반기 미국 적정금리가 4%대에 진입할 것으로 전망했습니다.\n이에 따라 고금리 유지로 인한 긴축 충격에 대비해야 한다고 분석했습니다.",
+      "summary": "TV조선 | 경제",
+      "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
       "priority": 96,
-      "start": "2026-07-11",
-      "end": "2026-07-12",
+      "start": "2026-07-12",
+      "end": "2026-07-13",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/050/0000108373",
+      "source_url": "https://n.news.naver.com/mnews/article/448/0000626143",
       "source": {
-        "title": "SK하이닉스에 무슨 일이?...충격 전망 나왔다",
-        "url": "https://n.news.naver.com/mnews/article/050/0000108373",
-        "press": "한경비즈니스",
+        "title": "현대경제硏 \"하반기 美 적정금리 4%대 진입 …긴축 충격 대비 해야\"",
+        "url": "https://n.news.naver.com/mnews/article/448/0000626143",
+        "press": "TV조선",
         "published_at": "",
         "source": "naver",
         "category": "경제"
       },
-      "ai_summary": "SK하이닉스가 HBM 공급 과잉으로 인한 수익성 악화 우려에 직면했습니다.\n시장의 수요 감소 전망으로 인해 주가와 실적에 충격이 예상됩니다."
+      "ai_summary": "현대경제연구원은 하반기 미국 적정금리가 4%대에 진입할 것으로 전망했습니다.\n이에 따라 고금리 유지로 인한 긴축 충격에 대비해야 한다고 분석했습니다."
     },
     {
-      "id": "news-20260711-005",
-      "title": "노경필 전 고법원장이 신임 법원행정처장으로 임명되었습니다.\n전임 처장의 사임 이후 4개월 만에 공석이었던 자리가 채워졌습니다.",
-      "summary": "YTN | 사회",
-      "url": "https://blog.naver.com/smallprg/224337344616",
+      "id": "news-20260712-005",
+      "title": "13만 명의 거대 조직이 된 경찰의 권한 남용에 대한 견제 장치가 필요하다는 지적이 나오고 있습니다.\n경찰의 비대해진 권력이 국민의 기본권 침해로 이어지지 않도록 효율적인 통제 방안이 시급합니다.",
+      "summary": "연합뉴스 | 사회",
+      "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
       "priority": 95,
-      "start": "2026-07-11",
-      "end": "2026-07-12",
+      "start": "2026-07-12",
+      "end": "2026-07-13",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/052/0002377670",
+      "source_url": "https://n.news.naver.com/mnews/article/001/0016189112",
       "source": {
-        "title": "신임 법원행정처장에 노경필...전임 사임 4개월만",
-        "url": "https://n.news.naver.com/mnews/article/052/0002377670",
-        "press": "YTN",
+        "title": "④ '공룡경찰' 13만명 누가 견제…국민 영향은[시험대 오른 경찰]",
+        "url": "https://n.news.naver.com/mnews/article/001/0016189112",
+        "press": "연합뉴스",
         "published_at": "",
         "source": "naver",
         "category": "사회"
       },
-      "ai_summary": "노경필 전 고법원장이 신임 법원행정처장으로 임명되었습니다.\n전임 처장의 사임 이후 4개월 만에 공석이었던 자리가 채워졌습니다."
+      "ai_summary": "13만 명의 거대 조직이 된 경찰의 권한 남용에 대한 견제 장치가 필요하다는 지적이 나오고 있습니다.\n경찰의 비대해진 권력이 국민의 기본권 침해로 이어지지 않도록 효율적인 통제 방안이 시급합니다."
     },
     {
-      "id": "news-20260711-006",
-      "title": "더 뉴 BMW iX3가 유로 NCAP 안전도 평가에서 최고 등급인 별 5개를 획득했습니다.\n강력한 안전 성능을 입증하며 최상위 수준의 안전성을 확보한 것으로 나타났습니다.",
-      "summary": "아시아경제 | 생활/문화",
-      "url": "https://blog.naver.com/smallprg/224337344616",
+      "id": "news-20260712-006",
+      "title": "전국적으로 최고 35도의 무더운 폭염이 계속되겠습니다.\n오후에는 내륙과 산지 중심으로 소나기가 내릴 전망입니다.",
+      "summary": "강원도민일보 | 생활/문화",
+      "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
       "priority": 94,
-      "start": "2026-07-11",
-      "end": "2026-07-12",
+      "start": "2026-07-12",
+      "end": "2026-07-13",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/277/0005788130",
+      "source_url": "https://n.news.naver.com/mnews/article/654/0000189953",
       "source": {
-        "title": "더 뉴 BMW iX3, 유로 NCAP에서 최고 안전 등급 별 5개 획득",
-        "url": "https://n.news.naver.com/mnews/article/277/0005788130",
-        "press": "아시아경제",
+        "title": "강원 등 전국 '낮 최고 35도' 폭염 지속…내륙·산지 오후 소나기",
+        "url": "https://n.news.naver.com/mnews/article/654/0000189953",
+        "press": "강원도민일보",
         "published_at": "",
         "source": "naver",
         "category": "생활/문화"
       },
-      "ai_summary": "더 뉴 BMW iX3가 유로 NCAP 안전도 평가에서 최고 등급인 별 5개를 획득했습니다.\n강력한 안전 성능을 입증하며 최상위 수준의 안전성을 확보한 것으로 나타났습니다."
+      "ai_summary": "전국적으로 최고 35도의 무더운 폭염이 계속되겠습니다.\n오후에는 내륙과 산지 중심으로 소나기가 내릴 전망입니다."
     },
     {
-      "id": "news-20260711-007",
-      "title": "미 상무장관이 삼성전자와 SK하이닉스에 미국 내 투자 확대를 공식 촉구했습니다.\n이는 미국 본토 내 반도체 공급망 강화와 생산 능력 확대를 위한 조치입니다.",
-      "summary": "조선비즈 | 세계",
-      "url": "https://blog.naver.com/smallprg/224337344616",
+      "id": "news-20260712-007",
+      "title": "테일러 스위프트의 결혼식 예상 비용이 약 350억 원에 달할 것으로 보입니다.\n특히 행사를 위한 인허가 비용에만 약 2억 원이 소요될 전망입니다.",
+      "summary": "문화일보 | 세계",
+      "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
       "priority": 93,
-      "start": "2026-07-11",
-      "end": "2026-07-12",
+      "start": "2026-07-12",
+      "end": "2026-07-13",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/366/0001178153",
+      "source_url": "https://n.news.naver.com/mnews/article/021/0002804002",
       "source": {
-        "title": "美 상무장관 “삼성·SK하이닉스 美 본토 투자 확대해야” 공식 촉구",
-        "url": "https://n.news.naver.com/mnews/article/366/0001178153",
-        "press": "조선비즈",
+        "title": "350억 짜리 테일러 스위프트 결혼식, 인허가 비용에만 2억 들어",
+        "url": "https://n.news.naver.com/mnews/article/021/0002804002",
+        "press": "문화일보",
         "published_at": "",
         "source": "naver",
         "category": "세계"
       },
-      "ai_summary": "미 상무장관이 삼성전자와 SK하이닉스에 미국 내 투자 확대를 공식 촉구했습니다.\n이는 미국 본토 내 반도체 공급망 강화와 생산 능력 확대를 위한 조치입니다."
+      "ai_summary": "테일러 스위프트의 결혼식 예상 비용이 약 350억 원에 달할 것으로 보입니다.\n특히 행사를 위한 인허가 비용에만 약 2억 원이 소요될 전망입니다."
     },
     {
-      "id": "news-20260711-008",
-      "title": "미국 연구진이 중국산 휴머노이드 로봇을 활용해 동물 복강경 원격수술에 성공했습니다.\n이번 성과는 로봇을 이용한 정밀한 원격 의료 수술의 가능성을 보여주었습니다.",
+      "id": "news-20260712-008",
+      "title": "과기정통부가 부산에서 반도체 연구성과 교류회를 개최했습니다.\n반도체 분야의 최신 성과를 공유하고 협력 방안을 논의했습니다.",
       "summary": "연합뉴스 | IT/과학",
-      "url": "https://blog.naver.com/smallprg/224337344616",
+      "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
       "priority": 92,
-      "start": "2026-07-11",
-      "end": "2026-07-12",
+      "start": "2026-07-12",
+      "end": "2026-07-13",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/001/0016188628",
+      "source_url": "https://n.news.naver.com/mnews/article/001/0016189487",
       "source": {
-        "title": "美연구진, '中휴머노이드 로봇 활용' 동물 복강경 원격수술 성공",
-        "url": "https://n.news.naver.com/mnews/article/001/0016188628",
+        "title": "반도체 연구성과 한자리에…과기정통부, 부산서 성과교류회",
+        "url": "https://n.news.naver.com/mnews/article/001/0016189487",
         "press": "연합뉴스",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
       },
-      "ai_summary": "미국 연구진이 중국산 휴머노이드 로봇을 활용해 동물 복강경 원격수술에 성공했습니다.\n이번 성과는 로봇을 이용한 정밀한 원격 의료 수술의 가능성을 보여주었습니다."
+      "ai_summary": "과기정통부가 부산에서 반도체 연구성과 교류회를 개최했습니다.\n반도체 분야의 최신 성과를 공유하고 협력 방안을 논의했습니다."
     },
     {
-      "id": "news-20260711-009",
-      "title": "배재고가 봉황대기 출전 여부를 결정지을 중요한 일주일을 맞았습니다.\n이번 경기 결과에 따라 대회 출전 가능성이 갈릴 전망입니다.",
+      "id": "news-20260712-009",
+      "title": "KBS 아나운서들이 월드컵 중계에서 활약하며 큰 주목을 받았습니다.\n이들은 전문적인 진행과 전달력으로 중계의 완성도를 높였습니다.",
       "summary": "네이버검색 | 스포츠",
-      "url": "https://blog.naver.com/smallprg/224337344616",
+      "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
       "priority": 91,
-      "start": "2026-07-11",
-      "end": "2026-07-12",
+      "start": "2026-07-12",
+      "end": "2026-07-13",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/article/053/0000059849?sid=102",
+      "source_url": "https://m.entertain.naver.com/article/469/0000941766",
       "source": {
-        "title": "배재고 '운명의 일주일'…봉황대기 출전 갈림길",
-        "url": "https://n.news.naver.com/article/053/0000059849?sid=102",
+        "title": "KBS 월드컵 중계를 빛낸 숨은 주역, 아나운서들",
+        "url": "https://m.entertain.naver.com/article/469/0000941766",
         "press": "네이버검색",
         "published_at": "",
         "source": "naver_search",
         "category": "스포츠"
       },
-      "ai_summary": "배재고가 봉황대기 출전 여부를 결정지을 중요한 일주일을 맞았습니다.\n이번 경기 결과에 따라 대회 출전 가능성이 갈릴 전망입니다."
+      "ai_summary": "KBS 아나운서들이 월드컵 중계에서 활약하며 큰 주목을 받았습니다.\n이들은 전문적인 진행과 전달력으로 중계의 완성도를 높였습니다."
     },
     {
-      "id": "news-20260711-010",
-      "title": "미군 살인범의 뻔뻔한 태도와 기지촌 여성들의 비극적인 삶을 다뤘습니다.\n국가가 조장한 성매매 체제 속에서 희생된 여성들의 아픔을 조명했습니다.",
+      "id": "news-20260712-010",
+      "title": "EPL의 관심을 받는 일본 축구 스타 나카무라의 열애설이 제기되었습니다.\n상대는 팔로워 400만 명을 보유한 일본의 유명 모델로 알려졌습니다.",
       "summary": "네이버검색 | 연예",
-      "url": "https://blog.naver.com/smallprg/224337344616",
+      "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
       "priority": 90,
-      "start": "2026-07-11",
-      "end": "2026-07-12",
+      "start": "2026-07-12",
+      "end": "2026-07-13",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://m.entertain.naver.com/article/416/0000324869",
+      "source_url": "https://m.sports.naver.com/worldcup2026/article/477/0000617845",
       "source": {
-        "title": "[꼬꼬무 찐리뷰]\"그 여자가 매 맞을 짓 했다\" 뻔뻔한 미군 살인범…'국가가 조장한 성매매' 기지촌 여성들의 눈물",
-        "url": "https://m.entertain.naver.com/article/416/0000324869",
+        "title": "\"400만 팔로워 여신이 日 월드컵 스타 선택\"…EPL 러브콜 받는 나카무라, 伊 모델과 열애 정황 쏟아졌다",
+        "url": "https://m.sports.naver.com/worldcup2026/article/477/0000617845",
         "press": "네이버검색",
         "published_at": "",
         "source": "naver_search",
         "category": "연예"
       },
-      "ai_summary": "미군 살인범의 뻔뻔한 태도와 기지촌 여성들의 비극적인 삶을 다뤘습니다.\n국가가 조장한 성매매 체제 속에서 희생된 여성들의 아픔을 조명했습니다."
+      "ai_summary": "EPL의 관심을 받는 일본 축구 스타 나카무라의 열애설이 제기되었습니다.\n상대는 팔로워 400만 명을 보유한 일본의 유명 모델로 알려졌습니다."
     }
   ]
 }
