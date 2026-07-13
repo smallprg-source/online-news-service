@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated": "2026-07-13T21:54:54+09:00",
+  "updated": "2026-07-13T22:11:08+09:00",
   "items": [
     {
       "id": "news-20260713-001",
-      "title": "노컷뉴스 | 정치",
-      "summary": "노컷뉴스 | 정치",
-      "url": "https://blog.naver.com/smallprg/224345561181",
+      "title": "안규백 의원이 병적증명서를 공개하지 않고 있습니다.\n국민의힘은 이에 대해 탄핵소추 검토를 언급하며 압박하고 있습니다.",
+      "summary": "부산일보 | 정치",
+      "url": "https://blog.naver.com/smallprg/224345574965",
       "icon": "news",
       "type": "news",
       "priority": 99,
@@ -15,22 +15,22 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/079/0004167972",
+      "source_url": "https://n.news.naver.com/mnews/article/082/0001389506",
       "source": {
-        "title": "\"나라에 묻고 싶습니다\" 부산 돌려차기 피해자가 한동훈 만난 이유는?[노컷브이]",
-        "url": "https://n.news.naver.com/mnews/article/079/0004167972",
-        "press": "노컷뉴스",
+        "title": "병적증명서 공개 안 하는 안규백…국힘 “탄핵소추 검토” 압박",
+        "url": "https://n.news.naver.com/mnews/article/082/0001389506",
+        "press": "부산일보",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "노컷뉴스 | 정치"
+      "ai_summary": "안규백 의원이 병적증명서를 공개하지 않고 있습니다.\n국민의힘은 이에 대해 탄핵소추 검토를 언급하며 압박하고 있습니다."
     },
     {
       "id": "news-20260713-002",
-      "title": "제공된 정보에 기사 본문이 포함되어 있지 않아 요약이 불가능합니다.",
-      "summary": "중앙일보 | 정치",
-      "url": "https://blog.naver.com/smallprg/224345561181",
+      "title": "SK하이닉스가 17년 만에 최대 낙폭을 기록했습니다.\n레버리지 ETF는 30% 폭락했습니다.",
+      "summary": "국민일보 | 경제",
+      "url": "https://blog.naver.com/smallprg/224345574965",
       "icon": "news",
       "type": "news",
       "priority": 98,
@@ -39,22 +39,22 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/025/0003537253",
+      "source_url": "https://n.news.naver.com/mnews/article/005/0001860685",
       "source": {
-        "title": "국회 원 구성, 법정 시한 50일 초과 코앞…보완수사권이 출구 될까",
-        "url": "https://n.news.naver.com/mnews/article/025/0003537253",
-        "press": "중앙일보",
+        "title": "‘하닉’ 17년만의 최대 낙폭…레버리지 ETF는 30% 폭락",
+        "url": "https://n.news.naver.com/mnews/article/005/0001860685",
+        "press": "국민일보",
         "published_at": "",
         "source": "naver",
-        "category": "정치"
+        "category": "경제"
       },
-      "ai_summary": "제공된 정보에 기사 본문이 포함되어 있지 않아 요약이 불가능합니다."
+      "ai_summary": "SK하이닉스가 17년 만에 최대 낙폭을 기록했습니다.\n레버리지 ETF는 30% 폭락했습니다."
     },
     {
       "id": "news-20260713-003",
-      "title": "무역협회가 저출생과 인력난 해법을 찾기 위해 '한국형 외국인력·이민정책 포럼'을 개최했습니다.\n이번 포럼을 통해 외국인 인력 활용과 이민 정책의 구체적인 발전 방향을 모색했습니다.",
-      "summary": "뉴시스 | 경제",
-      "url": "https://blog.naver.com/smallprg/224345561181",
+      "title": "경찰이 배재고 사건에 대해 불송치 결정을 내릴 방침입니다.\n광주일고 측에서 처벌을 원하지 않는 것으로 알려졌습니다.",
+      "summary": "YTN | 사회",
+      "url": "https://blog.naver.com/smallprg/224345574965",
       "icon": "news",
       "type": "news",
       "priority": 97,
@@ -63,22 +63,22 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/003/0014063251",
+      "source_url": "https://n.news.naver.com/mnews/article/052/0002378661",
       "source": {
-        "title": "\"저출생·인력난 해법 모색\"…무협, '한국형 외국인력·이민정책 포럼' 개최",
-        "url": "https://n.news.naver.com/mnews/article/003/0014063251",
-        "press": "뉴시스",
+        "title": "경찰, 배재고 불송치 가닥...\"광주일고가 처벌 원치 않아\"",
+        "url": "https://n.news.naver.com/mnews/article/052/0002378661",
+        "press": "YTN",
         "published_at": "",
         "source": "naver",
-        "category": "경제"
+        "category": "사회"
       },
-      "ai_summary": "무역협회가 저출생과 인력난 해법을 찾기 위해 '한국형 외국인력·이민정책 포럼'을 개최했습니다.\n이번 포럼을 통해 외국인 인력 활용과 이민 정책의 구체적인 발전 방향을 모색했습니다."
+      "ai_summary": "경찰이 배재고 사건에 대해 불송치 결정을 내릴 방침입니다.\n광주일고 측에서 처벌을 원하지 않는 것으로 알려졌습니다."
     },
     {
       "id": "news-20260713-004",
-      "title": "제공해주신 정보에 기사 본문이 포함되어 있지 않아 요약할 수 없습니다.",
-      "summary": "전자신문 | 경제",
-      "url": "https://blog.naver.com/smallprg/224345561181",
+      "title": "월요일에도 전국에 찜통더위가 이어지겠습니다.\n전국 곳곳에 소나기가 내릴 전망입니다.",
+      "summary": "아이뉴스24 | 생활/문화",
+      "url": "https://blog.naver.com/smallprg/224345574965",
       "icon": "news",
       "type": "news",
       "priority": 96,
@@ -87,22 +87,22 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/030/0003447263",
+      "source_url": "https://n.news.naver.com/mnews/article/031/0001041541",
       "source": {
-        "title": "브라질산 신선란 첫 수입…정부, 계란 공급망 다변화",
-        "url": "https://n.news.naver.com/mnews/article/030/0003447263",
-        "press": "전자신문",
+        "title": "월요일도 '찜통더위'⋯전국 곳곳 소나기[내일날씨]",
+        "url": "https://n.news.naver.com/mnews/article/031/0001041541",
+        "press": "아이뉴스24",
         "published_at": "",
         "source": "naver",
-        "category": "경제"
+        "category": "생활/문화"
       },
-      "ai_summary": "제공해주신 정보에 기사 본문이 포함되어 있지 않아 요약할 수 없습니다."
+      "ai_summary": "월요일에도 전국에 찜통더위가 이어지겠습니다.\n전국 곳곳에 소나기가 내릴 전망입니다."
     },
     {
       "id": "news-20260713-005",
-      "title": "김하수 전 청도군수가 야산에서 숨진 채 발견되었습니다.\n그는 최근 인사 비위 혐의로 수사를 받고 있었습니다.",
-      "summary": "한국일보 | 사회",
-      "url": "https://blog.naver.com/smallprg/224345561181",
+      "title": "이란이 미국의 약속 불이행 시 종전 합의를 준수하지 않겠다고 밝혔습니다.",
+      "summary": "SBS Biz | 세계",
+      "url": "https://blog.naver.com/smallprg/224345574965",
       "icon": "news",
       "type": "news",
       "priority": 95,
@@ -111,22 +111,22 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/469/0000941874",
+      "source_url": "https://n.news.naver.com/mnews/article/374/0000521440",
       "source": {
-        "title": "[속보] 김하수 전 청도군수, 야산서 숨진 채 발견… '인사 비위' 수사 중",
-        "url": "https://n.news.naver.com/mnews/article/469/0000941874",
-        "press": "한국일보",
+        "title": "이란 \"美 약속 불이행 시 종전 합의 준수하지 않을 것\"",
+        "url": "https://n.news.naver.com/mnews/article/374/0000521440",
+        "press": "SBS Biz",
         "published_at": "",
         "source": "naver",
-        "category": "사회"
+        "category": "세계"
       },
-      "ai_summary": "김하수 전 청도군수가 야산에서 숨진 채 발견되었습니다.\n그는 최근 인사 비위 혐의로 수사를 받고 있었습니다."
+      "ai_summary": "이란이 미국의 약속 불이행 시 종전 합의를 준수하지 않겠다고 밝혔습니다."
     },
     {
       "id": "news-20260713-006",
-      "title": "세계일보 | 사회",
-      "summary": "세계일보 | 사회",
-      "url": "https://blog.naver.com/smallprg/224345561181",
+      "title": "한화생명 e스포츠팀이 메이저 대회에서 첫 우승을 차지했습니다.",
+      "summary": "한국경제 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224345574965",
       "icon": "news",
       "type": "news",
       "priority": 94,
@@ -135,145 +135,25 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/022/0004142730",
+      "source_url": "https://n.news.naver.com/mnews/article/015/0005309421",
       "source": {
-        "title": "경산 친구 살인사건, 유족 측 \"경찰 초기 대응 부실 의혹\" 제기 [사건수첩]",
-        "url": "https://n.news.naver.com/mnews/article/022/0004142730",
-        "press": "세계일보",
+        "title": "생보사가 왜 e스포츠팀을?…메이저 대회 첫 우승한 한화생명",
+        "url": "https://n.news.naver.com/mnews/article/015/0005309421",
+        "press": "한국경제",
         "published_at": "",
         "source": "naver",
-        "category": "사회"
+        "category": "IT/과학"
       },
-      "ai_summary": "세계일보 | 사회"
+      "ai_summary": "한화생명 e스포츠팀이 메이저 대회에서 첫 우승을 차지했습니다."
     },
     {
       "id": "news-20260713-007",
-      "title": "제공된 정보에 기사 본문이 포함되어 있지 않아 요약할 수 없습니다.",
-      "summary": "헤럴드경제 | 생활/문화",
-      "url": "https://blog.naver.com/smallprg/224345561181",
+      "title": "승리를 지켜낸 결정적인 호수비 장면이 공개되었습니다.\n후반기 경기를 앞두고 활약한 스포츠 영상입니다.",
+      "summary": "네이버검색 | 스포츠",
+      "url": "https://blog.naver.com/smallprg/224345574965",
       "icon": "news",
       "type": "news",
       "priority": 93,
-      "start": "2026-07-13",
-      "end": "2026-07-14",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/016/0002669578",
-      "source": {
-        "title": "“아티스트들의 축제”…‘어반브레이크&토이콘’ 30일 개막",
-        "url": "https://n.news.naver.com/mnews/article/016/0002669578",
-        "press": "헤럴드경제",
-        "published_at": "",
-        "source": "naver",
-        "category": "생활/문화"
-      },
-      "ai_summary": "제공된 정보에 기사 본문이 포함되어 있지 않아 요약할 수 없습니다."
-    },
-    {
-      "id": "news-20260713-008",
-      "title": "제공된 텍스트에 기사 본문이 포함되어 있지 않아 요약할 수 없습니다.",
-      "summary": "아시아경제 | 생활/문화",
-      "url": "https://blog.naver.com/smallprg/224345561181",
-      "icon": "news",
-      "type": "news",
-      "priority": 92,
-      "start": "2026-07-13",
-      "end": "2026-07-14",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/277/0005788741",
-      "source": {
-        "title": "'내일도 사우나를 걸을 듯'…우산 챙기세요, 서울·경기 최대 60㎜ 비· 포항 최고 37도[날씨]",
-        "url": "https://n.news.naver.com/mnews/article/277/0005788741",
-        "press": "아시아경제",
-        "published_at": "",
-        "source": "naver",
-        "category": "생활/문화"
-      },
-      "ai_summary": "제공된 텍스트에 기사 본문이 포함되어 있지 않아 요약할 수 없습니다."
-    },
-    {
-      "id": "news-20260713-009",
-      "title": "제공된 정보에 뉴스 본문이 포함되어 있지 않아 요약할 수 없습니다.",
-      "summary": "경향신문 | 세계",
-      "url": "https://blog.naver.com/smallprg/224345561181",
-      "icon": "news",
-      "type": "news",
-      "priority": 91,
-      "start": "2026-07-13",
-      "end": "2026-07-14",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/032/0003457732",
-      "source": {
-        "title": "‘최대 우군’ 잃은 트럼프···그레이엄 의원 별세가 상원 선거에 미칠 영향은",
-        "url": "https://n.news.naver.com/mnews/article/032/0003457732",
-        "press": "경향신문",
-        "published_at": "",
-        "source": "naver",
-        "category": "세계"
-      },
-      "ai_summary": "제공된 정보에 뉴스 본문이 포함되어 있지 않아 요약할 수 없습니다."
-    },
-    {
-      "id": "news-20260713-010",
-      "title": "김빛내리 교수가 아시아인 최초로 HFSP 나카소네상을 수상했습니다.\n이 상은 노벨상으로 향하는 징검다리라 불리는 권위 있는 과학상입니다.",
-      "summary": "중앙일보 | IT/과학",
-      "url": "https://blog.naver.com/smallprg/224345561181",
-      "icon": "news",
-      "type": "news",
-      "priority": 90,
-      "start": "2026-07-13",
-      "end": "2026-07-14",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/025/0003537255",
-      "source": {
-        "title": "‘노벨상 징검다리’ HFSP 나카소네상에 김빛내리…아시아 최초",
-        "url": "https://n.news.naver.com/mnews/article/025/0003537255",
-        "press": "중앙일보",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      },
-      "ai_summary": "김빛내리 교수가 아시아인 최초로 HFSP 나카소네상을 수상했습니다.\n이 상은 노벨상으로 향하는 징검다리라 불리는 권위 있는 과학상입니다."
-    },
-    {
-      "id": "news-20260713-011",
-      "title": "배경훈 LG AI연구원장은 세종, 동해, 울산 외 최대 4곳에 AI 데이터센터를 구축할 계획입니다.\n이를 통해 피지컬 AI 시장을 선점하고 글로벌 경쟁력을 확보한다는 전략입니다.",
-      "summary": "이데일리 | IT/과학",
-      "url": "https://blog.naver.com/smallprg/224345561181",
-      "icon": "news",
-      "type": "news",
-      "priority": 89,
-      "start": "2026-07-13",
-      "end": "2026-07-14",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/018/0006329213",
-      "source": {
-        "title": "배경훈 \"세종·동해·울산 외 최대 4곳 AIDC…피지컬 AI 시장 선점할 것\"",
-        "url": "https://n.news.naver.com/mnews/article/018/0006329213",
-        "press": "이데일리",
-        "published_at": "",
-        "source": "naver",
-        "category": "IT/과학"
-      },
-      "ai_summary": "배경훈 LG AI연구원장은 세종, 동해, 울산 외 최대 4곳에 AI 데이터센터를 구축할 계획입니다.\n이를 통해 피지컬 AI 시장을 선점하고 글로벌 경쟁력을 확보한다는 전략입니다."
-    },
-    {
-      "id": "news-20260713-012",
-      "title": "제공된 정보에 기사 본문이 없어 요약할 수 없습니다.",
-      "summary": "네이버검색 | 스포츠",
-      "url": "https://blog.naver.com/smallprg/224345561181",
-      "icon": "news",
-      "type": "news",
-      "priority": 88,
       "start": "2026-07-13",
       "end": "2026-07-14",
       "target": [
@@ -288,16 +168,16 @@
         "source": "naver_search",
         "category": "스포츠"
       },
-      "ai_summary": "제공된 정보에 기사 본문이 없어 요약할 수 없습니다."
+      "ai_summary": "승리를 지켜낸 결정적인 호수비 장면이 공개되었습니다.\n후반기 경기를 앞두고 활약한 스포츠 영상입니다."
     },
     {
-      "id": "news-20260713-013",
-      "title": "제공된 내용에 기사 본문이 없어 요약할 수 없습니다.",
+      "id": "news-20260713-008",
+      "title": "SBS 라디오 '박소현의 러브게임'에 윤지성이 합류했습니다.\n'웬디의 영스트리트'를 포함한 라디오 뮤지컬 라인업이 완성되었습니다.",
       "summary": "네이버검색 | 연예",
-      "url": "https://blog.naver.com/smallprg/224345561181",
+      "url": "https://blog.naver.com/smallprg/224345574965",
       "icon": "news",
       "type": "news",
-      "priority": 87,
+      "priority": 92,
       "start": "2026-07-13",
       "end": "2026-07-14",
       "target": [
@@ -312,31 +192,7 @@
         "source": "naver_search",
         "category": "연예"
       },
-      "ai_summary": "제공된 내용에 기사 본문이 없어 요약할 수 없습니다."
-    },
-    {
-      "id": "news-20260713-014",
-      "title": "제공된 내용에는 기사 본문이 포함되어 있지 않아 요약할 수 없습니다.",
-      "summary": "네이버검색 | 연예",
-      "url": "https://blog.naver.com/smallprg/224345561181",
-      "icon": "news",
-      "type": "news",
-      "priority": 86,
-      "start": "2026-07-13",
-      "end": "2026-07-14",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://m.sports.naver.com/worldcup2026/article/477/0000617845",
-      "source": {
-        "title": "\"400만 팔로워 여신이 日 월드컵 스타 선택\"…EPL 러브콜 받는 나카무라, 伊 모델과 열애 정황 쏟아졌다",
-        "url": "https://m.sports.naver.com/worldcup2026/article/477/0000617845",
-        "press": "네이버검색",
-        "published_at": "",
-        "source": "naver_search",
-        "category": "연예"
-      },
-      "ai_summary": "제공된 내용에는 기사 본문이 포함되어 있지 않아 요약할 수 없습니다."
+      "ai_summary": "SBS 라디오 '박소현의 러브게임'에 윤지성이 합류했습니다.\n'웬디의 영스트리트'를 포함한 라디오 뮤지컬 라인업이 완성되었습니다."
     }
   ]
 }
