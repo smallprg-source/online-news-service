@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated": "2026-07-18T16:57:22+09:00",
+  "updated": "2026-07-18T17:22:02+09:00",
   "items": [
     {
       "id": "news-20260718-001",
-      "title": "이 대통령이 제헌절을 맞아 12월 3일을 국민주권의 날로 지정했습니다.",
-      "summary": "더팩트 | 정치",
-      "url": "https://blog.naver.com/smallprg",
+      "title": "이 대통령이 12월 3일을 '국민주권의 날'로 지정했습니다.\n이를 통해 빛의 혁명 기록을 보존할 계획입니다.",
+      "summary": "이데일리 | 정치",
+      "url": "https://blog.naver.com/smallprg/224350349247",
       "icon": "news",
       "type": "news",
       "priority": 99,
@@ -15,22 +15,22 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/629/0000516917",
+      "source_url": "https://n.news.naver.com/mnews/article/018/0006332089",
       "source": {
-        "title": "李대통령, 제헌절 맞아 \"12월3일 국민주권의 날 지정\"",
-        "url": "https://n.news.naver.com/mnews/article/629/0000516917",
-        "press": "더팩트",
+        "title": "李대통령 “12월 3일 ‘국민주권의 날’ 지정…빛의 혁명 기록 보존”",
+        "url": "https://n.news.naver.com/mnews/article/018/0006332089",
+        "press": "이데일리",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "이 대통령이 제헌절을 맞아 12월 3일을 국민주권의 날로 지정했습니다."
+      "ai_summary": "이 대통령이 12월 3일을 '국민주권의 날'로 지정했습니다.\n이를 통해 빛의 혁명 기록을 보존할 계획입니다."
     },
     {
       "id": "news-20260718-002",
-      "title": "삼성전자의 감사페스티벌로 인해 배송 지연이 예상됩니다.\n상품권 지급 과정에서도 차질이 발생할 가능성이 우려됩니다.",
-      "summary": "부산일보 | 경제",
-      "url": "https://blog.naver.com/smallprg",
+      "title": "애플이 장중 글로벌 시가총액 1위를 탈환했습니다.\n이 과정에서 엔비디아를 제치고 정상에 올랐습니다.",
+      "summary": "연합뉴스 | 경제",
+      "url": "https://blog.naver.com/smallprg/224350349247",
       "icon": "news",
       "type": "news",
       "priority": 98,
@@ -39,22 +39,22 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/082/0001390150",
+      "source_url": "https://n.news.naver.com/mnews/article/001/0016200909",
       "source": {
-        "title": "삼성전자 감사페스티벌 배송 지연·상품권 지급 차질 우려",
-        "url": "https://n.news.naver.com/mnews/article/082/0001390150",
-        "press": "부산일보",
+        "title": "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환",
+        "url": "https://n.news.naver.com/mnews/article/001/0016200909",
+        "press": "연합뉴스",
         "published_at": "",
         "source": "naver",
         "category": "경제"
       },
-      "ai_summary": "삼성전자의 감사페스티벌로 인해 배송 지연이 예상됩니다.\n상품권 지급 과정에서도 차질이 발생할 가능성이 우려됩니다."
+      "ai_summary": "애플이 장중 글로벌 시가총액 1위를 탈환했습니다.\n이 과정에서 엔비디아를 제치고 정상에 올랐습니다."
     },
     {
       "id": "news-20260718-003",
-      "title": "서울에 시간당 50mm의 매우 강한 비가 내렸습니다.\n앞으로 비가 더 내릴 것으로 전망됩니다.",
-      "summary": "프레시안 | 사회",
-      "url": "https://blog.naver.com/smallprg",
+      "title": "서이초 사건 3주기를 앞두고 교사들이 거리로 나왔습니다.\n이들은 아동복지법 개정을 촉구하고 있습니다.",
+      "summary": "서울신문 | 사회",
+      "url": "https://blog.naver.com/smallprg/224350349247",
       "icon": "news",
       "type": "news",
       "priority": 97,
@@ -63,22 +63,22 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/002/0002448803",
+      "source_url": "https://n.news.naver.com/mnews/article/081/0003662190",
       "source": {
-        "title": "[속보] 서울, 시간당 50mm ' 물폭탄' 쏟아졌다 …앞으로 더 내려",
-        "url": "https://n.news.naver.com/mnews/article/002/0002448803",
-        "press": "프레시안",
+        "title": "‘서이초 사건’ 3주기 앞두고 거리 나온 교사들…“아동복지법 개정해야”",
+        "url": "https://n.news.naver.com/mnews/article/081/0003662190",
+        "press": "서울신문",
         "published_at": "",
         "source": "naver",
         "category": "사회"
       },
-      "ai_summary": "서울에 시간당 50mm의 매우 강한 비가 내렸습니다.\n앞으로 비가 더 내릴 것으로 전망됩니다."
+      "ai_summary": "서이초 사건 3주기를 앞두고 교사들이 거리로 나왔습니다.\n이들은 아동복지법 개정을 촉구하고 있습니다."
     },
     {
       "id": "news-20260718-004",
-      "title": "중부 지역 집중호우로 인해 국가유산 재난 위기 경보가 '주의'에서 '경계'로 상향되었습니다.",
-      "summary": "연합뉴스 | 생활/문화",
-      "url": "https://blog.naver.com/smallprg",
+      "title": "수도권에 최대 250mm의 강한 비가 예보되었습니다.\n주말 동안 많은 비가 내릴 것으로 예상됩니다.",
+      "summary": "한국경제 | 생활/문화",
+      "url": "https://blog.naver.com/smallprg/224350349247",
       "icon": "news",
       "type": "news",
       "priority": 96,
@@ -87,22 +87,22 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/001/0016201113",
+      "source_url": "https://n.news.naver.com/mnews/article/015/0005311033",
       "source": {
-        "title": "중부 집중호우에…국가유산 재난 위기 경보 '주의'→'경계'",
-        "url": "https://n.news.naver.com/mnews/article/001/0016201113",
-        "press": "연합뉴스",
+        "title": "\"주말 약속 어쩌나\"…수도권 최대 250mm '물폭탄' 예고 [날씨]",
+        "url": "https://n.news.naver.com/mnews/article/015/0005311033",
+        "press": "한국경제",
         "published_at": "",
         "source": "naver",
         "category": "생활/문화"
       },
-      "ai_summary": "중부 지역 집중호우로 인해 국가유산 재난 위기 경보가 '주의'에서 '경계'로 상향되었습니다."
+      "ai_summary": "수도권에 최대 250mm의 강한 비가 예보되었습니다.\n주말 동안 많은 비가 내릴 것으로 예상됩니다."
     },
     {
       "id": "news-20260718-005",
-      "title": "미국이 유학생 비자 체류 기간을 4년으로 제한했습니다.\n이로 인해 한국인 학생과 가족 약 1만 3,000명이 영향을 받을 전망입니다.",
-      "summary": "세계일보 | 세계",
-      "url": "https://blog.naver.com/smallprg",
+      "title": "영화 ‘나홀로 집에 2’에 출연한 배우 브렌다 프리커가 향년 81세로 별세했습니다.",
+      "summary": "동아일보 | 세계",
+      "url": "https://blog.naver.com/smallprg/224350349247",
       "icon": "news",
       "type": "news",
       "priority": 95,
@@ -111,22 +111,22 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/022/0004143804",
+      "source_url": "https://n.news.naver.com/mnews/article/020/0003734765",
       "source": {
-        "title": "美, 유학생 비자 4년 제한…체류 韓학생·가족 1만3000명 영향 파장",
-        "url": "https://n.news.naver.com/mnews/article/022/0004143804",
-        "press": "세계일보",
+        "title": "비둘기 아줌마, 안녕…‘나홀로 집에2’ 배우 브렌다 프리커, 향년 81세 별세",
+        "url": "https://n.news.naver.com/mnews/article/020/0003734765",
+        "press": "동아일보",
         "published_at": "",
         "source": "naver",
         "category": "세계"
       },
-      "ai_summary": "미국이 유학생 비자 체류 기간을 4년으로 제한했습니다.\n이로 인해 한국인 학생과 가족 약 1만 3,000명이 영향을 받을 전망입니다."
+      "ai_summary": "영화 ‘나홀로 집에 2’에 출연한 배우 브렌다 프리커가 향년 81세로 별세했습니다."
     },
     {
       "id": "news-20260718-006",
-      "title": "다음 주 삼성 갤럭시 언팩 행사가 개최됩니다.\n여권형 폴드와 AI 글라스 등의 신제품이 공개될 전망입니다.",
-      "summary": "아이뉴스24 | IT/과학",
-      "url": "https://blog.naver.com/smallprg",
+      "title": "삼성이 티켓처럼 넓게 펼쳐지는 여권형 폴더블 폰을 선보일 예정입니다.",
+      "summary": "뉴시스 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224350349247",
       "icon": "news",
       "type": "news",
       "priority": 94,
@@ -135,22 +135,22 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/031/0001042940",
+      "source_url": "https://n.news.naver.com/mnews/article/003/0014072779",
       "source": {
-        "title": "다음 주 삼성 갤럭시 언팩…'여권형 폴드'·'AI 글라스' 뜬다",
-        "url": "https://n.news.naver.com/mnews/article/031/0001042940",
-        "press": "아이뉴스24",
+        "title": "\"티켓 뜯듯 넓어진다\"…삼성 '여권형 폴드' 베일 푼다[미리보는 언팩①]",
+        "url": "https://n.news.naver.com/mnews/article/003/0014072779",
+        "press": "뉴시스",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
       },
-      "ai_summary": "다음 주 삼성 갤럭시 언팩 행사가 개최됩니다.\n여권형 폴드와 AI 글라스 등의 신제품이 공개될 전망입니다."
+      "ai_summary": "삼성이 티켓처럼 넓게 펼쳐지는 여권형 폴더블 폰을 선보일 예정입니다."
     },
     {
       "id": "news-20260718-007",
-      "title": "프랑스가 선거와 전쟁 등에 베팅하는 '폴리마켓'의 접속을 차단했습니다.",
+      "title": "좋은 감독이 있는 곳으로 돌아가고 싶었다고 밝혔습니다.",
       "summary": "네이버검색 | 스포츠",
-      "url": "https://blog.naver.com/smallprg",
+      "url": "https://blog.naver.com/smallprg/224350349247",
       "icon": "news",
       "type": "news",
       "priority": 93,
@@ -159,22 +159,22 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/article/022/0004143995?sid=104",
+      "source_url": "https://m.sports.naver.com/wfootball/article/214/0001512414",
       "source": {
-        "title": "선거·전쟁까지 베팅하더니…프랑스, ‘폴리마켓’ 접속 차단",
-        "url": "https://n.news.naver.com/article/022/0004143995?sid=104",
+        "title": "[엠빅 뉴스 ] “좋은 감독 있는 곳에 돌아가고 싶었다”",
+        "url": "https://m.sports.naver.com/wfootball/article/214/0001512414",
         "press": "네이버검색",
         "published_at": "",
         "source": "naver_search",
         "category": "스포츠"
       },
-      "ai_summary": "프랑스가 선거와 전쟁 등에 베팅하는 '폴리마켓'의 접속을 차단했습니다."
+      "ai_summary": "좋은 감독이 있는 곳으로 돌아가고 싶었다고 밝혔습니다."
     },
     {
       "id": "news-20260718-008",
-      "title": "MC몽의 8월 콘서트 개최 예고가 나왔으나 공연장 측은 대관 문의가 없었다고 밝혔습니다.\n콘서트 개최 여부를 두고 양측의 입장이 엇갈리고 있습니다.",
+      "title": "MC몽의 8월 콘서트 개최 예고가 허언이라는 의혹이 제기되었습니다.\n공연장 측은 해당 공연에 대한 대관 문의가 없었다고 밝혔습니다.",
       "summary": "네이버검색 | 연예",
-      "url": "https://blog.naver.com/smallprg",
+      "url": "https://blog.naver.com/smallprg/224350349247",
       "icon": "news",
       "type": "news",
       "priority": 92,
@@ -192,7 +192,7 @@
         "source": "naver_search",
         "category": "연예"
       },
-      "ai_summary": "MC몽의 8월 콘서트 개최 예고가 나왔으나 공연장 측은 대관 문의가 없었다고 밝혔습니다.\n콘서트 개최 여부를 두고 양측의 입장이 엇갈리고 있습니다."
+      "ai_summary": "MC몽의 8월 콘서트 개최 예고가 허언이라는 의혹이 제기되었습니다.\n공연장 측은 해당 공연에 대한 대관 문의가 없었다고 밝혔습니다."
     }
   ]
 }
