@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-07-18T16:11:42+09:00",
+  "updated": "2026-07-18T16:19:11+09:00",
   "items": [
     {
       "id": "news-20260718-001",
-      "title": "김민석 의원이 봉하마을을 참배했습니다.\n그는 2002년 후보 단일화 과정에 대해 다시 한번 깊이 사과했습니다.",
-      "summary": "경향신문 | 정치",
+      "title": "이재명 대통령이 12월 3일을 국민주권의 날로 지정했습니다.",
+      "summary": "서울경제 | 정치",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -15,21 +15,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/032/0003458797",
+      "source_url": "https://n.news.naver.com/mnews/article/011/0004642516",
       "source": {
-        "title": "김민석 “2002년 후보 단일화 과정 다시 깊이 사과”…봉하마을 참배",
-        "url": "https://n.news.naver.com/mnews/article/032/0003458797",
-        "press": "경향신문",
+        "title": "이재명 대통령 “12월 3일 국민주권의 날 지정”",
+        "url": "https://n.news.naver.com/mnews/article/011/0004642516",
+        "press": "서울경제",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "김민석 의원이 봉하마을을 참배했습니다.\n그는 2002년 후보 단일화 과정에 대해 다시 한번 깊이 사과했습니다."
+      "ai_summary": "이재명 대통령이 12월 3일을 국민주권의 날로 지정했습니다."
     },
     {
       "id": "news-20260718-002",
-      "title": "심우정 전 검찰총장 딸의 외교부 최종 합격이 취소되었습니다.\n관련자들에 대한 징계 요구가 함께 이루어졌습니다.",
-      "summary": "매일경제 | 정치",
+      "title": "감사원이 해외 유학 중인 '서해 사건' 감사관의 육아휴직 신청을 불허했습니다.\n이번 결정은 해당 감사관이 수사를 회피하려 한다고 판단했기 때문입니다.",
+      "summary": "뉴시스 | 정치",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -39,21 +39,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/009/0005708886",
+      "source_url": "https://n.news.naver.com/mnews/article/003/0014073575",
       "source": {
-        "title": "심우정 전 검찰총장 딸 외교부 최종 합격 취소…“관련자 징계 요구”",
-        "url": "https://n.news.naver.com/mnews/article/009/0005708886",
-        "press": "매일경제",
+        "title": "감사원, 해외 유학 간 '서해 사건' 감사관 육아휴직 불허…\"수사 회피 목적\"",
+        "url": "https://n.news.naver.com/mnews/article/003/0014073575",
+        "press": "뉴시스",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "심우정 전 검찰총장 딸의 외교부 최종 합격이 취소되었습니다.\n관련자들에 대한 징계 요구가 함께 이루어졌습니다."
+      "ai_summary": "감사원이 해외 유학 중인 '서해 사건' 감사관의 육아휴직 신청을 불허했습니다.\n이번 결정은 해당 감사관이 수사를 회피하려 한다고 판단했기 때문입니다."
     },
     {
       "id": "news-20260718-003",
-      "title": "애플이 장중 글로벌 시가총액 1위를 탈환했습니다.\n이로써 애플은 엔비디아를 제치고 정상에 올랐습니다.",
-      "summary": "연합뉴스TV | 경제",
+      "title": "42개월 만에 기준금리가 인상되었습니다.\n이로 인해 빚투와 영끌의 이자 부담이 커질 전망입니다.",
+      "summary": "SBS | 경제",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -63,21 +63,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/422/0000886283",
+      "source_url": "https://n.news.naver.com/mnews/article/055/0001373229",
       "source": {
-        "title": "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환",
-        "url": "https://n.news.naver.com/mnews/article/422/0000886283",
-        "press": "연합뉴스TV",
+        "title": "42개월 만에 기준금리 인상…'빚투·영끌' 부담↑",
+        "url": "https://n.news.naver.com/mnews/article/055/0001373229",
+        "press": "SBS",
         "published_at": "",
         "source": "naver",
         "category": "경제"
       },
-      "ai_summary": "애플이 장중 글로벌 시가총액 1위를 탈환했습니다.\n이로써 애플은 엔비디아를 제치고 정상에 올랐습니다."
+      "ai_summary": "42개월 만에 기준금리가 인상되었습니다.\n이로 인해 빚투와 영끌의 이자 부담이 커질 전망입니다."
     },
     {
       "id": "news-20260718-004",
-      "title": "레버리지 예탁금 기준을 3천만 원으로 상향하는 방안이 검토되고 있습니다.\n이번 조치가 국내 주식 시장의 변화를 이끌어낼지 주목됩니다.",
-      "summary": "노컷뉴스 | 경제",
+      "title": "최태원 회장이 SK하이닉스 주식을 단기 매매하기보다 장기 보유할 것을 권장했습니다.",
+      "summary": "한국일보 | 경제",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -87,21 +87,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/079/0004169363",
+      "source_url": "https://n.news.naver.com/mnews/article/469/0000942813",
       "source": {
-        "title": "레버리지 예탁금 3천만원으로 올리면 '카지노' 국장 바뀔까",
-        "url": "https://n.news.naver.com/mnews/article/079/0004169363",
-        "press": "노컷뉴스",
+        "title": "최태원 \"SK하이닉스 주식 사팔사팔 말고 갖고 계세요\"",
+        "url": "https://n.news.naver.com/mnews/article/469/0000942813",
+        "press": "한국일보",
         "published_at": "",
         "source": "naver",
         "category": "경제"
       },
-      "ai_summary": "레버리지 예탁금 기준을 3천만 원으로 상향하는 방안이 검토되고 있습니다.\n이번 조치가 국내 주식 시장의 변화를 이끌어낼지 주목됩니다."
+      "ai_summary": "최태원 회장이 SK하이닉스 주식을 단기 매매하기보다 장기 보유할 것을 권장했습니다."
     },
     {
       "id": "news-20260718-005",
-      "title": "연천 필승교 수위가 1m 이상 상승했습니다.\n이에 따라 대피 권고가 내려졌습니다.",
-      "summary": "YTN | 사회",
+      "title": "평생 면허 없이 상습적으로 음주운전을 한 운전자가 징역형을 선고받았습니다.",
+      "summary": "MBN | 사회",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -111,21 +111,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/052/0002381057",
+      "source_url": "https://n.news.naver.com/mnews/article/057/0001959127",
       "source": {
-        "title": "[속보] 연천 필승교 수위 1m 이상 상승...\"대피 권고\"",
-        "url": "https://n.news.naver.com/mnews/article/052/0002381057",
-        "press": "YTN",
+        "title": "평생 면허 없이 또 술 먹고 '쾅'…상습 무면허·음주운전자 징역형",
+        "url": "https://n.news.naver.com/mnews/article/057/0001959127",
+        "press": "MBN",
         "published_at": "",
         "source": "naver",
         "category": "사회"
       },
-      "ai_summary": "연천 필승교 수위가 1m 이상 상승했습니다.\n이에 따라 대피 권고가 내려졌습니다."
+      "ai_summary": "평생 면허 없이 상습적으로 음주운전을 한 운전자가 징역형을 선고받았습니다."
     },
     {
       "id": "news-20260718-006",
-      "title": "도로는 다시 열렸습니다.\n내일까지 최대 200mm의 비가 예상됩니다.",
-      "summary": "SBS | 사회",
+      "title": "집중호우로 강서·은평·마포구에 침수경보가 발령되었습니다.\n동부간선로를 포함한 일부 도로가 통제되었습니다.",
+      "summary": "여성신문 | 사회",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -135,21 +135,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/055/0001373439",
+      "source_url": "https://n.news.naver.com/mnews/article/310/0000138428",
       "source": {
-        "title": "도로는 다시 열렸지만…내일까지 최대 200mm",
-        "url": "https://n.news.naver.com/mnews/article/055/0001373439",
-        "press": "SBS",
+        "title": "집중호우로 강서·은평·마포구 침수경보…동부간선로 등 통제",
+        "url": "https://n.news.naver.com/mnews/article/310/0000138428",
+        "press": "여성신문",
         "published_at": "",
         "source": "naver",
         "category": "사회"
       },
-      "ai_summary": "도로는 다시 열렸습니다.\n내일까지 최대 200mm의 비가 예상됩니다."
+      "ai_summary": "집중호우로 강서·은평·마포구에 침수경보가 발령되었습니다.\n동부간선로를 포함한 일부 도로가 통제되었습니다."
     },
     {
       "id": "news-20260718-007",
-      "title": "유시민의 '유럽 도시 기행 3'이 출간과 동시에 1위를 기록했습니다.\n이는 강력한 팬덤의 영향으로 분석됩니다.",
-      "summary": "뉴스1 | 생활/문화",
+      "title": "내일까지 중부 지방 곳곳에 200㎜ 이상의 폭우가 내리겠습니다.\n극한호우가 예상되므로 각별한 주의가 필요합니다.",
+      "summary": "SBS | 생활/문화",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -159,21 +159,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/421/0009064783",
+      "source_url": "https://n.news.naver.com/mnews/article/055/0001373395",
       "source": {
-        "title": "유시민 '유럽 도시 기행 3' 출간 동시 1위…팬덤의 힘",
-        "url": "https://n.news.naver.com/mnews/article/421/0009064783",
-        "press": "뉴스1",
+        "title": "내일까지 200㎜ 이상 폭우…중부 곳곳 '극한호우' 주의[날씨]",
+        "url": "https://n.news.naver.com/mnews/article/055/0001373395",
+        "press": "SBS",
         "published_at": "",
         "source": "naver",
         "category": "생활/문화"
       },
-      "ai_summary": "유시민의 '유럽 도시 기행 3'이 출간과 동시에 1위를 기록했습니다.\n이는 강력한 팬덤의 영향으로 분석됩니다."
+      "ai_summary": "내일까지 중부 지방 곳곳에 200㎜ 이상의 폭우가 내리겠습니다.\n극한호우가 예상되므로 각별한 주의가 필요합니다."
     },
     {
       "id": "news-20260718-008",
-      "title": "외교부가 '세계유산해석 국제회의'를 개최했습니다.",
-      "summary": "KBS | 생활/문화",
+      "title": "한국의 국가유산 보존 노하우를 세계에 전파합니다.",
+      "summary": "세계일보 | 생활/문화",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -183,21 +183,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/056/0012220321",
+      "source_url": "https://n.news.naver.com/mnews/article/022/0004143773",
       "source": {
-        "title": "외교부, ‘세계유산해석 국제회의’ 개최",
-        "url": "https://n.news.naver.com/mnews/article/056/0012220321",
-        "press": "KBS",
+        "title": "韓 국가유산 보존 노하우, 세계에 전파",
+        "url": "https://n.news.naver.com/mnews/article/022/0004143773",
+        "press": "세계일보",
         "published_at": "",
         "source": "naver",
         "category": "생활/문화"
       },
-      "ai_summary": "외교부가 '세계유산해석 국제회의'를 개최했습니다."
+      "ai_summary": "한국의 국가유산 보존 노하우를 세계에 전파합니다."
     },
     {
       "id": "news-20260718-009",
-      "title": "트럼프가 유학생 비자 기간을 4년으로 제한하는 방안을 추진하고 있습니다.\n이로 인해 약 1만 명의 한국인 유학생들이 영향을 받을 것으로 보입니다.",
-      "summary": "매일신문 | 세계",
+      "title": "일본 황실이 전범을 개정해 일왕의 36촌 아들에게 왕위 승계 자격을 부여했습니다.\n이는 직계 공주가 있음에도 불구하고 승계 범위를 확대한 조치입니다.",
+      "summary": "MBC | 세계",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -207,21 +207,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/088/0001019502",
+      "source_url": "https://n.news.naver.com/mnews/article/214/0001512305",
       "source": {
-        "title": "한국인 유학생 1만명 어쩌나…트럼프, 유학생 비자 4년으로 제한",
-        "url": "https://n.news.naver.com/mnews/article/088/0001019502",
-        "press": "매일신문",
+        "title": "'직계 공주 있는데도' 일왕 36촌 아들에 왕위승계 자격‥日 황실전범 개정",
+        "url": "https://n.news.naver.com/mnews/article/214/0001512305",
+        "press": "MBC",
         "published_at": "",
         "source": "naver",
         "category": "세계"
       },
-      "ai_summary": "트럼프가 유학생 비자 기간을 4년으로 제한하는 방안을 추진하고 있습니다.\n이로 인해 약 1만 명의 한국인 유학생들이 영향을 받을 것으로 보입니다."
+      "ai_summary": "일본 황실이 전범을 개정해 일왕의 36촌 아들에게 왕위 승계 자격을 부여했습니다.\n이는 직계 공주가 있음에도 불구하고 승계 범위를 확대한 조치입니다."
     },
     {
       "id": "news-20260718-010",
-      "title": "중국 태풍으로 고립된 대학생 등 6,000명을 구조했습니다.\n이 구조 작업은 '노아의 방주'로 불렸습니다.",
-      "summary": "뉴스1 | 세계",
+      "title": "트럼프의 SNS 게시물을 1천분의 1초 더 빨리 확인하는 서비스가 출시되었습니다.\n해당 서비스의 이용료는 월 1억 5천만 원입니다.",
+      "summary": "연합뉴스 | 세계",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -231,20 +231,20 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/421/0009064996",
+      "source_url": "https://n.news.naver.com/mnews/article/001/0016201229",
       "source": {
-        "title": "中태풍에 고립된 대학생 등 6000명 구한 '노아의 방주'",
-        "url": "https://n.news.naver.com/mnews/article/421/0009064996",
-        "press": "뉴스1",
+        "title": "트럼프 SNS 게시물 '1천분의 1초' 먼저 보려면 월 1억5천만원",
+        "url": "https://n.news.naver.com/mnews/article/001/0016201229",
+        "press": "연합뉴스",
         "published_at": "",
         "source": "naver",
         "category": "세계"
       },
-      "ai_summary": "중국 태풍으로 고립된 대학생 등 6,000명을 구조했습니다.\n이 구조 작업은 '노아의 방주'로 불렸습니다."
+      "ai_summary": "트럼프의 SNS 게시물을 1천분의 1초 더 빨리 확인하는 서비스가 출시되었습니다.\n해당 서비스의 이용료는 월 1억 5천만 원입니다."
     },
     {
       "id": "news-20260718-011",
-      "title": "다음 주 삼성 갤럭시 언팩 행사가 개최됩니다.\n여권형 폴더블폰과 AI 글라스 등이 공개될 전망입니다.",
+      "title": "삼성전자가 다음 주 갤럭시 언팩 행사를 개최합니다.\n여권형 폴더블폰과 AI 글라스를 선보일 예정입니다.",
       "summary": "아이뉴스24 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
@@ -264,11 +264,11 @@
         "source": "naver",
         "category": "IT/과학"
       },
-      "ai_summary": "다음 주 삼성 갤럭시 언팩 행사가 개최됩니다.\n여권형 폴더블폰과 AI 글라스 등이 공개될 전망입니다."
+      "ai_summary": "삼성전자가 다음 주 갤럭시 언팩 행사를 개최합니다.\n여권형 폴더블폰과 AI 글라스를 선보일 예정입니다."
     },
     {
       "id": "news-20260718-012",
-      "title": "e스포츠 월드컵의 한국 개최가 충분히 가능하다는 전망입니다.",
+      "title": "e스포츠 월드컵의 한국 개최가 충분히 가능하다는 전망이 나왔습니다.",
       "summary": "연합뉴스 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
@@ -288,16 +288,40 @@
         "source": "naver",
         "category": "IT/과학"
       },
-      "ai_summary": "e스포츠 월드컵의 한국 개최가 충분히 가능하다는 전망입니다."
+      "ai_summary": "e스포츠 월드컵의 한국 개최가 충분히 가능하다는 전망이 나왔습니다."
     },
     {
       "id": "news-20260718-013",
-      "title": "손흥민 선수가 득점하며 미국 중계진의 감동을 자아냈습니다.\n월드컵 실패의 짐을 내려놓았다는 평가와 함께 응원을 받았습니다.",
+      "title": "프랑스가 예측 시장 플랫폼인 폴리마켓의 접속을 차단했습니다.\n해당 플랫폼은 선거와 전쟁 등 다양한 사건에 베팅하는 서비스를 제공했습니다.",
       "summary": "네이버검색 | 스포츠",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
       "priority": 87,
+      "start": "2026-07-18",
+      "end": "2026-07-19",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/article/022/0004143995?sid=104",
+      "source": {
+        "title": "선거·전쟁까지 베팅하더니…프랑스, ‘폴리마켓’ 접속 차단",
+        "url": "https://n.news.naver.com/article/022/0004143995?sid=104",
+        "press": "네이버검색",
+        "published_at": "",
+        "source": "naver_search",
+        "category": "스포츠"
+      },
+      "ai_summary": "프랑스가 예측 시장 플랫폼인 폴리마켓의 접속을 차단했습니다.\n해당 플랫폼은 선거와 전쟁 등 다양한 사건에 베팅하는 서비스를 제공했습니다."
+    },
+    {
+      "id": "news-20260718-014",
+      "title": "손흥민 선수가 대한민국 주장으로서 득점을 기록했습니다.\n미국 중계진은 그의 골에 월드컵 실패의 짐을 내려놨다며 감동했습니다.",
+      "summary": "네이버검색 | 스포츠",
+      "url": "https://blog.naver.com/smallprg",
+      "icon": "news",
+      "type": "news",
+      "priority": 86,
       "start": "2026-07-18",
       "end": "2026-07-19",
       "target": [
@@ -312,31 +336,7 @@
         "source": "naver_search",
         "category": "스포츠"
       },
-      "ai_summary": "손흥민 선수가 득점하며 미국 중계진의 감동을 자아냈습니다.\n월드컵 실패의 짐을 내려놓았다는 평가와 함께 응원을 받았습니다."
-    },
-    {
-      "id": "news-20260718-014",
-      "title": "만취 상태로 오토바이를 운전하다 SUV 차량을 들이받았습니다.\n60대 운전자가 경찰 조사를 받고 있습니다.",
-      "summary": "네이버검색 | 스포츠",
-      "url": "https://blog.naver.com/smallprg",
-      "icon": "news",
-      "type": "news",
-      "priority": 86,
-      "start": "2026-07-18",
-      "end": "2026-07-19",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/article/079/0004169532?sid=102",
-      "source": {
-        "title": "만취 상태로 달리다 SUV 들이받은 오토바이…60대 경찰 조사",
-        "url": "https://n.news.naver.com/article/079/0004169532?sid=102",
-        "press": "네이버검색",
-        "published_at": "",
-        "source": "naver_search",
-        "category": "스포츠"
-      },
-      "ai_summary": "만취 상태로 오토바이를 운전하다 SUV 차량을 들이받았습니다.\n60대 운전자가 경찰 조사를 받고 있습니다."
+      "ai_summary": "손흥민 선수가 대한민국 주장으로서 득점을 기록했습니다.\n미국 중계진은 그의 골에 월드컵 실패의 짐을 내려놨다며 감동했습니다."
     },
     {
       "id": "news-20260718-015",
