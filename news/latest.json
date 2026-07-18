@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-07-18T16:03:54+09:00",
+  "updated": "2026-07-18T16:11:42+09:00",
   "items": [
     {
       "id": "news-20260718-001",
-      "title": "18일 새벽 시간당 최대 80㎜의 폭우가 예상됩니다.\n하수관 범람과 반지하 주택 침수 피해가 우려됩니다.",
-      "summary": "동아일보 | 정치",
+      "title": "김민석 의원이 봉하마을을 참배했습니다.\n그는 2002년 후보 단일화 과정에 대해 다시 한번 깊이 사과했습니다.",
+      "summary": "경향신문 | 정치",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -15,21 +15,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/020/0003734699",
+      "source_url": "https://n.news.naver.com/mnews/article/032/0003458797",
       "source": {
-        "title": "18일 새벽 시간당 최대 80㎜ 폭우…하수관 넘치고 반지하 잠긴다",
-        "url": "https://n.news.naver.com/mnews/article/020/0003734699",
-        "press": "동아일보",
+        "title": "김민석 “2002년 후보 단일화 과정 다시 깊이 사과”…봉하마을 참배",
+        "url": "https://n.news.naver.com/mnews/article/032/0003458797",
+        "press": "경향신문",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "18일 새벽 시간당 최대 80㎜의 폭우가 예상됩니다.\n하수관 범람과 반지하 주택 침수 피해가 우려됩니다."
+      "ai_summary": "김민석 의원이 봉하마을을 참배했습니다.\n그는 2002년 후보 단일화 과정에 대해 다시 한번 깊이 사과했습니다."
     },
     {
       "id": "news-20260718-002",
-      "title": "곽상언 의원이 김민석 의원의 사과에 대해 늦었지만 평가할 만하다고 언급했습니다.",
-      "summary": "연합뉴스TV | 정치",
+      "title": "심우정 전 검찰총장 딸의 외교부 최종 합격이 취소되었습니다.\n관련자들에 대한 징계 요구가 함께 이루어졌습니다.",
+      "summary": "매일경제 | 정치",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -39,21 +39,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/422/0000886275",
+      "source_url": "https://n.news.naver.com/mnews/article/009/0005708886",
       "source": {
-        "title": "盧 사위 곽상언 \"김민석 사과, 늦었지만 평가할 만해\"",
-        "url": "https://n.news.naver.com/mnews/article/422/0000886275",
-        "press": "연합뉴스TV",
+        "title": "심우정 전 검찰총장 딸 외교부 최종 합격 취소…“관련자 징계 요구”",
+        "url": "https://n.news.naver.com/mnews/article/009/0005708886",
+        "press": "매일경제",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "곽상언 의원이 김민석 의원의 사과에 대해 늦었지만 평가할 만하다고 언급했습니다."
+      "ai_summary": "심우정 전 검찰총장 딸의 외교부 최종 합격이 취소되었습니다.\n관련자들에 대한 징계 요구가 함께 이루어졌습니다."
     },
     {
       "id": "news-20260718-003",
-      "title": "삼성전자와 SK하이닉스를 중심으로 사이드카가 14번 발동되었습니다.\n금융위기 때보다 더 심한 변동성이 나타나며 경고 신호가 켜졌습니다.",
-      "summary": "한경비즈니스 | 경제",
+      "title": "애플이 장중 글로벌 시가총액 1위를 탈환했습니다.\n이로써 애플은 엔비디아를 제치고 정상에 올랐습니다.",
+      "summary": "연합뉴스TV | 경제",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -63,21 +63,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/050/0000108659",
+      "source_url": "https://n.news.naver.com/mnews/article/422/0000886283",
       "source": {
-        "title": "“금융위기보다 더” 사이드카 14번 켠 삼전닉스 경고",
-        "url": "https://n.news.naver.com/mnews/article/050/0000108659",
-        "press": "한경비즈니스",
+        "title": "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환",
+        "url": "https://n.news.naver.com/mnews/article/422/0000886283",
+        "press": "연합뉴스TV",
         "published_at": "",
         "source": "naver",
         "category": "경제"
       },
-      "ai_summary": "삼성전자와 SK하이닉스를 중심으로 사이드카가 14번 발동되었습니다.\n금융위기 때보다 더 심한 변동성이 나타나며 경고 신호가 켜졌습니다."
+      "ai_summary": "애플이 장중 글로벌 시가총액 1위를 탈환했습니다.\n이로써 애플은 엔비디아를 제치고 정상에 올랐습니다."
     },
     {
       "id": "news-20260718-004",
-      "title": "삼성전자와 닉스 레버리지 상품에 한 달 사이 7조 원이 유입되었습니다.",
-      "summary": "연합뉴스TV | 경제",
+      "title": "레버리지 예탁금 기준을 3천만 원으로 상향하는 방안이 검토되고 있습니다.\n이번 조치가 국내 주식 시장의 변화를 이끌어낼지 주목됩니다.",
+      "summary": "노컷뉴스 | 경제",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -87,20 +87,20 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/422/0000886078",
+      "source_url": "https://n.news.naver.com/mnews/article/079/0004169363",
       "source": {
-        "title": "'삼전닉스' 레버리지에 한 달 새 7조 원 유입",
-        "url": "https://n.news.naver.com/mnews/article/422/0000886078",
-        "press": "연합뉴스TV",
+        "title": "레버리지 예탁금 3천만원으로 올리면 '카지노' 국장 바뀔까",
+        "url": "https://n.news.naver.com/mnews/article/079/0004169363",
+        "press": "노컷뉴스",
         "published_at": "",
         "source": "naver",
         "category": "경제"
       },
-      "ai_summary": "삼성전자와 닉스 레버리지 상품에 한 달 사이 7조 원이 유입되었습니다."
+      "ai_summary": "레버리지 예탁금 기준을 3천만 원으로 상향하는 방안이 검토되고 있습니다.\n이번 조치가 국내 주식 시장의 변화를 이끌어낼지 주목됩니다."
     },
     {
       "id": "news-20260718-005",
-      "title": "특검이 양평고속도로 위법 백지화 혐의로 23일 원희룡 전 장관을 소환합니다.",
+      "title": "연천 필승교 수위가 1m 이상 상승했습니다.\n이에 따라 대피 권고가 내려졌습니다.",
       "summary": "YTN | 사회",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
@@ -111,20 +111,20 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/052/0002381171",
+      "source_url": "https://n.news.naver.com/mnews/article/052/0002381057",
       "source": {
-        "title": "특검, 23일 원희룡 소환...양평고속도로 위법 백지화 혐의",
-        "url": "https://n.news.naver.com/mnews/article/052/0002381171",
+        "title": "[속보] 연천 필승교 수위 1m 이상 상승...\"대피 권고\"",
+        "url": "https://n.news.naver.com/mnews/article/052/0002381057",
         "press": "YTN",
         "published_at": "",
         "source": "naver",
         "category": "사회"
       },
-      "ai_summary": "특검이 양평고속도로 위법 백지화 혐의로 23일 원희룡 전 장관을 소환합니다."
+      "ai_summary": "연천 필승교 수위가 1m 이상 상승했습니다.\n이에 따라 대피 권고가 내려졌습니다."
     },
     {
       "id": "news-20260718-006",
-      "title": "법원은 백남준 작가의 작품 '나의 파우스트'가 김우중 전 대우그룹 회장의 배우자 소유임을 인정했습니다.",
+      "title": "도로는 다시 열렸습니다.\n내일까지 최대 200mm의 비가 예상됩니다.",
       "summary": "SBS | 사회",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
@@ -135,21 +135,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/055/0001373438",
+      "source_url": "https://n.news.naver.com/mnews/article/055/0001373439",
       "source": {
-        "title": "법원 \"백남준 '나의 파우스트', 김우중 대우 회장 배우자 소유 인정\"",
-        "url": "https://n.news.naver.com/mnews/article/055/0001373438",
+        "title": "도로는 다시 열렸지만…내일까지 최대 200mm",
+        "url": "https://n.news.naver.com/mnews/article/055/0001373439",
         "press": "SBS",
         "published_at": "",
         "source": "naver",
         "category": "사회"
       },
-      "ai_summary": "법원은 백남준 작가의 작품 '나의 파우스트'가 김우중 전 대우그룹 회장의 배우자 소유임을 인정했습니다."
+      "ai_summary": "도로는 다시 열렸습니다.\n내일까지 최대 200mm의 비가 예상됩니다."
     },
     {
       "id": "news-20260718-007",
-      "title": "대구에 첫 재난성호우 긴급문자가 발송되었습니다.\n시민들은 즉시 안전을 확보해야 합니다.",
-      "summary": "국민일보 | 생활/문화",
+      "title": "유시민의 '유럽 도시 기행 3'이 출간과 동시에 1위를 기록했습니다.\n이는 강력한 팬덤의 영향으로 분석됩니다.",
+      "summary": "뉴스1 | 생활/문화",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -159,21 +159,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/005/0001861645",
+      "source_url": "https://n.news.naver.com/mnews/article/421/0009064783",
       "source": {
-        "title": "대구에 첫 ‘재난성호우 긴급문자’… “즉시 안전 확보해야”",
-        "url": "https://n.news.naver.com/mnews/article/005/0001861645",
-        "press": "국민일보",
+        "title": "유시민 '유럽 도시 기행 3' 출간 동시 1위…팬덤의 힘",
+        "url": "https://n.news.naver.com/mnews/article/421/0009064783",
+        "press": "뉴스1",
         "published_at": "",
         "source": "naver",
         "category": "생활/문화"
       },
-      "ai_summary": "대구에 첫 재난성호우 긴급문자가 발송되었습니다.\n시민들은 즉시 안전을 확보해야 합니다."
+      "ai_summary": "유시민의 '유럽 도시 기행 3'이 출간과 동시에 1위를 기록했습니다.\n이는 강력한 팬덤의 영향으로 분석됩니다."
     },
     {
       "id": "news-20260718-008",
-      "title": "부산 시민사회가 낙동강 하구의 유네스코 세계자연유산 등재를 촉구했습니다.\n이는 유네스코 세계유산위원회 개최를 앞두고 제기된 요구입니다.",
-      "summary": "부산일보 | 생활/문화",
+      "title": "외교부가 '세계유산해석 국제회의'를 개최했습니다.",
+      "summary": "KBS | 생활/문화",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -183,21 +183,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/082/0001390191",
+      "source_url": "https://n.news.naver.com/mnews/article/056/0012220321",
       "source": {
-        "title": "“낙동강 하구 세계자연유산 등재하라” 부산 유네스코 세계유산위 앞두고 시민사회 촉구",
-        "url": "https://n.news.naver.com/mnews/article/082/0001390191",
-        "press": "부산일보",
+        "title": "외교부, ‘세계유산해석 국제회의’ 개최",
+        "url": "https://n.news.naver.com/mnews/article/056/0012220321",
+        "press": "KBS",
         "published_at": "",
         "source": "naver",
         "category": "생활/문화"
       },
-      "ai_summary": "부산 시민사회가 낙동강 하구의 유네스코 세계자연유산 등재를 촉구했습니다.\n이는 유네스코 세계유산위원회 개최를 앞두고 제기된 요구입니다."
+      "ai_summary": "외교부가 '세계유산해석 국제회의'를 개최했습니다."
     },
     {
       "id": "news-20260718-009",
-      "title": "트럼프가 자신의 게시물을 '먼저 보기' 서비스로 유료 판매하기 시작했습니다.\n이로 인해 이해충돌 논란이 다시 불거지고 있습니다.",
-      "summary": "뉴시스 | 세계",
+      "title": "트럼프가 유학생 비자 기간을 4년으로 제한하는 방안을 추진하고 있습니다.\n이로 인해 약 1만 명의 한국인 유학생들이 영향을 받을 것으로 보입니다.",
+      "summary": "매일신문 | 세계",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -207,21 +207,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/003/0014073453",
+      "source_url": "https://n.news.naver.com/mnews/article/088/0001019502",
       "source": {
-        "title": "트럼프 게시물 '먼저 보기' 유료 판매…이해충돌 논란 재점화",
-        "url": "https://n.news.naver.com/mnews/article/003/0014073453",
-        "press": "뉴시스",
+        "title": "한국인 유학생 1만명 어쩌나…트럼프, 유학생 비자 4년으로 제한",
+        "url": "https://n.news.naver.com/mnews/article/088/0001019502",
+        "press": "매일신문",
         "published_at": "",
         "source": "naver",
         "category": "세계"
       },
-      "ai_summary": "트럼프가 자신의 게시물을 '먼저 보기' 서비스로 유료 판매하기 시작했습니다.\n이로 인해 이해충돌 논란이 다시 불거지고 있습니다."
+      "ai_summary": "트럼프가 유학생 비자 기간을 4년으로 제한하는 방안을 추진하고 있습니다.\n이로 인해 약 1만 명의 한국인 유학생들이 영향을 받을 것으로 보입니다."
     },
     {
       "id": "news-20260718-010",
-      "title": "미군이 엿새째 이란을 대상으로 심야 폭격을 실시했습니다.\n이번 공격으로 이란의 지휘부와 미사일 전력이 동시에 타격되었습니다.",
-      "summary": "데일리안 | 세계",
+      "title": "중국 태풍으로 고립된 대학생 등 6,000명을 구조했습니다.\n이 구조 작업은 '노아의 방주'로 불렸습니다.",
+      "summary": "뉴스1 | 세계",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -231,20 +231,20 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/119/0003112337",
+      "source_url": "https://n.news.naver.com/mnews/article/421/0009064996",
       "source": {
-        "title": "미군, 엿새째 이란 심야 폭격…지휘부·미사일 전력 동시 타격",
-        "url": "https://n.news.naver.com/mnews/article/119/0003112337",
-        "press": "데일리안",
+        "title": "中태풍에 고립된 대학생 등 6000명 구한 '노아의 방주'",
+        "url": "https://n.news.naver.com/mnews/article/421/0009064996",
+        "press": "뉴스1",
         "published_at": "",
         "source": "naver",
         "category": "세계"
       },
-      "ai_summary": "미군이 엿새째 이란을 대상으로 심야 폭격을 실시했습니다.\n이번 공격으로 이란의 지휘부와 미사일 전력이 동시에 타격되었습니다."
+      "ai_summary": "중국 태풍으로 고립된 대학생 등 6,000명을 구조했습니다.\n이 구조 작업은 '노아의 방주'로 불렸습니다."
     },
     {
       "id": "news-20260718-011",
-      "title": "다음 주 삼성 갤럭시 언팩 행사가 개최됩니다.\n여권형 폴드와 AI 글라스 등이 공개될 예정입니다.",
+      "title": "다음 주 삼성 갤럭시 언팩 행사가 개최됩니다.\n여권형 폴더블폰과 AI 글라스 등이 공개될 전망입니다.",
       "summary": "아이뉴스24 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
@@ -264,11 +264,11 @@
         "source": "naver",
         "category": "IT/과학"
       },
-      "ai_summary": "다음 주 삼성 갤럭시 언팩 행사가 개최됩니다.\n여권형 폴드와 AI 글라스 등이 공개될 예정입니다."
+      "ai_summary": "다음 주 삼성 갤럭시 언팩 행사가 개최됩니다.\n여권형 폴더블폰과 AI 글라스 등이 공개될 전망입니다."
     },
     {
       "id": "news-20260718-012",
-      "title": "e스포츠 월드컵의 한국 개최가 충분히 가능하다는 전망이 나왔습니다.",
+      "title": "e스포츠 월드컵의 한국 개최가 충분히 가능하다는 전망입니다.",
       "summary": "연합뉴스 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
@@ -288,11 +288,11 @@
         "source": "naver",
         "category": "IT/과학"
       },
-      "ai_summary": "e스포츠 월드컵의 한국 개최가 충분히 가능하다는 전망이 나왔습니다."
+      "ai_summary": "e스포츠 월드컵의 한국 개최가 충분히 가능하다는 전망입니다."
     },
     {
       "id": "news-20260718-013",
-      "title": "손흥민 선수가 득점포를 터뜨리며 대한민국 주장으로서의 부담감을 덜어냈습니다.\n미국 중계진은 그의 첫 골에 감동하며 월드컵 실패의 짐을 내려놨다고 평가했습니다.",
+      "title": "손흥민 선수가 득점하며 미국 중계진의 감동을 자아냈습니다.\n월드컵 실패의 짐을 내려놓았다는 평가와 함께 응원을 받았습니다.",
       "summary": "네이버검색 | 스포츠",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
@@ -312,11 +312,11 @@
         "source": "naver_search",
         "category": "스포츠"
       },
-      "ai_summary": "손흥민 선수가 득점포를 터뜨리며 대한민국 주장으로서의 부담감을 덜어냈습니다.\n미국 중계진은 그의 첫 골에 감동하며 월드컵 실패의 짐을 내려놨다고 평가했습니다."
+      "ai_summary": "손흥민 선수가 득점하며 미국 중계진의 감동을 자아냈습니다.\n월드컵 실패의 짐을 내려놓았다는 평가와 함께 응원을 받았습니다."
     },
     {
       "id": "news-20260718-014",
-      "title": "만취 상태로 오토바이를 몰다 SUV를 들이받은 60대가 경찰 조사를 받고 있습니다.",
+      "title": "만취 상태로 오토바이를 운전하다 SUV 차량을 들이받았습니다.\n60대 운전자가 경찰 조사를 받고 있습니다.",
       "summary": "네이버검색 | 스포츠",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
@@ -336,11 +336,11 @@
         "source": "naver_search",
         "category": "스포츠"
       },
-      "ai_summary": "만취 상태로 오토바이를 몰다 SUV를 들이받은 60대가 경찰 조사를 받고 있습니다."
+      "ai_summary": "만취 상태로 오토바이를 운전하다 SUV 차량을 들이받았습니다.\n60대 운전자가 경찰 조사를 받고 있습니다."
     },
     {
       "id": "news-20260718-015",
-      "title": "MC몽의 8월 콘서트 개최 예고에 대해 공연장 측은 대관 문의가 없었다고 밝혔습니다.",
+      "title": "MC몽이 8월 콘서트 개최를 예고했습니다.\n공연장 측은 대관 문의가 없었다고 밝혔습니다.",
       "summary": "네이버검색 | 연예",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
@@ -360,11 +360,11 @@
         "source": "naver_search",
         "category": "연예"
       },
-      "ai_summary": "MC몽의 8월 콘서트 개최 예고에 대해 공연장 측은 대관 문의가 없었다고 밝혔습니다."
+      "ai_summary": "MC몽이 8월 콘서트 개최를 예고했습니다.\n공연장 측은 대관 문의가 없었다고 밝혔습니다."
     },
     {
       "id": "news-20260718-016",
-      "title": "송민호가 금전 대여와 춤 상담 등 부실 복무 사실을 인정했습니다.\n이에 따라 송민호의 재입대 여부에 관심이 쏠리고 있습니다.",
+      "title": "송민호가 부실 복무 사실을 인정했습니다.\n이에 따라 재입대 가능성이 제기되고 있습니다.",
       "summary": "네이버검색 | 연예",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
@@ -384,7 +384,7 @@
         "source": "naver_search",
         "category": "연예"
       },
-      "ai_summary": "송민호가 금전 대여와 춤 상담 등 부실 복무 사실을 인정했습니다.\n이에 따라 송민호의 재입대 여부에 관심이 쏠리고 있습니다."
+      "ai_summary": "송민호가 부실 복무 사실을 인정했습니다.\n이에 따라 재입대 가능성이 제기되고 있습니다."
     }
   ]
 }
