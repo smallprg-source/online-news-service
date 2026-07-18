@@ -46,7 +46,7 @@
         "press": "이데일리",
         "published_at": "",
         "source": "naver",
-        "category": "정치"
+        "category": "경제"
       },
       "ai_summary": "한 총리가 호우 피해 응급복구에 총력을 다하겠다고 밝혔습니다.\n이를 위해 가용 인력과 장비를 모두 투입할 방침입니다."
     },
@@ -70,7 +70,7 @@
         "press": "연합뉴스TV",
         "published_at": "",
         "source": "naver",
-        "category": "정치"
+        "category": "사회"
       },
       "ai_summary": "김민석 의원이 당을 바로잡기 위해 정신 차려야 한다고 강조했습니다.\n그는 새로운 변화를 위한 '바통 터치'가 필요하다고 주장했습니다."
     },
@@ -94,7 +94,7 @@
         "press": "국민일보",
         "published_at": "",
         "source": "naver",
-        "category": "정치"
+        "category": "생활/문화"
       },
       "ai_summary": "심우정 전 검찰총장의 딸이 외교부 채용이 취소되었습니다.\n해당 채용 과정에서 ‘아빠 찬스’ 의혹이 제기되었습니다."
     },
@@ -118,7 +118,7 @@
         "press": "데일리안",
         "published_at": "",
         "source": "naver",
-        "category": "정치"
+        "category": "세계"
       },
       "ai_summary": "곽상언 의원은 김민석 의원의 사과가 늦었지만 평가할만하다고 밝혔습니다.\n다만 자서전에 대한 해석은 사실과 다르다는 입장을 전했습니다."
     },
@@ -142,7 +142,7 @@
         "press": "뉴시스",
         "published_at": "",
         "source": "naver",
-        "category": "정치"
+        "category": "IT/과학"
       },
       "ai_summary": "국민의힘이 서이초 교사 순직 3주기를 맞았습니다.\n법과 제도의 변화를 위해 책임을 다하겠다고 밝혔습니다."
     },
@@ -165,8 +165,8 @@
         "url": "https://n.news.naver.com/mnews/article/421/0009065439",
         "press": "뉴스1",
         "published_at": "",
-        "source": "naver",
-        "category": "정치"
+        "source": "naver_search",
+        "category": "스포츠"
       },
       "ai_summary": "이 대통령은 12월 3일을 '국민주권의 날'로 지정했습니다.\n빛의 혁명이라는 위대한 역사를 기억하고자 합니다."
     },
