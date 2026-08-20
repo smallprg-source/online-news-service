@@ -1,1697 +1,1817 @@
 {
   "version": 1,
-  "updated": "2026-08-20T00:19:32+09:00",
+  "updated": "2026-08-21T00:59:43+09:00",
   "items": [
     {
-      "id": "news-20260820-001",
-      "title": "與가 '서면 제청'을 통해 조희대 탄핵을 압박하고 있습니다.\n해당 내용은 세계일보 정치 분야 기사입니다.",
-      "summary": "세계일보 | 정치",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-001",
+      "title": "김민석이 국회의장을 만나 이진숙의 제명을 주장했습니다.\n제명이 안 된다면 의원 자격정지라도 이루어져야 한다고 말했습니다.",
+      "summary": "채널A | 정치",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 99,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/022/0004152096",
+      "source_url": "https://n.news.naver.com/mnews/article/449/0000357560",
       "source": {
-        "title": "與, ‘서면 제청’ 조희대 탄핵 압박",
-        "url": "https://n.news.naver.com/mnews/article/022/0004152096",
-        "press": "세계일보",
+        "title": "김민석, 국회의장 만나 “이진숙 제명돼야, 안되면 의원 자격정지라도”",
+        "url": "https://n.news.naver.com/mnews/article/449/0000357560",
+        "press": "채널A",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "與가 '서면 제청'을 통해 조희대 탄핵을 압박하고 있습니다.\n해당 내용은 세계일보 정치 분야 기사입니다."
+      "ai_summary": "김민석이 국회의장을 만나 이진숙의 제명을 주장했습니다.\n제명이 안 된다면 의원 자격정지라도 이루어져야 한다고 말했습니다."
     },
     {
-      "id": "news-20260820-002",
-      "title": "김민석이 부산에서 계파가 없다고 외쳤습니다.\nPK 민심의 시험대는 산은 이전이 될 전망입니다.",
-      "summary": "노컷뉴스 | 정치",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-002",
+      "title": "한·미 양국의 북핵 추정치는 57개와 120개로 서로 다릅니다.\n이는 완제품 기준인지 아니면 제조 가능 능력 기준인지의 차이 때문입니다.",
+      "summary": "중앙일보 | 정치",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 98,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/079/0004180100",
+      "source_url": "https://n.news.naver.com/mnews/article/025/0003545689",
       "source": {
-        "title": "\"계파 없다\" 부산서 외친 김민석…PK 민심 시험대는 '산은 이전'",
-        "url": "https://n.news.naver.com/mnews/article/079/0004180100",
+        "title": "57개vs120개, 한ㆍ미 북핵 추정치 왜 다른가…‘완제품이냐, 만들수 있는 능력이냐의 차이’",
+        "url": "https://n.news.naver.com/mnews/article/025/0003545689",
+        "press": "중앙일보",
+        "published_at": "",
+        "source": "naver",
+        "category": "정치"
+      },
+      "ai_summary": "한·미 양국의 북핵 추정치는 57개와 120개로 서로 다릅니다.\n이는 완제품 기준인지 아니면 제조 가능 능력 기준인지의 차이 때문입니다."
+    },
+    {
+      "id": "news-20260821-003",
+      "title": "트럼프와 김정은의 밀당이 본격적으로 시작되었습니다.\n북미대화로 수렴될지 주목됩니다.",
+      "summary": "노컷뉴스 | 정치",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 97,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/079/0004180669",
+      "source": {
+        "title": "트럼프-김정은 '밀당' 본격 시작, 북미대화로 수렴되나",
+        "url": "https://n.news.naver.com/mnews/article/079/0004180669",
         "press": "노컷뉴스",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "김민석이 부산에서 계파가 없다고 외쳤습니다.\nPK 민심의 시험대는 산은 이전이 될 전망입니다."
+      "ai_summary": "트럼프와 김정은의 밀당이 본격적으로 시작되었습니다.\n북미대화로 수렴될지 주목됩니다."
     },
     {
-      "id": "news-20260820-003",
-      "title": "국토위에서 용산공원 청년주택 추진을 두고 공방이 벌어졌습니다.\n野는 백지화를 주장했고 與는 공론화를 주장했습니다.",
-      "summary": "뉴스1 | 정치",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-004",
+      "title": "국힘 윤리위가 비당권파 4인을 징계하기로 결정했습니다.\n처벌 수위는 오늘 공개될 예정입니다.",
+      "summary": "연합뉴스 | 정치",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
-      "priority": 97,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "priority": 96,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/421/0009121981",
+      "source_url": "https://n.news.naver.com/mnews/article/001/0016262242",
       "source": {
-        "title": "국토위, 용산공원 청년주택 추진 공방…野 \"백지화\" 與 \"공론화\"(종합)",
-        "url": "https://n.news.naver.com/mnews/article/421/0009121981",
+        "title": "국힘 윤리위, 비당권파 4인 징계키로…'처벌 수위'는 내일 공개(종합)",
+        "url": "https://n.news.naver.com/mnews/article/001/0016262242",
+        "press": "연합뉴스",
+        "published_at": "",
+        "source": "naver",
+        "category": "정치"
+      },
+      "ai_summary": "국힘 윤리위가 비당권파 4인을 징계하기로 결정했습니다.\n처벌 수위는 오늘 공개될 예정입니다."
+    },
+    {
+      "id": "news-20260821-005",
+      "title": "여당은 탄핵당할 자격이 충분하다고 주장했습니다.\n야당은 사법 장악 폭주라고 반발했습니다.",
+      "summary": "연합뉴스TV | 정치",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 95,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/422/0000897784",
+      "source": {
+        "title": "與 \"탄핵당할 자격 충분\"…野 \"사법 장악 폭주\"",
+        "url": "https://n.news.naver.com/mnews/article/422/0000897784",
+        "press": "연합뉴스TV",
+        "published_at": "",
+        "source": "naver",
+        "category": "정치"
+      },
+      "ai_summary": "여당은 탄핵당할 자격이 충분하다고 주장했습니다.\n야당은 사법 장악 폭주라고 반발했습니다."
+    },
+    {
+      "id": "news-20260821-006",
+      "title": "李대통령은 역대 정부의 공직기강 해이를 지적했습니다.\n이를 반면교사 삼아야 한다고 강조했습니다.",
+      "summary": "서울경제 | 정치",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 94,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/011/0004653492",
+      "source": {
+        "title": "李대통령 “역대 정부 공직기강 해이…반면교사 삼아야”",
+        "url": "https://n.news.naver.com/mnews/article/011/0004653492",
+        "press": "서울경제",
+        "published_at": "",
+        "source": "naver",
+        "category": "정치"
+      },
+      "ai_summary": "李대통령은 역대 정부의 공직기강 해이를 지적했습니다.\n이를 반면교사 삼아야 한다고 강조했습니다."
+    },
+    {
+      "id": "news-20260821-007",
+      "title": "국민의힘이 이번에는 '당협위원장' 내홍을 겪고 있습니다.",
+      "summary": "매일경제 | 정치",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 93,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/009/0005723751",
+      "source": {
+        "title": "국힘 이번엔 '당협위원장' 내홍",
+        "url": "https://n.news.naver.com/mnews/article/009/0005723751",
+        "press": "매일경제",
+        "published_at": "",
+        "source": "naver",
+        "category": "정치"
+      },
+      "ai_summary": "국민의힘이 이번에는 '당협위원장' 내홍을 겪고 있습니다."
+    },
+    {
+      "id": "news-20260821-008",
+      "title": "국민의힘이 정책위의장에 임이자 의원을 내정했습니다.\n이로써 두 달여 만에 정책위의장 공석이 해소되었습니다.",
+      "summary": "뉴스1 | 정치",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 92,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/421/0009122163",
+      "source": {
+        "title": "국힘, 정책위의장에 임이자 의원 내정…두 달여 만에 공석 해소",
+        "url": "https://n.news.naver.com/mnews/article/421/0009122163",
         "press": "뉴스1",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "국토위에서 용산공원 청년주택 추진을 두고 공방이 벌어졌습니다.\n野는 백지화를 주장했고 與는 공론화를 주장했습니다."
+      "ai_summary": "국민의힘이 정책위의장에 임이자 의원을 내정했습니다.\n이로써 두 달여 만에 정책위의장 공석이 해소되었습니다."
     },
     {
-      "id": "news-20260820-004",
-      "title": "미 국방부는 한-미 연합연습을 21일 조기 종료한다고 밝혔습니다.\n이번 연습에서 실기동훈련은 축소될 예정입니다.",
-      "summary": "한겨레 | 정치",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 96,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/028/0002819133",
-      "source": {
-        "title": "미 국방부 “한-미 연합연습 21일 조기 종료…실기동훈련 축소”",
-        "url": "https://n.news.naver.com/mnews/article/028/0002819133",
-        "press": "한겨레",
-        "published_at": "",
-        "source": "naver",
-        "category": "정치"
-      },
-      "ai_summary": "미 국방부는 한-미 연합연습을 21일 조기 종료한다고 밝혔습니다.\n이번 연습에서 실기동훈련은 축소될 예정입니다."
-    },
-    {
-      "id": "news-20260820-005",
-      "title": "강훈식은 이륜차 불법주차 단속이 배달노동자의 생계를 외면한 탁상행정이라고 주장했습니다.",
-      "summary": "서울신문 | 정치",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 95,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/081/0003671700",
-      "source": {
-        "title": "강훈식 “이륜차 불법주차 단속, 배달노동자 생계 외면한 탁상행정”",
-        "url": "https://n.news.naver.com/mnews/article/081/0003671700",
-        "press": "서울신문",
-        "published_at": "",
-        "source": "naver",
-        "category": "정치"
-      },
-      "ai_summary": "강훈식은 이륜차 불법주차 단속이 배달노동자의 생계를 외면한 탁상행정이라고 주장했습니다."
-    },
-    {
-      "id": "news-20260820-006",
-      "title": "국힘 윤리위가 오늘 징계 결정을 내릴 예정입니다.\n당사자들은 이를 표적 징계라며 반발하고 있습니다.",
-      "summary": "연합뉴스 | 정치",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 94,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/001/0016258993",
-      "source": {
-        "title": "국힘 윤리위, 내일 징계 결정할 듯…당사자들 \"표적 징계\" 반발(종합)",
-        "url": "https://n.news.naver.com/mnews/article/001/0016258993",
-        "press": "연합뉴스",
-        "published_at": "",
-        "source": "naver",
-        "category": "정치"
-      },
-      "ai_summary": "국힘 윤리위가 오늘 징계 결정을 내릴 예정입니다.\n당사자들은 이를 표적 징계라며 반발하고 있습니다."
-    },
-    {
-      "id": "news-20260820-007",
-      "title": "김여정은 훈련 축소에 흥미가 없다고 밝혔습니다.\n북미 소통은 모르는 일이라고 말했습니다.",
-      "summary": "KBS | 정치",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 93,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/056/0012240753",
-      "source": {
-        "title": "김여정 “훈련 축소 흥미 없어…북미 소통 모르는 일”",
-        "url": "https://n.news.naver.com/mnews/article/056/0012240753",
-        "press": "KBS",
-        "published_at": "",
-        "source": "naver",
-        "category": "정치"
-      },
-      "ai_summary": "김여정은 훈련 축소에 흥미가 없다고 밝혔습니다.\n북미 소통은 모르는 일이라고 말했습니다."
-    },
-    {
-      "id": "news-20260820-008",
-      "title": "조희대 대법관 제청을 두고 여야가 공방을 벌이고 있습니다.\n여당은 사법 농단이라고 주장하며 야당은 민주당 발작이라고 반박했습니다.",
-      "summary": "대전일보 | 정치",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 92,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/656/0000184469",
-      "source": {
-        "title": "조희대 '대법관 제청' 공방…與 \"사법 농단\"·野 \"민주당 발작\"",
-        "url": "https://n.news.naver.com/mnews/article/656/0000184469",
-        "press": "대전일보",
-        "published_at": "",
-        "source": "naver",
-        "category": "정치"
-      },
-      "ai_summary": "조희대 대법관 제청을 두고 여야가 공방을 벌이고 있습니다.\n여당은 사법 농단이라고 주장하며 야당은 민주당 발작이라고 반박했습니다."
-    },
-    {
-      "id": "news-20260820-009",
-      "title": "김민석이 전남광주의회에 협치를 주문했습니다.\n전남광주의회는 돌파구를 찾겠다고 화답했습니다.",
-      "summary": "연합뉴스 | 정치",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-009",
+      "title": "중국 왕이가 한국과 조선을 두 개의 국가로 처음 명시했습니다.\n이는 한미동맹을 견제하기 위한 조치로 풀이됩니다.",
+      "summary": "중앙일보 | 정치",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 91,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/001/0016259624",
+      "source_url": "https://n.news.naver.com/mnews/article/025/0003545621",
       "source": {
-        "title": "김민석, 전남광주의회에 협치 주문…의회 \"돌파구 찾겠다\" 화답(종합)",
-        "url": "https://n.news.naver.com/mnews/article/001/0016259624",
+        "title": "한미동맹 견제한 中왕이…\"한국·조선 두개의 국가\" 처음 명시",
+        "url": "https://n.news.naver.com/mnews/article/025/0003545621",
+        "press": "중앙일보",
+        "published_at": "",
+        "source": "naver",
+        "category": "정치"
+      },
+      "ai_summary": "중국 왕이가 한국과 조선을 두 개의 국가로 처음 명시했습니다.\n이는 한미동맹을 견제하기 위한 조치로 풀이됩니다."
+    },
+    {
+      "id": "news-20260821-010",
+      "title": "패스트트랙 심사 기간을 330일에서 90일로 단축하는 법안이 통과되었습니다.\n이번 법안은 여당 주도로 국회를 통과했습니다.",
+      "summary": "연합뉴스 | 정치",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 90,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/001/0016262050",
+      "source": {
+        "title": "'패스트트랙 심사 330일→90일로 단축' 법안, 與주도 국회 통과",
+        "url": "https://n.news.naver.com/mnews/article/001/0016262050",
         "press": "연합뉴스",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "김민석이 전남광주의회에 협치를 주문했습니다.\n전남광주의회는 돌파구를 찾겠다고 화답했습니다."
+      "ai_summary": "패스트트랙 심사 기간을 330일에서 90일로 단축하는 법안이 통과되었습니다.\n이번 법안은 여당 주도로 국회를 통과했습니다."
     },
     {
-      "id": "news-20260820-010",
-      "title": "김민석이 수석사무부총장에 문진석을 임명했습니다.\n민주연구원에 혁신 TF를 신설합니다.",
-      "summary": "이데일리 | 정치",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 90,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/018/0006354232",
-      "source": {
-        "title": "김민석, 수석사무부총장에 문진석 임명…민주연구원 혁신 TF 신설",
-        "url": "https://n.news.naver.com/mnews/article/018/0006354232",
-        "press": "이데일리",
-        "published_at": "",
-        "source": "naver",
-        "category": "정치"
-      },
-      "ai_summary": "김민석이 수석사무부총장에 문진석을 임명했습니다.\n민주연구원에 혁신 TF를 신설합니다."
-    },
-    {
-      "id": "news-20260820-011",
-      "title": "삼성전자서비스가 거제에 수해 복구 특별 서비스팀을 파견했습니다.\n수해 지역의 복구를 지원하기 위한 서비스가 제공됩니다.",
-      "summary": "전자신문 | 경제",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-011",
+      "title": "삼성전자 동행노조가 21일 3000명 규모의 집회를 엽니다.\n이번 집회는 DS와 보상 격차에 대한 반발로 진행됩니다.",
+      "summary": "시사저널 | 경제",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 89,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/030/0003458595",
+      "source_url": "https://n.news.naver.com/mnews/article/586/0000136329",
       "source": {
-        "title": "삼성전자서비스, 거제에 수해 복구 특별 서비스팀 파견",
-        "url": "https://n.news.naver.com/mnews/article/030/0003458595",
-        "press": "전자신문",
+        "title": "삼성전자 동행노조, 21일 3000명 집회…DS와 보상 격차 반발",
+        "url": "https://n.news.naver.com/mnews/article/586/0000136329",
+        "press": "시사저널",
         "published_at": "",
         "source": "naver",
         "category": "경제"
       },
-      "ai_summary": "삼성전자서비스가 거제에 수해 복구 특별 서비스팀을 파견했습니다.\n수해 지역의 복구를 지원하기 위한 서비스가 제공됩니다."
+      "ai_summary": "삼성전자 동행노조가 21일 3000명 규모의 집회를 엽니다.\n이번 집회는 DS와 보상 격차에 대한 반발로 진행됩니다."
     },
     {
-      "id": "news-20260820-012",
-      "title": "삼성전자가 광주에 플랙트 냉난방공조 생산라인을 구축합니다.\n이를 위해 2,400억 원을 투자할 계획입니다.",
-      "summary": "경향신문 | 경제",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-012",
+      "title": "노후 공공청사 200여 곳을 개발합니다.\n국유지를 활용해 청년기숙사 2000호를 공급합니다.",
+      "summary": "세계일보 | 경제",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 88,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/032/0003465143",
+      "source_url": "https://n.news.naver.com/mnews/article/022/0004152396",
       "source": {
-        "title": "삼성전자, 광주에 플랙트 냉난방공조 생산라인…2400억 투자",
-        "url": "https://n.news.naver.com/mnews/article/032/0003465143",
-        "press": "경향신문",
-        "published_at": "",
-        "source": "naver",
-        "category": "경제"
-      },
-      "ai_summary": "삼성전자가 광주에 플랙트 냉난방공조 생산라인을 구축합니다.\n이를 위해 2,400억 원을 투자할 계획입니다."
-    },
-    {
-      "id": "news-20260820-013",
-      "title": "셀트리온은 주요 제품군의 아시아 점유율 1위를 지속하고 있습니다.\n신규 제품을 통해 성과를 확대할 계획입니다.",
-      "summary": "머니투데이 | 경제",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 87,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/008/0005401646",
-      "source": {
-        "title": "셀트리온 \"주요 제품군 亞 점유율 1위 지속…신규 제품으로 성과 확대\"",
-        "url": "https://n.news.naver.com/mnews/article/008/0005401646",
-        "press": "머니투데이",
-        "published_at": "",
-        "source": "naver",
-        "category": "경제"
-      },
-      "ai_summary": "셀트리온은 주요 제품군의 아시아 점유율 1위를 지속하고 있습니다.\n신규 제품을 통해 성과를 확대할 계획입니다."
-    },
-    {
-      "id": "news-20260820-014",
-      "title": "현대차 매출 손실이 2.8조 원에 달하고 있습니다.\n파업 전선이 확대되면서 자동차 업계의 불안이 커지고 있습니다.",
-      "summary": "조선비즈 | 경제",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 86,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/366/0001187159",
-      "source": {
-        "title": "현대차 매출 손실만 2.8조인데… 파업 전선 확대에 車업계 ‘불안’",
-        "url": "https://n.news.naver.com/mnews/article/366/0001187159",
-        "press": "조선비즈",
-        "published_at": "",
-        "source": "naver",
-        "category": "경제"
-      },
-      "ai_summary": "현대차 매출 손실이 2.8조 원에 달하고 있습니다.\n파업 전선이 확대되면서 자동차 업계의 불안이 커지고 있습니다."
-    },
-    {
-      "id": "news-20260820-015",
-      "title": "서울 한복판의 ‘더 플라자’가 3년간 전면 리모델링을 진행합니다.\n이를 통해 7성급 호텔로 거듭날 예정입니다.",
-      "summary": "매일경제 | 경제",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 85,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/009/0005722736",
-      "source": {
-        "title": "서울 한복판에 7성급 호텔 온다…‘더 플라자’ 3년간 전면 리모델링",
-        "url": "https://n.news.naver.com/mnews/article/009/0005722736",
-        "press": "매일경제",
-        "published_at": "",
-        "source": "naver",
-        "category": "경제"
-      },
-      "ai_summary": "서울 한복판의 ‘더 플라자’가 3년간 전면 리모델링을 진행합니다.\n이를 통해 7성급 호텔로 거듭날 예정입니다."
-    },
-    {
-      "id": "news-20260820-016",
-      "title": "농협이 경남 집중호우 피해복구를 위해 총력을 다하고 있습니다.\n피해 복구를 위해 최대 500억원을 지원할 계획입니다.",
-      "summary": "세계일보 | 경제",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 84,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/022/0004152126",
-      "source": {
-        "title": "농협, 경남 집중호우 피해복구 총력…최대 500억원 지원",
-        "url": "https://n.news.naver.com/mnews/article/022/0004152126",
+        "title": "노후 공공청사 200여곳 개발… 국유지 활용 청년기숙사 2000호 공급",
+        "url": "https://n.news.naver.com/mnews/article/022/0004152396",
         "press": "세계일보",
         "published_at": "",
         "source": "naver",
         "category": "경제"
       },
-      "ai_summary": "농협이 경남 집중호우 피해복구를 위해 총력을 다하고 있습니다.\n피해 복구를 위해 최대 500억원을 지원할 계획입니다."
+      "ai_summary": "노후 공공청사 200여 곳을 개발합니다.\n국유지를 활용해 청년기숙사 2000호를 공급합니다."
     },
     {
-      "id": "news-20260820-017",
-      "title": "구윤철은 대미 투자의 의도적인 지연은 없다고 밝혔습니다.\n1호 사업 후보로는 에너지를 꼽았습니다.",
-      "summary": "한국경제TV | 경제",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-013",
+      "title": "100세 시대가 현실로 다가오고 있습니다.\n5명 중 1명은 나 홀로 삽니다.",
+      "summary": "세계일보 | 경제",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 87,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/022/0004152371",
+      "source": {
+        "title": "‘100세 시대’ 현실로’… 5명 중 1명은 나 홀로 산다",
+        "url": "https://n.news.naver.com/mnews/article/022/0004152371",
+        "press": "세계일보",
+        "published_at": "",
+        "source": "naver",
+        "category": "경제"
+      },
+      "ai_summary": "100세 시대가 현실로 다가오고 있습니다.\n5명 중 1명은 나 홀로 삽니다."
+    },
+    {
+      "id": "news-20260821-014",
+      "title": "새만금 MP 변경안에서 현대차가 20번 언급되었습니다.\n현대차에 부지와 전력 등이 지원됩니다.",
+      "summary": "연합뉴스 | 경제",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 86,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/001/0016261996",
+      "source": {
+        "title": "새만금 MP 변경안서 20번 언급된 '현대차'…부지·전력 등 지원",
+        "url": "https://n.news.naver.com/mnews/article/001/0016261996",
+        "press": "연합뉴스",
+        "published_at": "",
+        "source": "naver",
+        "category": "경제"
+      },
+      "ai_summary": "새만금 MP 변경안에서 현대차가 20번 언급되었습니다.\n현대차에 부지와 전력 등이 지원됩니다."
+    },
+    {
+      "id": "news-20260821-015",
+      "title": "SK하이닉스 노사가 구성원, 주주, 사회가 함께 성장하는 성과급 모델을 마련했습니다.",
+      "summary": "경기일보 | 경제",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 85,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/666/0000119903",
+      "source": {
+        "title": "SK하이닉스 노사, 구성원·주주·사회가 함께 성장하는 성과급 모델 마련",
+        "url": "https://n.news.naver.com/mnews/article/666/0000119903",
+        "press": "경기일보",
+        "published_at": "",
+        "source": "naver",
+        "category": "경제"
+      },
+      "ai_summary": "SK하이닉스 노사가 구성원, 주주, 사회가 함께 성장하는 성과급 모델을 마련했습니다."
+    },
+    {
+      "id": "news-20260821-016",
+      "title": "메가프로젝트로 인해 최대전력 전망이 20% 상승할 것으로 보입니다.\n이는 원전 19기의 용량에 해당하는 규모입니다.",
+      "summary": "데일리안 | 경제",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 84,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/119/0003123573",
+      "source": {
+        "title": "메가프로젝트에 최대전력 전망 20%↑…원전 19기 용량",
+        "url": "https://n.news.naver.com/mnews/article/119/0003123573",
+        "press": "데일리안",
+        "published_at": "",
+        "source": "naver",
+        "category": "경제"
+      },
+      "ai_summary": "메가프로젝트로 인해 최대전력 전망이 20% 상승할 것으로 보입니다.\n이는 원전 19기의 용량에 해당하는 규모입니다."
+    },
+    {
+      "id": "news-20260821-017",
+      "title": "석유화학 재편 ‘대산 1호’ 기업 결합이 조건부 승인되었습니다.",
+      "summary": "KBS | 경제",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 83,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/215/0001262858",
+      "source_url": "https://n.news.naver.com/mnews/article/056/0012241277",
       "source": {
-        "title": "구윤철 \"대미 투자 의도적 지연 없다...1호 사업 후보는 에너지\"",
-        "url": "https://n.news.naver.com/mnews/article/215/0001262858",
-        "press": "한국경제TV",
+        "title": "석유화학 재편 ‘대산 1호’ 기업 결합 조건부 승인",
+        "url": "https://n.news.naver.com/mnews/article/056/0012241277",
+        "press": "KBS",
         "published_at": "",
         "source": "naver",
         "category": "경제"
       },
-      "ai_summary": "구윤철은 대미 투자의 의도적인 지연은 없다고 밝혔습니다.\n1호 사업 후보로는 에너지를 꼽았습니다."
+      "ai_summary": "석유화학 재편 ‘대산 1호’ 기업 결합이 조건부 승인되었습니다."
     },
     {
-      "id": "news-20260820-018",
-      "title": "HD현대중공업이 페루 상륙지원함 ‘침보테함’을 진수했습니다.\n이번 건조는 해외 현지에서 이뤄진 첫 공동 건조입니다.",
-      "summary": "경향신문 | 경제",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-018",
+      "title": "현대위아가 2톤 넘는 GV80도 운반할 수 있는 아파트 주차로봇 사업을 본격화합니다.\n현대위아가 주차로봇 사업을 통해 아파트 주차 환경의 효율성을 높일 계획입니다.",
+      "summary": "헤럴드경제 | 경제",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 82,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/032/0003465113",
+      "source_url": "https://n.news.naver.com/mnews/article/016/0002685954",
       "source": {
-        "title": "HD현대중공업, 페루 상륙지원함 ‘침보테함’ 진수…해외 현지 첫 공동 건조",
-        "url": "https://n.news.naver.com/mnews/article/032/0003465113",
-        "press": "경향신문",
+        "title": "“2톤 넘는 GV80도 번쩍”…현대위아, 아파트 주차로봇 사업 본격화",
+        "url": "https://n.news.naver.com/mnews/article/016/0002685954",
+        "press": "헤럴드경제",
         "published_at": "",
         "source": "naver",
         "category": "경제"
       },
-      "ai_summary": "HD현대중공업이 페루 상륙지원함 ‘침보테함’을 진수했습니다.\n이번 건조는 해외 현지에서 이뤄진 첫 공동 건조입니다."
+      "ai_summary": "현대위아가 2톤 넘는 GV80도 운반할 수 있는 아파트 주차로봇 사업을 본격화합니다.\n현대위아가 주차로봇 사업을 통해 아파트 주차 환경의 효율성을 높일 계획입니다."
     },
     {
-      "id": "news-20260820-019",
-      "title": "대한민국 가계빚이 사상 처음으로 2000조 원을 돌파했습니다.\n영끌과 빚투 등으로 인해 가계부채가 크게 증가했습니다.",
+      "id": "news-20260821-019",
+      "title": "홈플러스가 2000억 원을 투입했음에도 자금난이 지속되고 있습니다.\n계속되는 자금 고비로 인해 어려움을 겪고 있습니다.",
       "summary": "국민일보 | 경제",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 81,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/005/0001867717",
+      "source_url": "https://n.news.naver.com/mnews/article/005/0001867862",
       "source": {
-        "title": "빚더미 대한민국…영끌·빚투에 가계빚 사상 첫 2000조 돌파",
-        "url": "https://n.news.naver.com/mnews/article/005/0001867717",
+        "title": "[단독] 2000억 넣었지만… 홈플러스, 자금 고비 끝나지 않았다",
+        "url": "https://n.news.naver.com/mnews/article/005/0001867862",
         "press": "국민일보",
         "published_at": "",
         "source": "naver",
         "category": "경제"
       },
-      "ai_summary": "대한민국 가계빚이 사상 처음으로 2000조 원을 돌파했습니다.\n영끌과 빚투 등으로 인해 가계부채가 크게 증가했습니다."
+      "ai_summary": "홈플러스가 2000억 원을 투입했음에도 자금난이 지속되고 있습니다.\n계속되는 자금 고비로 인해 어려움을 겪고 있습니다."
     },
     {
-      "id": "news-20260820-020",
-      "title": "코스피가 글로벌 국채금리 상승과 미국 데이터센터 지연 우려로 5.8% 급락했습니다.",
-      "summary": "연합뉴스 | 경제",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-020",
+      "title": "JP모건이 SK하닉스 주식을 지금이라도 더 매수할 것을 강조했습니다.\nJP모건은 SK하닉스의 추가 주주환원 규모를 분석했습니다.",
+      "summary": "아시아경제 | 경제",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 80,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/001/0016259485",
+      "source_url": "https://n.news.naver.com/mnews/article/277/0005805328",
       "source": {
-        "title": "코스피, 글로벌 국채금리·美데이터센터 지연 우려에 5.8% 급락(종합)",
-        "url": "https://n.news.naver.com/mnews/article/001/0016259485",
-        "press": "연합뉴스",
+        "title": "\"SK하닉 지금이라도 더 사라\" JP모건이 강조하며 분석한 추가 주주환원 규모",
+        "url": "https://n.news.naver.com/mnews/article/277/0005805328",
+        "press": "아시아경제",
         "published_at": "",
         "source": "naver",
         "category": "경제"
       },
-      "ai_summary": "코스피가 글로벌 국채금리 상승과 미국 데이터센터 지연 우려로 5.8% 급락했습니다."
+      "ai_summary": "JP모건이 SK하닉스 주식을 지금이라도 더 매수할 것을 강조했습니다.\nJP모건은 SK하닉스의 추가 주주환원 규모를 분석했습니다."
     },
     {
-      "id": "news-20260820-021",
-      "title": "전국 시도교육감이 교부금의 안정적인 확보 방안이 필요하다고 밝혔습니다.\n이에 따라 공식협의체 구성을 요청했습니다.",
-      "summary": "머니투데이 | 사회",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-021",
+      "title": "종합특검이 심우정 전 검찰총장을 내란 혐의 등으로 불구속 기소했습니다.",
+      "summary": "YTN | 사회",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 79,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/008/0005401951",
+      "source_url": "https://n.news.naver.com/mnews/article/052/0002395931",
       "source": {
-        "title": "전국 시도교육감 \"교부금 안정적 확보 방안 필요...공식협의체 요청\"",
-        "url": "https://n.news.naver.com/mnews/article/008/0005401951",
-        "press": "머니투데이",
+        "title": "[속보] 종합특검, 심우정 전 검찰총장 '내란 혐의' 등 불구속 기소",
+        "url": "https://n.news.naver.com/mnews/article/052/0002395931",
+        "press": "YTN",
         "published_at": "",
         "source": "naver",
         "category": "사회"
       },
-      "ai_summary": "전국 시도교육감이 교부금의 안정적인 확보 방안이 필요하다고 밝혔습니다.\n이에 따라 공식협의체 구성을 요청했습니다."
+      "ai_summary": "종합특검이 심우정 전 검찰총장을 내란 혐의 등으로 불구속 기소했습니다."
     },
     {
-      "id": "news-20260820-022",
-      "title": "중수청 초대청장 후보추천위가 구성되었습니다.\n26일까지 국민 추천 접수를 받습니다.",
-      "summary": "이데일리 | 사회",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-022",
+      "title": "경산 아파트 방화 피의자가 치료 중 숨졌습니다.\n이로써 이번 사건의 사망자는 5명으로 늘어났습니다.",
+      "summary": "매일경제 | 사회",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 78,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/018/0006353941",
+      "source_url": "https://n.news.naver.com/mnews/article/009/0005723772",
       "source": {
-        "title": "중수청 초대청장 후보추천위 구성…26일까지 국민 추천 접수",
-        "url": "https://n.news.naver.com/mnews/article/018/0006353941",
-        "press": "이데일리",
+        "title": "경산 아파트 방화 피의자 치료 중 숨져…사망자 5명으로 늘어",
+        "url": "https://n.news.naver.com/mnews/article/009/0005723772",
+        "press": "매일경제",
         "published_at": "",
         "source": "naver",
         "category": "사회"
       },
-      "ai_summary": "중수청 초대청장 후보추천위가 구성되었습니다.\n26일까지 국민 추천 접수를 받습니다."
+      "ai_summary": "경산 아파트 방화 피의자가 치료 중 숨졌습니다.\n이로써 이번 사건의 사망자는 5명으로 늘어났습니다."
     },
     {
-      "id": "news-20260820-023",
-      "title": "박홍근은 전장연을 직격하며 집회와 시위 강도에 따라 예산이 결정되지 않는다고 말했습니다.",
-      "summary": "뉴시스 | 사회",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-023",
+      "title": "전자담배로 둔갑한 '제2 프로포폴'이 등장했습니다.\n해당 내용은 한국경제 사회 섹션에서 다루었습니다.",
+      "summary": "한국경제 | 사회",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 77,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/003/0014135295",
+      "source_url": "https://n.news.naver.com/mnews/article/015/0005322984",
       "source": {
-        "title": "박홍근, 전장연 직격…\"집회·시위 강도 따라 예산 결정되지 않아\"",
-        "url": "https://n.news.naver.com/mnews/article/003/0014135295",
-        "press": "뉴시스",
+        "title": "전자담배로 둔갑한 '제2 프로포폴'",
+        "url": "https://n.news.naver.com/mnews/article/015/0005322984",
+        "press": "한국경제",
         "published_at": "",
         "source": "naver",
         "category": "사회"
       },
-      "ai_summary": "박홍근은 전장연을 직격하며 집회와 시위 강도에 따라 예산이 결정되지 않는다고 말했습니다."
+      "ai_summary": "전자담배로 둔갑한 '제2 프로포폴'이 등장했습니다.\n해당 내용은 한국경제 사회 섹션에서 다루었습니다."
     },
     {
-      "id": "news-20260820-024",
-      "title": "불구속 송치되었던 ‘사체 없는 영아 살인’ 사건이 검찰 보완수사 10년 만에 구속기소되었습니다.\n해당 사건은 이데일리 사회 분야를 통해 보도되었습니다.",
-      "summary": "이데일리 | 사회",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-024",
+      "title": "전 강남서 수사팀장이 피의자를 참고인으로 바꾸는 방식으로 사건을 무마했습니다.\n해당 사건은 JTBC 사회 분야를 통해 보도되었습니다.",
+      "summary": "JTBC | 사회",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 76,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/018/0006354277",
+      "source_url": "https://n.news.naver.com/mnews/article/437/0000507042",
       "source": {
-        "title": "불구속 송치된 ‘사체 없는 영아 살인’…檢 보완수사 10년 만에 구속기소",
-        "url": "https://n.news.naver.com/mnews/article/018/0006354277",
-        "press": "이데일리",
+        "title": "전 강남서 수사팀장의 사건 무마법…'피의자를 참고인으로'",
+        "url": "https://n.news.naver.com/mnews/article/437/0000507042",
+        "press": "JTBC",
         "published_at": "",
         "source": "naver",
         "category": "사회"
       },
-      "ai_summary": "불구속 송치되었던 ‘사체 없는 영아 살인’ 사건이 검찰 보완수사 10년 만에 구속기소되었습니다.\n해당 사건은 이데일리 사회 분야를 통해 보도되었습니다."
+      "ai_summary": "전 강남서 수사팀장이 피의자를 참고인으로 바꾸는 방식으로 사건을 무마했습니다.\n해당 사건은 JTBC 사회 분야를 통해 보도되었습니다."
     },
     {
-      "id": "news-20260820-025",
-      "title": "李대통령이 선관위 특검에 이태한 권익위 비상임위원을 임명했습니다.",
-      "summary": "서울경제 | 사회",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-025",
+      "title": "임은정 동부지검장이 중수청 수사관에 지원했습니다.",
+      "summary": "KBS | 사회",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 75,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/011/0004652818",
+      "source_url": "https://n.news.naver.com/mnews/article/056/0012241284",
       "source": {
-        "title": "李대통령, 선관위 특검에 이태한 권익위 비상임위원 임명",
-        "url": "https://n.news.naver.com/mnews/article/011/0004652818",
-        "press": "서울경제",
+        "title": "임은정 동부지검장, 중수청 수사관 지원",
+        "url": "https://n.news.naver.com/mnews/article/056/0012241284",
+        "press": "KBS",
         "published_at": "",
         "source": "naver",
         "category": "사회"
       },
-      "ai_summary": "李대통령이 선관위 특검에 이태한 권익위 비상임위원을 임명했습니다."
+      "ai_summary": "임은정 동부지검장이 중수청 수사관에 지원했습니다."
     },
     {
-      "id": "news-20260820-026",
-      "title": "정은경은 국민연금 리밸런싱 유예가 시장 변동성을 고려한 결정이라고 밝혔습니다.\n해당 내용은 세계일보 사회 분야를 통해 보도되었습니다.",
-      "summary": "세계일보 | 사회",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-026",
+      "title": "간절히 올린 번호에 무슨 짓을 했느냐며 가족들이 애타게 호소하고 있습니다.\n제발 삼가달라는 가족들의 요청이 이어지고 있습니다.",
+      "summary": "SBS | 사회",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 74,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/022/0004152086",
+      "source_url": "https://n.news.naver.com/mnews/article/055/0001382016",
       "source": {
-        "title": "정은경 “국민연금 리밸런싱 유예, 시장 변동성 고려한 것”",
-        "url": "https://n.news.naver.com/mnews/article/022/0004152086",
-        "press": "세계일보",
+        "title": "간절히 올린 번호에 무슨 짓을?…\"제발 삼가주세요\" 애타는 가족들[자막뉴스]",
+        "url": "https://n.news.naver.com/mnews/article/055/0001382016",
+        "press": "SBS",
         "published_at": "",
         "source": "naver",
         "category": "사회"
       },
-      "ai_summary": "정은경은 국민연금 리밸런싱 유예가 시장 변동성을 고려한 결정이라고 밝혔습니다.\n해당 내용은 세계일보 사회 분야를 통해 보도되었습니다."
+      "ai_summary": "간절히 올린 번호에 무슨 짓을 했느냐며 가족들이 애타게 호소하고 있습니다.\n제발 삼가달라는 가족들의 요청이 이어지고 있습니다."
     },
     {
-      "id": "news-20260820-027",
-      "title": "광양시가 ‘2026년 전국 지방자치단체 일자리대상’에서 우수상을 받았습니다.\n이로써 광양시는 12년 연속 수상을 달성했습니다.",
-      "summary": "서울신문 | 사회",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-027",
+      "title": "불법촬영물 사이트는 개설하는 것만으로도 처벌받습니다.",
+      "summary": "조선비즈 | 사회",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 73,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/081/0003671708",
+      "source_url": "https://n.news.naver.com/mnews/article/366/0001187337",
       "source": {
-        "title": "광양시, ‘2026년 전국 지방자치단체 일자리대상’ 우수상···12년 연속 수상",
-        "url": "https://n.news.naver.com/mnews/article/081/0003671708",
-        "press": "서울신문",
+        "title": "불법촬영물 사이트 개설만 해도 처벌한다",
+        "url": "https://n.news.naver.com/mnews/article/366/0001187337",
+        "press": "조선비즈",
         "published_at": "",
         "source": "naver",
         "category": "사회"
       },
-      "ai_summary": "광양시가 ‘2026년 전국 지방자치단체 일자리대상’에서 우수상을 받았습니다.\n이로써 광양시는 12년 연속 수상을 달성했습니다."
+      "ai_summary": "불법촬영물 사이트는 개설하는 것만으로도 처벌받습니다."
     },
     {
-      "id": "news-20260820-028",
-      "title": "인천공항에서 중국인이 새치기하는 영상이 논란이 되었습니다.\n이에 따라 카운터에 펜스가 설치되었습니다.",
-      "summary": "파이낸셜뉴스 | 사회",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-028",
+      "title": "신천지는 국민의힘 당원 가입 물의에 대해 사과했습니다.\n정치권과의 연계를 일절 차단하겠다고 밝혔습니다.",
+      "summary": "동아일보 | 사회",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 72,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/014/0005563223",
+      "source_url": "https://n.news.naver.com/mnews/article/020/0003742173",
       "source": {
-        "title": "\"영상 진짜냐\" 논란된 인천공항 중국인 새치기…카운터에 펜스 설치",
-        "url": "https://n.news.naver.com/mnews/article/014/0005563223",
-        "press": "파이낸셜뉴스",
+        "title": "신천지 “국힘 당원 가입 물의 사과…정치권과 연계 일절 차단”",
+        "url": "https://n.news.naver.com/mnews/article/020/0003742173",
+        "press": "동아일보",
         "published_at": "",
         "source": "naver",
         "category": "사회"
       },
-      "ai_summary": "인천공항에서 중국인이 새치기하는 영상이 논란이 되었습니다.\n이에 따라 카운터에 펜스가 설치되었습니다."
+      "ai_summary": "신천지는 국민의힘 당원 가입 물의에 대해 사과했습니다.\n정치권과의 연계를 일절 차단하겠다고 밝혔습니다."
     },
     {
-      "id": "news-20260820-029",
-      "title": "조성현 대령이 재판에 넘겨졌습니다.\n종합특검은 이를 명령 거부로 볼 수 없다고 밝혔습니다.",
-      "summary": "아시아경제 | 사회",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-029",
+      "title": "전남권 의대 신설 추진 계획서가 제출되지 않았습니다.\n통합특별시 의견서만 제출된 상태입니다.",
+      "summary": "뉴스1 | 사회",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 71,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/277/0005804807",
+      "source_url": "https://n.news.naver.com/mnews/article/421/0009124569",
       "source": {
-        "title": "\"서강대교 넘지 말라\" 조성현 대령 재판행…종합특검 \"명령 거부로 볼 수 없어\"",
-        "url": "https://n.news.naver.com/mnews/article/277/0005804807",
-        "press": "아시아경제",
-        "published_at": "",
-        "source": "naver",
-        "category": "사회"
-      },
-      "ai_summary": "조성현 대령이 재판에 넘겨졌습니다.\n종합특검은 이를 명령 거부로 볼 수 없다고 밝혔습니다."
-    },
-    {
-      "id": "news-20260820-030",
-      "title": "특검이 한덕수 재판서 위증한 윤석열에게 2심 벌금 1000만원을 구형했습니다.\n해당 사건은 윤석열의 위증 혐의에 대한 2심 재판 과정에서 이루어졌습니다.",
-      "summary": "JTBC | 사회",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 70,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/437/0000506843",
-      "source": {
-        "title": "특검, '한덕수 재판서 위증' 윤석열 2심 벌금1000만원 구형",
-        "url": "https://n.news.naver.com/mnews/article/437/0000506843",
-        "press": "JTBC",
-        "published_at": "",
-        "source": "naver",
-        "category": "사회"
-      },
-      "ai_summary": "특검이 한덕수 재판서 위증한 윤석열에게 2심 벌금 1000만원을 구형했습니다.\n해당 사건은 윤석열의 위증 혐의에 대한 2심 재판 과정에서 이루어졌습니다."
-    },
-    {
-      "id": "news-20260820-031",
-      "title": "국민 4만 명이 뽑은 여행 명소에서 '맛집' 주제가 관심 1순위로 나타났습니다.",
-      "summary": "서울경제 | 생활/문화",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 69,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/011/0004652951",
-      "source": {
-        "title": "국민 4만명이 뽑은 여행 명소…‘맛집’ 주제가 관심 1순위",
-        "url": "https://n.news.naver.com/mnews/article/011/0004652951",
-        "press": "서울경제",
-        "published_at": "",
-        "source": "naver",
-        "category": "생활/문화"
-      },
-      "ai_summary": "국민 4만 명이 뽑은 여행 명소에서 '맛집' 주제가 관심 1순위로 나타났습니다."
-    },
-    {
-      "id": "news-20260820-032",
-      "title": "충청과 남부를 중심으로 강한 소나기가 내리겠습니다.\n전국적으로 33도의 무더위가 이어지겠습니다.",
-      "summary": "JTBC | 생활/문화",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 68,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/437/0000506788",
-      "source": {
-        "title": "충청·남부 중심 강한 소나기…전국 33도 무더위 이어져[날씨]",
-        "url": "https://n.news.naver.com/mnews/article/437/0000506788",
-        "press": "JTBC",
-        "published_at": "",
-        "source": "naver",
-        "category": "생활/문화"
-      },
-      "ai_summary": "충청과 남부를 중심으로 강한 소나기가 내리겠습니다.\n전국적으로 33도의 무더위가 이어지겠습니다."
-    },
-    {
-      "id": "news-20260820-033",
-      "title": "18호 태풍 '사우델'이 발생했습니다.\n이 태풍은 일본 남쪽 해상으로 북상하고 있습니다.",
-      "summary": "JTBC | 생활/문화",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 67,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/437/0000506884",
-      "source": {
-        "title": "18호 태풍 '사우델' 발생…일본 남쪽 해상으로 북상",
-        "url": "https://n.news.naver.com/mnews/article/437/0000506884",
-        "press": "JTBC",
-        "published_at": "",
-        "source": "naver",
-        "category": "생활/문화"
-      },
-      "ai_summary": "18호 태풍 '사우델'이 발생했습니다.\n이 태풍은 일본 남쪽 해상으로 북상하고 있습니다."
-    },
-    {
-      "id": "news-20260820-034",
-      "title": "부산에 밤낮 없는 더위가 다시 이어지겠습니다.\n오늘 저녁까지 최대 60mm의 소나기가 내리겠습니다.",
-      "summary": "KBS | 생활/문화",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 66,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/056/0012240572",
-      "source": {
-        "title": "부산 다시 밤낮 없는 더위…내일 저녁까지 최대 60mm 소나기[날씨]",
-        "url": "https://n.news.naver.com/mnews/article/056/0012240572",
-        "press": "KBS",
-        "published_at": "",
-        "source": "naver",
-        "category": "생활/문화"
-      },
-      "ai_summary": "부산에 밤낮 없는 더위가 다시 이어지겠습니다.\n오늘 저녁까지 최대 60mm의 소나기가 내리겠습니다."
-    },
-    {
-      "id": "news-20260820-035",
-      "title": "병원은 가업일까라는 의문과 함께 상속공제 제외로 인한 지역의료 붕괴 논란이 일고 있습니다.",
-      "summary": "아시아경제 | 생활/문화",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 65,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/277/0005804570",
-      "source": {
-        "title": "병원은 '가업'일까…상속공제 제외에 '지역의료 붕괴' 논란[Why&Next]",
-        "url": "https://n.news.naver.com/mnews/article/277/0005804570",
-        "press": "아시아경제",
-        "published_at": "",
-        "source": "naver",
-        "category": "생활/문화"
-      },
-      "ai_summary": "병원은 가업일까라는 의문과 함께 상속공제 제외로 인한 지역의료 붕괴 논란이 일고 있습니다."
-    },
-    {
-      "id": "news-20260820-036",
-      "title": "다음 달 창극 중심의 음악극 축제가 개막합니다.\n우리 소리의 세계화 가능성을 모색하는 행사입니다.",
-      "summary": "KBS | 생활/문화",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 64,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/056/0012240262",
-      "source": {
-        "title": "“우리 소리도 세계화 가능”…다음달 창극 중심 음악극 축제 개막",
-        "url": "https://n.news.naver.com/mnews/article/056/0012240262",
-        "press": "KBS",
-        "published_at": "",
-        "source": "naver",
-        "category": "생활/문화"
-      },
-      "ai_summary": "다음 달 창극 중심의 음악극 축제가 개막합니다.\n우리 소리의 세계화 가능성을 모색하는 행사입니다."
-    },
-    {
-      "id": "news-20260820-037",
-      "title": "'오디세이' 열풍으로 아이맥스 암표가 급증하고 있습니다.\n이에 대응하여 강력한 조치가 취해졌습니다.",
-      "summary": "서울경제 | 생활/문화",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 63,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/011/0004653182",
-      "source": {
-        "title": "“아이맥스? 30만원 줘도 못 구해요”…‘오디세이’ 열풍에 암표 급증하자 칼 빼들었다",
-        "url": "https://n.news.naver.com/mnews/article/011/0004653182",
-        "press": "서울경제",
-        "published_at": "",
-        "source": "naver",
-        "category": "생활/문화"
-      },
-      "ai_summary": "'오디세이' 열풍으로 아이맥스 암표가 급증하고 있습니다.\n이에 대응하여 강력한 조치가 취해졌습니다."
-    },
-    {
-      "id": "news-20260820-038",
-      "title": "밤마다 야식이 당기는 증상이 3개월 동안 지속되면 질환일 수 있습니다.\n이는 개인의 의지 문제가 아닐 수 있습니다.",
-      "summary": "한겨레 | 생활/문화",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 62,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/028/0002819213",
-      "source": {
-        "title": "“밤마다 야식 당긴다면 의지 탓 아냐”…‘이 증상’ 3개월 지속되면 질환",
-        "url": "https://n.news.naver.com/mnews/article/028/0002819213",
-        "press": "한겨레",
-        "published_at": "",
-        "source": "naver",
-        "category": "생활/문화"
-      },
-      "ai_summary": "밤마다 야식이 당기는 증상이 3개월 동안 지속되면 질환일 수 있습니다.\n이는 개인의 의지 문제가 아닐 수 있습니다."
-    },
-    {
-      "id": "news-20260820-039",
-      "title": "전국 곳곳에 폭염 특보가 내려졌습니다.\n오전부터 소나기가 내릴 예정입니다.",
-      "summary": "KBS | 32분전 | 생활/문화",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 61,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/056/0012240771",
-      "source": {
-        "title": "[라인W 날씨] 전국 곳곳 폭염 특보…오전부터 소나기",
-        "url": "https://n.news.naver.com/mnews/article/056/0012240771",
-        "press": "KBS",
-        "published_at": "32분전",
-        "source": "naver",
-        "category": "생활/문화"
-      },
-      "ai_summary": "전국 곳곳에 폭염 특보가 내려졌습니다.\n오전부터 소나기가 내릴 예정입니다."
-    },
-    {
-      "id": "news-20260820-040",
-      "title": "생후 2개월 아기에게 눈이 유난히 큰 특징의 희귀병이 발견되었습니다.\n해당 사례의 구체적인 병명과 내용에 대한 관심이 높아지고 있습니다.",
-      "summary": "코메디닷컴 | 44분전 | 생활/문화",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 60,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/296/0000103837",
-      "source": {
-        "title": "완/ “눈이 유난히 크다”… 생후 2개월 아기에게 발견된 희귀병, 뭘까?",
-        "url": "https://n.news.naver.com/mnews/article/296/0000103837",
-        "press": "코메디닷컴",
-        "published_at": "44분전",
-        "source": "naver",
-        "category": "생활/문화"
-      },
-      "ai_summary": "생후 2개월 아기에게 눈이 유난히 큰 특징의 희귀병이 발견되었습니다.\n해당 사례의 구체적인 병명과 내용에 대한 관심이 높아지고 있습니다."
-    },
-    {
-      "id": "news-20260820-041",
-      "title": "트럼프 동행을 위해 차 트렁크까지 불사한 '애착담요' 문고리 참모의 정체가 화제입니다.\n해당 인물은 문고리 참모로 알려졌습니다.",
-      "summary": "뉴스1 | 세계",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 59,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/421/0009121446",
-      "source": {
-        "title": "\"트럼프 동행하려 車트렁크 불사\"…'애착담요' 문고리 참모 정체",
-        "url": "https://n.news.naver.com/mnews/article/421/0009121446",
+        "title": "전남권 의대 신설 추진 계획서 미제출…통합특별시 의견서만 제출",
+        "url": "https://n.news.naver.com/mnews/article/421/0009124569",
         "press": "뉴스1",
         "published_at": "",
         "source": "naver",
-        "category": "세계"
+        "category": "사회"
       },
-      "ai_summary": "트럼프 동행을 위해 차 트렁크까지 불사한 '애착담요' 문고리 참모의 정체가 화제입니다.\n해당 인물은 문고리 참모로 알려졌습니다."
+      "ai_summary": "전남권 의대 신설 추진 계획서가 제출되지 않았습니다.\n통합특별시 의견서만 제출된 상태입니다."
     },
     {
-      "id": "news-20260820-042",
-      "title": "우크라이나 ‘드론전’ 영웅이 젤렌스키에 반기를 들었습니다.\n그는 대선을 치르자고 주장했습니다.",
-      "summary": "서울경제 | 세계",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-030",
+      "title": "청와대가 조희대 서면 제청을 진행했습니다.\n손봉기 제청은 반려하는 방향으로 가닥을 잡았습니다.",
+      "summary": "SBS | 사회",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
-      "priority": 58,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "priority": 70,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/011/0004653041",
+      "source_url": "https://n.news.naver.com/mnews/article/055/0001382200",
       "source": {
-        "title": "우크라이나 ‘드론전’ 영웅, 젤렌스키에 반기 “대선 치르자”",
-        "url": "https://n.news.naver.com/mnews/article/011/0004653041",
+        "title": "청와대, '조희대 서면 제청' 손봉기 제청 반려 가닥",
+        "url": "https://n.news.naver.com/mnews/article/055/0001382200",
+        "press": "SBS",
+        "published_at": "",
+        "source": "naver",
+        "category": "사회"
+      },
+      "ai_summary": "청와대가 조희대 서면 제청을 진행했습니다.\n손봉기 제청은 반려하는 방향으로 가닥을 잡았습니다."
+    },
+    {
+      "id": "news-20260821-031",
+      "title": "심상치 않은 ‘사우델’ 진로와 태풍 길 가능성을 살펴봐야 합니다.\n지켜봐야 할 변수 3가지가 있습니다.",
+      "summary": "중앙일보 | 생활/문화",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 69,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/025/0003545593",
+      "source": {
+        "title": "심상치 않은 ‘사우델’ 진로, 태풍 길 열리나…지켜봐야할 변수 3가지",
+        "url": "https://n.news.naver.com/mnews/article/025/0003545593",
+        "press": "중앙일보",
+        "published_at": "",
+        "source": "naver",
+        "category": "생활/문화"
+      },
+      "ai_summary": "심상치 않은 ‘사우델’ 진로와 태풍 길 가능성을 살펴봐야 합니다.\n지켜봐야 할 변수 3가지가 있습니다."
+    },
+    {
+      "id": "news-20260821-032",
+      "title": "오늘 중부 지방에는 비가 내리고 남부 지방에는 소나기가 내리겠습니다.\n무더위는 계속될 전망입니다.",
+      "summary": "KBS | 생활/문화",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 68,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/056/0012241571",
+      "source": {
+        "title": "내일 중부 비, 남부는 소나기…무더위 계속[뉴스9 날씨]",
+        "url": "https://n.news.naver.com/mnews/article/056/0012241571",
+        "press": "KBS",
+        "published_at": "",
+        "source": "naver",
+        "category": "생활/문화"
+      },
+      "ai_summary": "오늘 중부 지방에는 비가 내리고 남부 지방에는 소나기가 내리겠습니다.\n무더위는 계속될 전망입니다."
+    },
+    {
+      "id": "news-20260821-033",
+      "title": "세운4구역 유적 보존안이 다시 보류되었습니다.",
+      "summary": "KBS | 생활/문화",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 67,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/056/0012241276",
+      "source": {
+        "title": "세운4구역 유적 보존안 또 ‘보류’",
+        "url": "https://n.news.naver.com/mnews/article/056/0012241276",
+        "press": "KBS",
+        "published_at": "",
+        "source": "naver",
+        "category": "생활/문화"
+      },
+      "ai_summary": "세운4구역 유적 보존안이 다시 보류되었습니다."
+    },
+    {
+      "id": "news-20260821-034",
+      "title": "주말부터 낮 최고 기온이 34도까지 오르며 다시 찜통더위가 나타나겠습니다.\n폭염특보가 확대될 가능성이 있습니다.",
+      "summary": "뉴스1 | 생활/문화",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 66,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/421/0009123532",
+      "source": {
+        "title": "주말부터 다시 찜통더위…낮 최고 34도, 폭염특보 확대 가능성",
+        "url": "https://n.news.naver.com/mnews/article/421/0009123532",
+        "press": "뉴스1",
+        "published_at": "",
+        "source": "naver",
+        "category": "생활/문화"
+      },
+      "ai_summary": "주말부터 낮 최고 기온이 34도까지 오르며 다시 찜통더위가 나타나겠습니다.\n폭염특보가 확대될 가능성이 있습니다."
+    },
+    {
+      "id": "news-20260821-035",
+      "title": "소프라노 조수미의 세계무대 데뷔 40주년을 기념하는 메달이 출시됩니다.",
+      "summary": "서울경제 | 생활/문화",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 65,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/011/0004653326",
+      "source": {
+        "title": "‘소프라노 조수미 세계무대 데뷔 40주년’ 기념메달 나온다",
+        "url": "https://n.news.naver.com/mnews/article/011/0004653326",
         "press": "서울경제",
         "published_at": "",
         "source": "naver",
-        "category": "세계"
+        "category": "생활/문화"
       },
-      "ai_summary": "우크라이나 ‘드론전’ 영웅이 젤렌스키에 반기를 들었습니다.\n그는 대선을 치르자고 주장했습니다."
+      "ai_summary": "소프라노 조수미의 세계무대 데뷔 40주년을 기념하는 메달이 출시됩니다."
     },
     {
-      "id": "news-20260820-043",
-      "title": "이란이 호르무즈 해협 장악을 주장했으나 말뿐이라는 분석이 나오고 있습니다.\n실제로 미군이 보호하는 오만 항로를 이용하는 모습이 포착되었습니다.",
-      "summary": "YTN | 세계",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-036",
+      "title": "CJ 이재현 회장과 이미경 부회장이 UMG 회장과 회동했습니다.",
+      "summary": "파이낸셜뉴스 | 생활/문화",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
-      "priority": 57,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "priority": 64,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/052/0002395440",
+      "source_url": "https://n.news.naver.com/mnews/article/014/0005564360",
       "source": {
-        "title": "이란 '호르무즈 장악' 말뿐?...\"미군 보호 오만 항로 이용\"",
-        "url": "https://n.news.naver.com/mnews/article/052/0002395440",
-        "press": "YTN",
-        "published_at": "",
-        "source": "naver",
-        "category": "세계"
-      },
-      "ai_summary": "이란이 호르무즈 해협 장악을 주장했으나 말뿐이라는 분석이 나오고 있습니다.\n실제로 미군이 보호하는 오만 항로를 이용하는 모습이 포착되었습니다."
-    },
-    {
-      "id": "news-20260820-044",
-      "title": "카니가 오늘부터 적용되는 50% 관세 문제로 트럼프와 담판을 벌입니다.\n발등에 불 떨어진 상황에서 해결책을 모색합니다.",
-      "summary": "파이낸셜뉴스 | 세계",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 56,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/014/0005563197",
-      "source": {
-        "title": "발등에 불 떨어진 카니, 트럼프와 담판...오늘부터 50% 관세",
-        "url": "https://n.news.naver.com/mnews/article/014/0005563197",
+        "title": "CJ 이재현 회장·이미경 부회장, UMG 회장과 회동",
+        "url": "https://n.news.naver.com/mnews/article/014/0005564360",
         "press": "파이낸셜뉴스",
         "published_at": "",
         "source": "naver",
-        "category": "세계"
+        "category": "생활/문화"
       },
-      "ai_summary": "카니가 오늘부터 적용되는 50% 관세 문제로 트럼프와 담판을 벌입니다.\n발등에 불 떨어진 상황에서 해결책을 모색합니다."
+      "ai_summary": "CJ 이재현 회장과 이미경 부회장이 UMG 회장과 회동했습니다."
     },
     {
-      "id": "news-20260820-045",
-      "title": "후티 반군이 사우디 아람코 정유공장을 드론으로 공격했다고 주장했습니다.",
-      "summary": "뉴시스 | 세계",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-037",
+      "title": "무장애 음악극 '옹옹옹'이 공연됩니다.\n진짜와 가짜의 대립을 넘어 경계를 허무는 내용을 담았습니다.",
+      "summary": "뉴스1 | 생활/문화",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
-      "priority": 55,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "priority": 63,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/003/0014133764",
+      "source_url": "https://n.news.naver.com/mnews/article/421/0009124491",
       "source": {
-        "title": "후티 반군, 또 사우디 아람코 정유공장 드론 공격 주장",
-        "url": "https://n.news.naver.com/mnews/article/003/0014133764",
+        "title": "\"진짜와 가짜 대립 넘어 경계 허물다\"…무장애 음악극 '옹옹옹'",
+        "url": "https://n.news.naver.com/mnews/article/421/0009124491",
+        "press": "뉴스1",
+        "published_at": "",
+        "source": "naver",
+        "category": "생활/문화"
+      },
+      "ai_summary": "무장애 음악극 '옹옹옹'이 공연됩니다.\n진짜와 가짜의 대립을 넘어 경계를 허무는 내용을 담았습니다."
+    },
+    {
+      "id": "news-20260821-038",
+      "title": "금요일 중부 지방은 흐리고 비가 내리겠습니다.\n충청 이남 지역은 늦더위 속에서 소나기가 내리겠습니다.",
+      "summary": "연합뉴스TV | 31분전 | 생활/문화",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 62,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/422/0000897837",
+      "source": {
+        "title": "[날씨] 금요일 중부 흐리고 비…충청 이남 늦더위 속 소나기",
+        "url": "https://n.news.naver.com/mnews/article/422/0000897837",
+        "press": "연합뉴스TV",
+        "published_at": "31분전",
+        "source": "naver",
+        "category": "생활/문화"
+      },
+      "ai_summary": "금요일 중부 지방은 흐리고 비가 내리겠습니다.\n충청 이남 지역은 늦더위 속에서 소나기가 내리겠습니다."
+    },
+    {
+      "id": "news-20260821-039",
+      "title": "다이어트 식단을 챙기다 신장이 망가질 수 있습니다.\n단백질을 어떻게 섭취해야 하는지 주의가 필요합니다.",
+      "summary": "코메디닷컴 | 1시간전 | 생활/문화",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 61,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/296/0000103887",
+      "source": {
+        "title": "“다이어트 식단 챙기다 신장 망가진다”… 단백질, 어떻게 먹을까?",
+        "url": "https://n.news.naver.com/mnews/article/296/0000103887",
+        "press": "코메디닷컴",
+        "published_at": "1시간전",
+        "source": "naver",
+        "category": "생활/문화"
+      },
+      "ai_summary": "다이어트 식단을 챙기다 신장이 망가질 수 있습니다.\n단백질을 어떻게 섭취해야 하는지 주의가 필요합니다."
+    },
+    {
+      "id": "news-20260821-040",
+      "title": "61세임에도 실제 몸은 21세 수준으로 유지할 수 있는 방법이 있습니다.\n노화를 늦추는 아침 습관 4가지를 소개합니다.",
+      "summary": "코메디닷컴 | 1시간전 | 생활/문화",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 60,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/296/0000103886",
+      "source": {
+        "title": "61세인데 ‘실제 몸’은 21세?… 노화 늦추는 ‘아침 습관 4가지’",
+        "url": "https://n.news.naver.com/mnews/article/296/0000103886",
+        "press": "코메디닷컴",
+        "published_at": "1시간전",
+        "source": "naver",
+        "category": "생활/문화"
+      },
+      "ai_summary": "61세임에도 실제 몸은 21세 수준으로 유지할 수 있는 방법이 있습니다.\n노화를 늦추는 아침 습관 4가지를 소개합니다."
+    },
+    {
+      "id": "news-20260821-041",
+      "title": "트럼프가 이란 경제 고립 작전을 선언했습니다.\n이란을 지원하는 국가들에게도 경고했습니다.",
+      "summary": "부산일보 | 세계",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 59,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/082/0001394786",
+      "source": {
+        "title": "트럼프, 이란 경제 고립 작전 선언… 지원국에도 경고",
+        "url": "https://n.news.naver.com/mnews/article/082/0001394786",
+        "press": "부산일보",
+        "published_at": "",
+        "source": "naver",
+        "category": "세계"
+      },
+      "ai_summary": "트럼프가 이란 경제 고립 작전을 선언했습니다.\n이란을 지원하는 국가들에게도 경고했습니다."
+    },
+    {
+      "id": "news-20260821-042",
+      "title": "젤렌스키가 반부패 수사 본격화로 최측근을 경질했습니다.\n전시 대선 주장까지 겹치며 리더십이 최대 위기에 처했습니다.",
+      "summary": "경향신문 | 세계",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 58,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/032/0003465392",
+      "source": {
+        "title": "반부패 수사 본격화에 최측근 경질한 젤렌스키···전시 대선 주장까지 겹치며 “리더십 최대 위기”",
+        "url": "https://n.news.naver.com/mnews/article/032/0003465392",
+        "press": "경향신문",
+        "published_at": "",
+        "source": "naver",
+        "category": "세계"
+      },
+      "ai_summary": "젤렌스키가 반부패 수사 본격화로 최측근을 경질했습니다.\n전시 대선 주장까지 겹치며 리더십이 최대 위기에 처했습니다."
+    },
+    {
+      "id": "news-20260821-043",
+      "title": "중국 '휴머노이드 1호' 유니트리가 상장 첫날 460% 폭등했습니다.",
+      "summary": "SBS Biz | 세계",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 57,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/374/0000528287",
+      "source": {
+        "title": "中 '휴머노이드 1호' 유니트리 상장 첫날 460% 폭등",
+        "url": "https://n.news.naver.com/mnews/article/374/0000528287",
+        "press": "SBS Biz",
+        "published_at": "",
+        "source": "naver",
+        "category": "세계"
+      },
+      "ai_summary": "중국 '휴머노이드 1호' 유니트리가 상장 첫날 460% 폭등했습니다."
+    },
+    {
+      "id": "news-20260821-044",
+      "title": "日축구협회가 한국 성접대 의혹에 대해 조사를 진행했습니다.\n조사 결과 해당 내용은 확인되지 않았습니다.",
+      "summary": "연합뉴스 | 세계",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 56,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/001/0016262578",
+      "source": {
+        "title": "日축구협회, '韓 성접대 의혹' 조사…\"확인 안 돼\"",
+        "url": "https://n.news.naver.com/mnews/article/001/0016262578",
+        "press": "연합뉴스",
+        "published_at": "",
+        "source": "naver",
+        "category": "세계"
+      },
+      "ai_summary": "日축구협회가 한국 성접대 의혹에 대해 조사를 진행했습니다.\n조사 결과 해당 내용은 확인되지 않았습니다."
+    },
+    {
+      "id": "news-20260821-045",
+      "title": "트럼프는 올해 안에 김정은을 만날 것이라고 밝혔습니다.\n트럼프는 한국이 호르무즈해협에서 우리를 돕지 않는다고 말했습니다.",
+      "summary": "세계일보 | 세계",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 55,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/022/0004152234",
+      "source": {
+        "title": "트럼프 “올해 안 김정은 만날 것…韓, 호르무즈해협에서 우리 안 도와”",
+        "url": "https://n.news.naver.com/mnews/article/022/0004152234",
+        "press": "세계일보",
+        "published_at": "",
+        "source": "naver",
+        "category": "세계"
+      },
+      "ai_summary": "트럼프는 올해 안에 김정은을 만날 것이라고 밝혔습니다.\n트럼프는 한국이 호르무즈해협에서 우리를 돕지 않는다고 말했습니다."
+    },
+    {
+      "id": "news-20260821-046",
+      "title": "일본이 월 100시간 초과근무를 사실상 허용하며 허리띠를 졸라맵니다.\n디지털타임스 세계 뉴스에 따르면 일본이 근로 시간 제한을 완화하는 추세입니다.",
+      "summary": "디지털타임스 | 세계",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 54,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/029/0003043261",
+      "source": {
+        "title": "日, 허리띠 졸라맨다…월 100시간 초과근무 사실상 허용",
+        "url": "https://n.news.naver.com/mnews/article/029/0003043261",
+        "press": "디지털타임스",
+        "published_at": "",
+        "source": "naver",
+        "category": "세계"
+      },
+      "ai_summary": "일본이 월 100시간 초과근무를 사실상 허용하며 허리띠를 졸라맵니다.\n디지털타임스 세계 뉴스에 따르면 일본이 근로 시간 제한을 완화하는 추세입니다."
+    },
+    {
+      "id": "news-20260821-047",
+      "title": "20살 배런 트럼프가 2096억원의 재산을 보유하고 있습니다.\n이는 엄마보다 7배 더 많은 금액입니다.",
+      "summary": "전자신문 | 세계",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 53,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/030/0003458897",
+      "source": {
+        "title": "“엄마보다 7배 부자”… 20살 배런 트럼프, 2096억원 재산의 비밀",
+        "url": "https://n.news.naver.com/mnews/article/030/0003458897",
+        "press": "전자신문",
+        "published_at": "",
+        "source": "naver",
+        "category": "세계"
+      },
+      "ai_summary": "20살 배런 트럼프가 2096억원의 재산을 보유하고 있습니다.\n이는 엄마보다 7배 더 많은 금액입니다."
+    },
+    {
+      "id": "news-20260821-048",
+      "title": "러시아의 키이우 미사일 공격으로 최소 12명이 사망했습니다.\n이번 공격으로 33명이 부상을 입었습니다.",
+      "summary": "뉴시스 | 세계",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 52,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/003/0014139118",
+      "source": {
+        "title": "러 키이우 미사일 공격으로 최소 12명 사망 33명 부상",
+        "url": "https://n.news.naver.com/mnews/article/003/0014139118",
         "press": "뉴시스",
         "published_at": "",
         "source": "naver",
         "category": "세계"
       },
-      "ai_summary": "후티 반군이 사우디 아람코 정유공장을 드론으로 공격했다고 주장했습니다."
+      "ai_summary": "러시아의 키이우 미사일 공격으로 최소 12명이 사망했습니다.\n이번 공격으로 33명이 부상을 입었습니다."
     },
     {
-      "id": "news-20260820-046",
-      "title": "러시아 드론이 우크라이나 버스를 공격해 4명이 사망했습니다.\n우크라이나 전역에서 70여 명의 사상자가 발생했습니다.",
+      "id": "news-20260821-049",
+      "title": "빅터 차는 트럼프가 이란 핵은 불허하고 북핵은 관리하려는 태도가 현실을 반영한 합리적 접근이라고 평가했습니다.",
       "summary": "뉴스1 | 세계",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 54,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/421/0009122295",
-      "source": {
-        "title": "러 드론 우크라 버스 때려 4명 사망…우크라 전역서 70여명 사상",
-        "url": "https://n.news.naver.com/mnews/article/421/0009122295",
-        "press": "뉴스1",
-        "published_at": "",
-        "source": "naver",
-        "category": "세계"
-      },
-      "ai_summary": "러시아 드론이 우크라이나 버스를 공격해 4명이 사망했습니다.\n우크라이나 전역에서 70여 명의 사상자가 발생했습니다."
-    },
-    {
-      "id": "news-20260820-047",
-      "title": "한미훈련 축소에 대해 미국 정치권이 강하게 반발하고 있습니다.\n이들은 이번 결정이 김정은에 선전전 승리를 안겨주었다고 주장합니다.",
-      "summary": "데일리안 | 세계",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 53,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/119/0003122862",
-      "source": {
-        "title": "‘한미훈련 축소’에 美정치권 발칵…“김정은에 선전전 승리 안겨”",
-        "url": "https://n.news.naver.com/mnews/article/119/0003122862",
-        "press": "데일리안",
-        "published_at": "",
-        "source": "naver",
-        "category": "세계"
-      },
-      "ai_summary": "한미훈련 축소에 대해 미국 정치권이 강하게 반발하고 있습니다.\n이들은 이번 결정이 김정은에 선전전 승리를 안겨주었다고 주장합니다."
-    },
-    {
-      "id": "news-20260820-048",
-      "title": "다이애나비 남동생이 9월에 '나의 누나'를 출간합니다.\n그는 이번 책을 통해 진실을 밝히겠다고 전했습니다.",
-      "summary": "뉴스1 | 세계",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 52,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/421/0009120797",
-      "source": {
-        "title": "다이애나비 남동생 '나의 누나' 9월 출간…\"진실 밝히겠다\"",
-        "url": "https://n.news.naver.com/mnews/article/421/0009120797",
-        "press": "뉴스1",
-        "published_at": "",
-        "source": "naver",
-        "category": "세계"
-      },
-      "ai_summary": "다이애나비 남동생이 9월에 '나의 누나'를 출간합니다.\n그는 이번 책을 통해 진실을 밝히겠다고 전했습니다."
-    },
-    {
-      "id": "news-20260820-049",
-      "title": "트럼프가 11월 APEC 기간에 김정은과 정상회담을 추진합니다.",
-      "summary": "매일경제 | 세계",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 51,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/009/0005723155",
+      "source_url": "https://n.news.naver.com/mnews/article/421/0009122511",
       "source": {
-        "title": "\"트럼프, 11월 APEC기간 김정은과 정상회담 추진\"",
-        "url": "https://n.news.naver.com/mnews/article/009/0005723155",
-        "press": "매일경제",
+        "title": "빅터 차 \"트럼프, 이란 핵 불허·북핵은 관리 '합리적'…현실 반영\"",
+        "url": "https://n.news.naver.com/mnews/article/421/0009122511",
+        "press": "뉴스1",
         "published_at": "",
         "source": "naver",
         "category": "세계"
       },
-      "ai_summary": "트럼프가 11월 APEC 기간에 김정은과 정상회담을 추진합니다."
+      "ai_summary": "빅터 차는 트럼프가 이란 핵은 불허하고 북핵은 관리하려는 태도가 현실을 반영한 합리적 접근이라고 평가했습니다."
     },
     {
-      "id": "news-20260820-050",
-      "title": "메타가 페이스북 등의 중독성 유도 문제로 최대 2천조 원의 배상금이 걸린 재판에 넘겨졌습니다.\n이번 재판의 주요 쟁점은 서비스의 중독성 유도 여부입니다.",
-      "summary": "YTN | 세계",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-050",
+      "title": "미국 부채가 40조 달러를 넘어섰습니다.\n이는 한화로 약 5경5770조 원에 달하는 규모입니다.",
+      "summary": "동아일보 | 세계",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 50,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/052/0002395095",
+      "source_url": "https://n.news.naver.com/mnews/article/020/0003742122",
       "source": {
-        "title": "메타, 최대 배상금 '2천조 원' 재판정에...페이스북 등 '중독성 유도' 쟁점",
-        "url": "https://n.news.naver.com/mnews/article/052/0002395095",
-        "press": "YTN",
+        "title": "미국 부채, 40조 달러 넘었다…한화 약 5경5770조",
+        "url": "https://n.news.naver.com/mnews/article/020/0003742122",
+        "press": "동아일보",
         "published_at": "",
         "source": "naver",
         "category": "세계"
       },
-      "ai_summary": "메타가 페이스북 등의 중독성 유도 문제로 최대 2천조 원의 배상금이 걸린 재판에 넘겨졌습니다.\n이번 재판의 주요 쟁점은 서비스의 중독성 유도 여부입니다."
+      "ai_summary": "미국 부채가 40조 달러를 넘어섰습니다.\n이는 한화로 약 5경5770조 원에 달하는 규모입니다."
     },
     {
-      "id": "news-20260820-051",
-      "title": "한국피지컬AI협회가 25일 '피지컬AI 글로벌 최강 전략'을 개최합니다.\n이번 행사에서는 K-피지컬 AI 기술자립에 대해 논의합니다.",
-      "summary": "전자신문 | IT/과학",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-051",
+      "title": "네이버 노조가 16개 법인 단체협약을 한 번에 체결할 것을 요구했습니다.\n이와 함께 5대 요구안을 발표했습니다.",
+      "summary": "뉴스1 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 49,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/030/0003458495",
+      "source_url": "https://n.news.naver.com/mnews/article/421/0009123590",
       "source": {
-        "title": "한국피지컬AI협회, 25일 '피지컬AI 글로벌 최강 전략' 개최…K-피지컬 AI 기술자립 논의",
-        "url": "https://n.news.naver.com/mnews/article/030/0003458495",
-        "press": "전자신문",
+        "title": "네이버 노조 \"16개 법인 단체협약 한번에\"…5대 요구안 발표(종합)",
+        "url": "https://n.news.naver.com/mnews/article/421/0009123590",
+        "press": "뉴스1",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
       },
-      "ai_summary": "한국피지컬AI협회가 25일 '피지컬AI 글로벌 최강 전략'을 개최합니다.\n이번 행사에서는 K-피지컬 AI 기술자립에 대해 논의합니다."
+      "ai_summary": "네이버 노조가 16개 법인 단체협약을 한 번에 체결할 것을 요구했습니다.\n이와 함께 5대 요구안을 발표했습니다."
     },
     {
-      "id": "news-20260820-052",
-      "title": "카카오가 LG 그룹과 손잡고 '모두의 AI'를 만듭니다.",
-      "summary": "파이낸셜뉴스 | IT/과학",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-052",
+      "title": "SKT 3G 서비스가 23년 만에 종료됩니다.\n신규 가입도 제한됩니다.",
+      "summary": "SBS Biz | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 48,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/014/0005563382",
+      "source_url": "https://n.news.naver.com/mnews/article/374/0000528408",
       "source": {
-        "title": "카카오, LG 그룹 손잡고 '모두의 AI' 만든다",
-        "url": "https://n.news.naver.com/mnews/article/014/0005563382",
-        "press": "파이낸셜뉴스",
+        "title": "SKT 3G 23년 만에 역사 속으로…신규가입도 막는다",
+        "url": "https://n.news.naver.com/mnews/article/374/0000528408",
+        "press": "SBS Biz",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
       },
-      "ai_summary": "카카오가 LG 그룹과 손잡고 '모두의 AI'를 만듭니다."
+      "ai_summary": "SKT 3G 서비스가 23년 만에 종료됩니다.\n신규 가입도 제한됩니다."
     },
     {
-      "id": "news-20260820-053",
-      "title": "카카오모빌리티가 미국 IPO를 추진합니다.",
-      "summary": "매일경제 | IT/과학",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-053",
+      "title": "서울대 교수가 100개국의 보고서를 AI로 처리하는 연구를 진행했습니다.\n이를 통해 연구에 드는 수고를 크게 줄였습니다.",
+      "summary": "이데일리 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 47,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/009/0005723179",
+      "source_url": "https://n.news.naver.com/mnews/article/018/0006355038",
       "source": {
-        "title": "카카오모빌리티, 미국 IPO 추진",
-        "url": "https://n.news.naver.com/mnews/article/009/0005723179",
-        "press": "매일경제",
+        "title": "100개국 보고서를 AI로…연구 ‘손품’ 확 줄인 서울대 교수",
+        "url": "https://n.news.naver.com/mnews/article/018/0006355038",
+        "press": "이데일리",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
       },
-      "ai_summary": "카카오모빌리티가 미국 IPO를 추진합니다."
+      "ai_summary": "서울대 교수가 100개국의 보고서를 AI로 처리하는 연구를 진행했습니다.\n이를 통해 연구에 드는 수고를 크게 줄였습니다."
     },
     {
-      "id": "news-20260820-054",
-      "title": "공기 중 미세 플라스틱의 유해용량이 제시되었습니다.\n장기간 반복 노출 시 폐염증이 발생할 수 있습니다.",
-      "summary": "파이낸셜뉴스 | IT/과학",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-054",
+      "title": "과기정통부가 '깜깜이' 논란에 따라 독파모 2차 평가 항목별 세부 지표를 공개했습니다.",
+      "summary": "블로터 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 46,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/014/0005563367",
+      "source_url": "https://n.news.naver.com/mnews/article/293/0000089339",
       "source": {
-        "title": "공기 중 미세 플라스틱 유해용량 제시 '장기간 반복 노출시 폐염증'",
-        "url": "https://n.news.naver.com/mnews/article/014/0005563367",
-        "press": "파이낸셜뉴스",
+        "title": "'깜깜이' 논란에…과기정통부, 독파모 2차 평가 항목별 세부 지표 공개",
+        "url": "https://n.news.naver.com/mnews/article/293/0000089339",
+        "press": "블로터",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
       },
-      "ai_summary": "공기 중 미세 플라스틱의 유해용량이 제시되었습니다.\n장기간 반복 노출 시 폐염증이 발생할 수 있습니다."
+      "ai_summary": "과기정통부가 '깜깜이' 논란에 따라 독파모 2차 평가 항목별 세부 지표를 공개했습니다."
     },
     {
-      "id": "news-20260820-055",
-      "title": "IBM이 극저온 모듈 연결 실증을 통해 양자컴퓨터의 규모의 벽을 넘습니다.\n조선비즈가 해당 소식을 전했습니다.",
-      "summary": "조선비즈 | IT/과학",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-055",
+      "title": "AMD가 한국에 아시아 첫 AI 기술센터를 설립합니다.\n한국에서 성공 사례를 만들어 글로벌로 확장할 계획입니다.",
+      "summary": "머니투데이 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 45,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/366/0001187177",
+      "source_url": "https://n.news.naver.com/mnews/article/008/0005402655",
       "source": {
-        "title": "IBM, 양자컴퓨터 ‘규모의 벽’ 넘는다…극저온 모듈 연결 실증",
-        "url": "https://n.news.naver.com/mnews/article/366/0001187177",
-        "press": "조선비즈",
+        "title": "\"한국서 성공 사례 만들어 글로벌로\"…AMD, 韓에 아시아 첫 AI 기술센터",
+        "url": "https://n.news.naver.com/mnews/article/008/0005402655",
+        "press": "머니투데이",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
       },
-      "ai_summary": "IBM이 극저온 모듈 연결 실증을 통해 양자컴퓨터의 규모의 벽을 넘습니다.\n조선비즈가 해당 소식을 전했습니다."
+      "ai_summary": "AMD가 한국에 아시아 첫 AI 기술센터를 설립합니다.\n한국에서 성공 사례를 만들어 글로벌로 확장할 계획입니다."
     },
     {
-      "id": "news-20260820-056",
-      "title": "카카오모빌리티가 미국 상장을 추진하며 SEC에 비공개 제출을 마쳤습니다.\n약 1.4조 원 규모의 공모를 통해 상장 절차에 시동을 걸었습니다.",
-      "summary": "디지털데일리 | 33분전 | IT/과학",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-056",
+      "title": "이시우 카겜 대표가 신작 '도깨비의세계'를 소개했습니다.\n해당 작품이 글로벌 시장에서도 충분히 통할 것이라고 밝혔습니다.",
+      "summary": "디지털데일리 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 44,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/138/0002238315",
+      "source_url": "https://n.news.naver.com/mnews/article/138/0002238421",
       "source": {
-        "title": "카카오모빌리티, 美 상장 추진…SEC 비공개 제출·1.4조원 공모 시동",
-        "url": "https://n.news.naver.com/mnews/article/138/0002238315",
+        "title": "이시우 카겜 대표 \"신작 '도깨비의세계', 글로벌서도 충분히 통할 작품\"",
+        "url": "https://n.news.naver.com/mnews/article/138/0002238421",
         "press": "디지털데일리",
-        "published_at": "33분전",
+        "published_at": "",
         "source": "naver",
         "category": "IT/과학"
       },
-      "ai_summary": "카카오모빌리티가 미국 상장을 추진하며 SEC에 비공개 제출을 마쳤습니다.\n약 1.4조 원 규모의 공모를 통해 상장 절차에 시동을 걸었습니다."
+      "ai_summary": "이시우 카겜 대표가 신작 '도깨비의세계'를 소개했습니다.\n해당 작품이 글로벌 시장에서도 충분히 통할 것이라고 밝혔습니다."
     },
     {
-      "id": "news-20260820-057",
-      "title": "IBM이 모듈형 극저온 시스템의 첫 실증을 진행했습니다.\n이를 통해 오류 내성 양자컴퓨터 구현 속도를 높일 계획입니다.",
-      "summary": "지디넷코리아 | 2시간전 | IT/과학",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "id": "news-20260821-057",
+      "title": "카카오모빌리티가 미국 상장 서류를 제출했습니다.",
+      "summary": "헤럴드경제 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 43,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/092/0002434452",
+      "source_url": "https://n.news.naver.com/mnews/article/016/0002686157",
       "source": {
-        "title": "IBM, 모듈형 극저온 시스템 첫 실증…오류 내성 양자컴퓨터 구현 속도 낸다",
-        "url": "https://n.news.naver.com/mnews/article/092/0002434452",
+        "title": "카카오모빌리티, 美 상장 서류 제출 [H-EXCLUSIVE]",
+        "url": "https://n.news.naver.com/mnews/article/016/0002686157",
+        "press": "헤럴드경제",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "카카오모빌리티가 미국 상장 서류를 제출했습니다."
+    },
+    {
+      "id": "news-20260821-058",
+      "title": "유료방송 악화일로 속 활로를 찾기 위해 민관협의체가 처음으로 가동됩니다.\n디지털데일리가 해당 소식을 전했습니다.",
+      "summary": "디지털데일리 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 42,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/138/0002238439",
+      "source": {
+        "title": "유료방송 악화일로, 활로 찾는다…민관협의체 첫 가동",
+        "url": "https://n.news.naver.com/mnews/article/138/0002238439",
+        "press": "디지털데일리",
+        "published_at": "",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "유료방송 악화일로 속 활로를 찾기 위해 민관협의체가 처음으로 가동됩니다.\n디지털데일리가 해당 소식을 전했습니다."
+    },
+    {
+      "id": "news-20260821-059",
+      "title": "프라임마스가 마이크론과 함께 100TB급 CXL 메모리를 구현했습니다.\n프라임마스는 미국 DOE 프로젝트에 참여합니다.",
+      "summary": "지디넷코리아 | 1시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 41,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/092/0002434608",
+      "source": {
+        "title": "프라임마스, 마이크론과 100TB급 CXL 메모리 구현…美DOE 프로젝트 참여",
+        "url": "https://n.news.naver.com/mnews/article/092/0002434608",
         "press": "지디넷코리아",
+        "published_at": "1시간전",
+        "source": "naver",
+        "category": "IT/과학"
+      },
+      "ai_summary": "프라임마스가 마이크론과 함께 100TB급 CXL 메모리를 구현했습니다.\n프라임마스는 미국 DOE 프로젝트에 참여합니다."
+    },
+    {
+      "id": "news-20260821-060",
+      "title": "해외여행객이 몰리면서 공항 도착 즉시 이용하는 통신 서비스가 인기를 끌고 있습니다.\n이로 인해 통신사의 효자상품이 흔들리고 있습니다.",
+      "summary": "서울경제 | 2시간전 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 40,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://n.news.naver.com/mnews/article/011/0004653658",
+      "source": {
+        "title": "요즘은 공항 도착 즉시 ‘이것’부터…해외여행객 몰리자 통신사 ‘효자상품’ 흔들",
+        "url": "https://n.news.naver.com/mnews/article/011/0004653658",
+        "press": "서울경제",
         "published_at": "2시간전",
         "source": "naver",
         "category": "IT/과학"
       },
-      "ai_summary": "IBM이 모듈형 극저온 시스템의 첫 실증을 진행했습니다.\n이를 통해 오류 내성 양자컴퓨터 구현 속도를 높일 계획입니다."
+      "ai_summary": "해외여행객이 몰리면서 공항 도착 즉시 이용하는 통신 서비스가 인기를 끌고 있습니다.\n이로 인해 통신사의 효자상품이 흔들리고 있습니다."
     },
     {
-      "id": "news-20260820-058",
-      "title": "삼성전자의 DX 수익성이 급락했습니다.\n경쟁사의 원가 압박 속에서 점유율을 확보하겠다는 방침입니다.",
-      "summary": "조선비즈 | 3시간전 | IT/과학",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 42,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/366/0001187182",
-      "source": {
-        "title": "DX 수익성 급락한 삼성전자…“경쟁사도 원가 압박, 점유율 뺏겠다”",
-        "url": "https://n.news.naver.com/mnews/article/366/0001187182",
-        "press": "조선비즈",
-        "published_at": "3시간전",
-        "source": "naver",
-        "category": "IT/과학"
-      },
-      "ai_summary": "삼성전자의 DX 수익성이 급락했습니다.\n경쟁사의 원가 압박 속에서 점유율을 확보하겠다는 방침입니다."
-    },
-    {
-      "id": "news-20260820-059",
-      "title": "한국 기업이 중국에 1위를 뺏긴 사상 초유의 여행 플랫폼 상황이 발생했습니다.\n이로 인해 한국 기업이 망할 수 있다는 우려가 나오고 있습니다.",
-      "summary": "헤럴드경제 | 3시간전 | IT/과학",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 41,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/016/0002685823",
-      "source": {
-        "title": "설마했는데…“이러다 한국기업 망한다” 사상 초유의 일, 중국에 ‘1위’ 뺏긴 여행 플랫폼",
-        "url": "https://n.news.naver.com/mnews/article/016/0002685823",
-        "press": "헤럴드경제",
-        "published_at": "3시간전",
-        "source": "naver",
-        "category": "IT/과학"
-      },
-      "ai_summary": "한국 기업이 중국에 1위를 뺏긴 사상 초유의 여행 플랫폼 상황이 발생했습니다.\n이로 인해 한국 기업이 망할 수 있다는 우려가 나오고 있습니다."
-    },
-    {
-      "id": "news-20260820-060",
-      "title": "mRNA 암 백신 시대가 열릴지 주목되는 가운데 모더나와 머크가 후기 임상에 처음으로 성공했습니다.",
-      "summary": "이데일리 | 3시간전 | IT/과학",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 40,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/mnews/article/018/0006354405",
-      "source": {
-        "title": "mRNA 암 백신 시대 열리나…모더나·머크, 후기 임상 첫 성공",
-        "url": "https://n.news.naver.com/mnews/article/018/0006354405",
-        "press": "이데일리",
-        "published_at": "3시간전",
-        "source": "naver",
-        "category": "IT/과학"
-      },
-      "ai_summary": "mRNA 암 백신 시대가 열릴지 주목되는 가운데 모더나와 머크가 후기 임상에 처음으로 성공했습니다."
-    },
-    {
-      "id": "news-20260820-061",
-      "title": "정지석, 황택의, 허수봉이 배구 꿈나무 캠프에 2천500만 원을 후원했습니다.",
+      "id": "news-20260821-061",
+      "title": "일본이 대한축협 성접대 의혹을 조사했습니다.\n조사 결과 해당 의혹은 확인되지 않았습니다.",
       "summary": "네이버검색 | 스포츠",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 39,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://m.sports.naver.com/volleyball/article/055/0001381880",
+      "source_url": "https://m.sports.naver.com/kfootball/article/018/0006355308",
       "source": {
-        "title": "정지석·황택의·허수봉, 배구 꿈나무 캠프에 2천500만 원 후원",
-        "url": "https://m.sports.naver.com/volleyball/article/055/0001381880",
+        "title": "日, 대한축협 성접대 의혹 조사…\"확인 안 돼\"",
+        "url": "https://m.sports.naver.com/kfootball/article/018/0006355308",
         "press": "네이버검색",
         "published_at": "",
         "source": "naver_search",
         "category": "스포츠"
       },
-      "ai_summary": "정지석, 황택의, 허수봉이 배구 꿈나무 캠프에 2천500만 원을 후원했습니다."
+      "ai_summary": "일본이 대한축협 성접대 의혹을 조사했습니다.\n조사 결과 해당 의혹은 확인되지 않았습니다."
     },
     {
-      "id": "news-20260820-062",
-      "title": "김하성이 타율 0.066을 기록하며 무기력한 모습을 보였습니다.\n2000만 달러라는 금액과 관련해 혹평이 쏟아지고 있습니다.",
+      "id": "news-20260821-062",
+      "title": "중학생 럭비 유망주들이 실업 형들과 부딪히며 14일간의 뜨거운 합숙을 마쳤습니다.",
       "summary": "네이버검색 | 스포츠",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 38,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://m.sports.naver.com/wbaseball/article/311/0002047068",
+      "source_url": "https://m.sports.naver.com/general/article/450/0000153467",
       "source": {
-        "title": "\"김하성, 150년 야구사 최악의 2000만 달러!…어떤 타자도 경험하지 못한 무기력함\"→'타율 0.066' 한국인에 혹평 다 쏟아냈다",
-        "url": "https://m.sports.naver.com/wbaseball/article/311/0002047068",
+        "title": "실업 형들과 부딪친 중학생 럭비 유망주들... 14일 '뜨거운 합숙' 끝",
+        "url": "https://m.sports.naver.com/general/article/450/0000153467",
         "press": "네이버검색",
         "published_at": "",
         "source": "naver_search",
         "category": "스포츠"
       },
-      "ai_summary": "김하성이 타율 0.066을 기록하며 무기력한 모습을 보였습니다.\n2000만 달러라는 금액과 관련해 혹평이 쏟아지고 있습니다."
+      "ai_summary": "중학생 럭비 유망주들이 실업 형들과 부딪히며 14일간의 뜨거운 합숙을 마쳤습니다."
     },
     {
-      "id": "news-20260820-063",
-      "title": "첫 출전에 6위를 기록하며 세계를 놀라게 한 배구 소녀들이 귀국했습니다.",
+      "id": "news-20260821-063",
+      "title": "대회를 앞두고 생활 체육인들의 관심이 높아지고 있습니다.\n육상 대회를 통해 주인공이 되려는 열기로 분위기가 달아오르고 있습니다.",
       "summary": "네이버검색 | 스포츠",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 37,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://m.sports.naver.com/volleyball/article/214/0001518859",
+      "source_url": "https://m.sports.naver.com/general/article/056/0012241621",
       "source": {
-        "title": "[ 스포츠 영상] 첫 출전에 6위‥세계 놀라게 한 배구 소녀들 귀국",
-        "url": "https://m.sports.naver.com/volleyball/article/214/0001518859",
+        "title": "“내가 육상 주인공”…대회 앞두고 생활 체육인 ‘들썩’",
+        "url": "https://m.sports.naver.com/general/article/056/0012241621",
         "press": "네이버검색",
         "published_at": "",
         "source": "naver_search",
         "category": "스포츠"
       },
-      "ai_summary": "첫 출전에 6위를 기록하며 세계를 놀라게 한 배구 소녀들이 귀국했습니다."
+      "ai_summary": "대회를 앞두고 생활 체육인들의 관심이 높아지고 있습니다.\n육상 대회를 통해 주인공이 되려는 열기로 분위기가 달아오르고 있습니다."
     },
     {
-      "id": "news-20260820-064",
-      "title": "미국 케이블 채널 ESPN 창업자 빌 라스무센이 별세했습니다.",
+      "id": "news-20260821-064",
+      "title": "안세영이 세계선수권 8강에 안착했습니다.\n안세영은 앉아서도 셔틀콕을 받는 모습을 보였습니다.",
       "summary": "네이버검색 | 스포츠",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 36,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://m.sports.naver.com/general/article/032/0003465205",
+      "source_url": "https://m.sports.naver.com/general/article/214/0001519127",
       "source": {
-        "title": "미국 케이블 채널 ESPN 창업자 빌 라스무센 별세",
-        "url": "https://m.sports.naver.com/general/article/032/0003465205",
+        "title": "[ 스포츠 영상] 세계선수권 8강 안착한 안세영 '앉아서도 받는다!'",
+        "url": "https://m.sports.naver.com/general/article/214/0001519127",
         "press": "네이버검색",
         "published_at": "",
         "source": "naver_search",
         "category": "스포츠"
       },
-      "ai_summary": "미국 케이블 채널 ESPN 창업자 빌 라스무센이 별세했습니다."
+      "ai_summary": "안세영이 세계선수권 8강에 안착했습니다.\n안세영은 앉아서도 셔틀콕을 받는 모습을 보였습니다."
     },
     {
-      "id": "news-20260820-065",
-      "title": "맨체스터 유나이티드의 바르사 MF 영입설이 제기되었습니다.\n'Here we go' 기자는 이를 명백한 가짜 뉴스라고 밝혔습니다.",
+      "id": "news-20260821-065",
+      "title": "아시안게임에 철권이 포함되었습니다.\n불혹의 금메달 행보를 이어갑니다.",
       "summary": "네이버검색 | 스포츠",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 35,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://m.sports.naver.com/wfootball/article/117/0004096268",
+      "source_url": "https://m.sports.naver.com/general/article/214/0001519134",
       "source": {
-        "title": "맨체스터 유나이티드 파격 결단? 바르사 MF 영입설 'Here we go' 기자가 잠재웠다…\"명백한 가짜 뉴스 \"",
-        "url": "https://m.sports.naver.com/wfootball/article/117/0004096268",
+        "title": "아시안게임에 철권이?‥'불혹의 금메달 이어간다!'",
+        "url": "https://m.sports.naver.com/general/article/214/0001519134",
         "press": "네이버검색",
         "published_at": "",
         "source": "naver_search",
         "category": "스포츠"
       },
-      "ai_summary": "맨체스터 유나이티드의 바르사 MF 영입설이 제기되었습니다.\n'Here we go' 기자는 이를 명백한 가짜 뉴스라고 밝혔습니다."
+      "ai_summary": "아시안게임에 철권이 포함되었습니다.\n불혹의 금메달 행보를 이어갑니다."
     },
     {
-      "id": "news-20260820-066",
-      "title": "톨허스트가 7이닝 무실점을 기록하며 다승 공동 선두가 되었습니다.\nLG가 kt전 위닝시리즈를 달성했습니다.",
+      "id": "news-20260821-066",
+      "title": "나고야 아시안게임이 30일 앞으로 다가왔습니다.\n일본 하늘에 태극기를 달겠다는 포부를 밝혔습니다.",
       "summary": "네이버검색 | 스포츠",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 34,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://m.sports.naver.com/kbaseball/article/055/0001381888",
+      "source_url": "https://m.sports.naver.com/general/article/214/0001519116",
       "source": {
-        "title": "'7이닝 무실점' 톨허스트, 다승 공동 선두…LG, kt전 위닝시리즈",
-        "url": "https://m.sports.naver.com/kbaseball/article/055/0001381888",
+        "title": "나고야 아시안게임 D-30‥\"일본 하늘에 태극기를\"",
+        "url": "https://m.sports.naver.com/general/article/214/0001519116",
         "press": "네이버검색",
         "published_at": "",
         "source": "naver_search",
         "category": "스포츠"
       },
-      "ai_summary": "톨허스트가 7이닝 무실점을 기록하며 다승 공동 선두가 되었습니다.\nLG가 kt전 위닝시리즈를 달성했습니다."
+      "ai_summary": "나고야 아시안게임이 30일 앞으로 다가왔습니다.\n일본 하늘에 태극기를 달겠다는 포부를 밝혔습니다."
     },
     {
-      "id": "news-20260820-067",
-      "title": "롯데가 키움을 상대로 5-4 승리를 거두었습니다.\n프로야구 부산전적 결과입니다.",
+      "id": "news-20260821-067",
+      "title": "SSG가 삼성을 상대로 6-4 승리를 거두었습니다.\n프로야구 대구전 결과 SSG가 삼성에 승리했습니다.",
       "summary": "네이버검색 | 스포츠",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 33,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://m.sports.naver.com/kbaseball/article/001/0016259898",
+      "source_url": "https://m.sports.naver.com/kbaseball/article/001/0016262585",
       "source": {
-        "title": "[ 프로야구 부산전적] 롯데 5-4 키움",
-        "url": "https://m.sports.naver.com/kbaseball/article/001/0016259898",
+        "title": "[ 프로야구 대구전적] SSG 6-4 삼성",
+        "url": "https://m.sports.naver.com/kbaseball/article/001/0016262585",
         "press": "네이버검색",
         "published_at": "",
         "source": "naver_search",
         "category": "스포츠"
       },
-      "ai_summary": "롯데가 키움을 상대로 5-4 승리를 거두었습니다.\n프로야구 부산전적 결과입니다."
+      "ai_summary": "SSG가 삼성을 상대로 6-4 승리를 거두었습니다.\n프로야구 대구전 결과 SSG가 삼성에 승리했습니다."
     },
     {
-      "id": "news-20260820-068",
-      "title": "KIA가 한화를 상대로 6-3 승리를 거두었습니다.\n프로야구 대전전에서 KIA가 한화를 이겼습니다.",
+      "id": "news-20260821-068",
+      "title": "kt가 LG를 상대로 16-4 승리를 거두었습니다.\n이번 경기는 잠실에서 진행되었습니다.",
       "summary": "네이버검색 | 스포츠",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 32,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://m.sports.naver.com/kbaseball/article/001/0016259892",
+      "source_url": "https://m.sports.naver.com/kbaseball/article/001/0016262581",
       "source": {
-        "title": "[ 프로야구 대전전적] KIA 6-3 한화",
-        "url": "https://m.sports.naver.com/kbaseball/article/001/0016259892",
+        "title": "[ 프로야구 잠실전적] kt 16-4 LG",
+        "url": "https://m.sports.naver.com/kbaseball/article/001/0016262581",
         "press": "네이버검색",
         "published_at": "",
         "source": "naver_search",
         "category": "스포츠"
       },
-      "ai_summary": "KIA가 한화를 상대로 6-3 승리를 거두었습니다.\n프로야구 대전전에서 KIA가 한화를 이겼습니다."
+      "ai_summary": "kt가 LG를 상대로 16-4 승리를 거두었습니다.\n이번 경기는 잠실에서 진행되었습니다."
     },
     {
-      "id": "news-20260820-069",
-      "title": "삼성 라이온즈가 SSG 랜더스를 18-4로 이겼습니다.\n삼성의 대구전적 승리 소식입니다.",
+      "id": "news-20260821-069",
+      "title": "KIA가 한화를 10-6으로 이겼습니다.\n프로야구 대전전적 경기 결과입니다.",
       "summary": "네이버검색 | 스포츠",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 31,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://m.sports.naver.com/kbaseball/article/001/0016259887",
+      "source_url": "https://m.sports.naver.com/kbaseball/article/001/0016262580",
       "source": {
-        "title": "[ 프로야구 대구전적] 삼성 18-4 SSG",
-        "url": "https://m.sports.naver.com/kbaseball/article/001/0016259887",
+        "title": "[ 프로야구 대전전적] KIA 10-6 한화",
+        "url": "https://m.sports.naver.com/kbaseball/article/001/0016262580",
         "press": "네이버검색",
         "published_at": "",
         "source": "naver_search",
         "category": "스포츠"
       },
-      "ai_summary": "삼성 라이온즈가 SSG 랜더스를 18-4로 이겼습니다.\n삼성의 대구전적 승리 소식입니다."
+      "ai_summary": "KIA가 한화를 10-6으로 이겼습니다.\n프로야구 대전전적 경기 결과입니다."
     },
     {
-      "id": "news-20260820-070",
-      "title": "두산이 NC를 상대로 8-2 승리를 거두었습니다.\n프로야구 창원전적 결과입니다.",
+      "id": "news-20260821-070",
+      "title": "NC가 두산에 5-4로 승리했습니다.\n프로야구 창원전 결과입니다.",
       "summary": "네이버검색 | 스포츠",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 30,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://m.sports.naver.com/kbaseball/article/001/0016259882",
+      "source_url": "https://m.sports.naver.com/kbaseball/article/001/0016262573",
       "source": {
-        "title": "[ 프로야구 창원전적] 두산 8-2 NC",
-        "url": "https://m.sports.naver.com/kbaseball/article/001/0016259882",
+        "title": "[ 프로야구 창원전적] NC 5-4 두산",
+        "url": "https://m.sports.naver.com/kbaseball/article/001/0016262573",
         "press": "네이버검색",
         "published_at": "",
         "source": "naver_search",
         "category": "스포츠"
       },
-      "ai_summary": "두산이 NC를 상대로 8-2 승리를 거두었습니다.\n프로야구 창원전적 결과입니다."
+      "ai_summary": "NC가 두산에 5-4로 승리했습니다.\n프로야구 창원전 결과입니다."
     },
     {
-      "id": "news-20260820-071",
-      "title": "황인엽은 예비군이 끝났다고 밝히며 동안 외모에 대해 해명했습니다.\n그는 동안 비결로 고가의 마스크 팩 사용을 언급했습니다.",
+      "id": "news-20260821-071",
+      "title": "8시 뉴스 로 얼굴 알린 훈남이자 연예 계 데뷔한 유명 男스타가 한양대를 졸업했습니다.\n해당 인물은 15년 만에 졸업장을 얻었습니다.",
       "summary": "네이버검색 | 연예",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
       "priority": 29,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://m.entertain.naver.com/article/445/0000452605",
+      "source": {
+        "title": "8시 뉴스 로 얼굴 알린 훈남→ 연예 계 데뷔한 유명 男스타, 15년 만에 '한양대' 졸업장 얻었다 [MHN:피드]",
+        "url": "https://m.entertain.naver.com/article/445/0000452605",
+        "press": "네이버검색",
+        "published_at": "",
+        "source": "naver_search",
+        "category": "연예"
+      },
+      "ai_summary": "8시 뉴스 로 얼굴 알린 훈남이자 연예 계 데뷔한 유명 男스타가 한양대를 졸업했습니다.\n해당 인물은 15년 만에 졸업장을 얻었습니다."
+    },
+    {
+      "id": "news-20260821-072",
+      "title": "심형래 감독이 할리우드 배우가 출연하는 토종 SF영화 '디 워2'에 대해 밝혔습니다.",
+      "summary": "네이버검색 | 연예",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 28,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://m.entertain.naver.com/article/416/0000325990",
+      "source": {
+        "title": "[빅픽처] \"할리우드 배우 나오는 토종 SF영화\"…심형래 감독이 밝힌 '디 워2'",
+        "url": "https://m.entertain.naver.com/article/416/0000325990",
+        "press": "네이버검색",
+        "published_at": "",
+        "source": "naver_search",
+        "category": "연예"
+      },
+      "ai_summary": "심형래 감독이 할리우드 배우가 출연하는 토종 SF영화 '디 워2'에 대해 밝혔습니다."
+    },
+    {
+      "id": "news-20260821-073",
+      "title": "정해인이 '아가미' 시사회에 불참했습니다.\n하영의 '친일 논란'이 불참 이유인지에 대한 의문이 제기되었습니다.",
+      "summary": "네이버검색 | 연예",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 27,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://m.entertain.naver.com/article/427/0000044543",
+      "source": {
+        "title": "[잇슈 연예 브리핑] 정해인 '아가미' 시사회 불참…하영 '친일 논란' 때문?",
+        "url": "https://m.entertain.naver.com/article/427/0000044543",
+        "press": "네이버검색",
+        "published_at": "",
+        "source": "naver_search",
+        "category": "연예"
+      },
+      "ai_summary": "정해인이 '아가미' 시사회에 불참했습니다.\n하영의 '친일 논란'이 불참 이유인지에 대한 의문이 제기되었습니다."
+    },
+    {
+      "id": "news-20260821-074",
+      "title": "'황제파워' 스페셜DJ로 이민정, 설경구, 류준열, 송가인 등 SBS 라디오 출연진이 총출동합니다.\n해당 방송은 8월 20일에 진행됩니다.",
+      "summary": "네이버검색 | 연예",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 26,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://m.entertain.naver.com/article/416/0000325953",
+      "source": {
+        "title": "'황제파워' 스페셜DJ 이민정·설경구·류준열부터 송가인까지, SBS 라디오 총출동 / 8월 20일",
+        "url": "https://m.entertain.naver.com/article/416/0000325953",
+        "press": "네이버검색",
+        "published_at": "",
+        "source": "naver_search",
+        "category": "연예"
+      },
+      "ai_summary": "'황제파워' 스페셜DJ로 이민정, 설경구, 류준열, 송가인 등 SBS 라디오 출연진이 총출동합니다.\n해당 방송은 8월 20일에 진행됩니다."
+    },
+    {
+      "id": "news-20260821-075",
+      "title": "황인엽은 주인공이 된 후에도 다음 작품에 대한 불안함을 느꼈습니다.\n이를 극복하기 위해 악플과 기사 보는 것을 중단했습니다.",
+      "summary": "네이버검색 | 연예",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 25,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
+      "target": [
+        "PhotoBoard"
+      ],
+      "source_url": "https://m.entertain.naver.com/article/117/0004096392",
+      "source": {
+        "title": "황인엽, 주인공 됐는데도 불안…\"다음 작품 있을까\" 악플·기사도 끊었다 [MD 인터뷰] (종합)",
+        "url": "https://m.entertain.naver.com/article/117/0004096392",
+        "press": "네이버검색",
+        "published_at": "",
+        "source": "naver_search",
+        "category": "연예"
+      },
+      "ai_summary": "황인엽은 주인공이 된 후에도 다음 작품에 대한 불안함을 느꼈습니다.\n이를 극복하기 위해 악플과 기사 보는 것을 중단했습니다."
+    },
+    {
+      "id": "news-20260821-076",
+      "title": "황인엽이 예비군이 끝났다고 밝히며 동안 외모에 대해 해명했습니다.\n그는 동안 외모의 비결로 고가의 마스크 팩 사용을 언급했습니다.",
+      "summary": "네이버검색 | 연예",
+      "url": "https://blog.naver.com/smallprg/224385068183",
+      "icon": "news",
+      "type": "news",
+      "priority": 24,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
@@ -1704,18 +1824,18 @@
         "source": "naver_search",
         "category": "연예"
       },
-      "ai_summary": "황인엽은 예비군이 끝났다고 밝히며 동안 외모에 대해 해명했습니다.\n그는 동안 비결로 고가의 마스크 팩 사용을 언급했습니다."
+      "ai_summary": "황인엽이 예비군이 끝났다고 밝히며 동안 외모에 대해 해명했습니다.\n그는 동안 외모의 비결로 고가의 마스크 팩 사용을 언급했습니다."
     },
     {
-      "id": "news-20260820-072",
-      "title": "하영의 하차 요구가 일파만파로 퍼지고 있습니다.\n이에 따른 승산이 어떻게 될지 주목됩니다.",
+      "id": "news-20260821-077",
+      "title": "하영의 하차 요구가 일파만파로 확산되고 있습니다.\n이번 상황의 승산이 어떻게 될지 주목됩니다.",
       "summary": "네이버검색 | 연예",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
-      "priority": 28,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "priority": 23,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
@@ -1728,18 +1848,18 @@
         "source": "naver_search",
         "category": "연예"
       },
-      "ai_summary": "하영의 하차 요구가 일파만파로 퍼지고 있습니다.\n이에 따른 승산이 어떻게 될지 주목됩니다."
+      "ai_summary": "하영의 하차 요구가 일파만파로 확산되고 있습니다.\n이번 상황의 승산이 어떻게 될지 주목됩니다."
     },
     {
-      "id": "news-20260820-073",
+      "id": "news-20260821-078",
       "title": "유아인이 장재현 감독의 신작 '뱀피르'로 복귀를 확정했습니다.",
       "summary": "네이버검색 | 연예",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
-      "priority": 27,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "priority": 22,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
@@ -1755,15 +1875,15 @@
       "ai_summary": "유아인이 장재현 감독의 신작 '뱀피르'로 복귀를 확정했습니다."
     },
     {
-      "id": "news-20260820-074",
-      "title": "MC몽이 폭로한 김민종 도박 논란에 대해 녹취가 공개되었습니다.\n영화 하차 상황 속에 스태프들의 울분이 드러나며 상황이 반전될지 주목됩니다.",
+      "id": "news-20260821-079",
+      "title": "MC몽이 폭로한 김민종 도박 사건과 관련해 녹취가 공개되며 상황이 변하고 있습니다.\n김민종의 영화 하차로 인해 스태프들이 울분을 토하고 있습니다.",
       "summary": "네이버검색 | 연예",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
-      "priority": 26,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "priority": 21,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
@@ -1776,18 +1896,18 @@
         "source": "naver_search",
         "category": "연예"
       },
-      "ai_summary": "MC몽이 폭로한 김민종 도박 논란에 대해 녹취가 공개되었습니다.\n영화 하차 상황 속에 스태프들의 울분이 드러나며 상황이 반전될지 주목됩니다."
+      "ai_summary": "MC몽이 폭로한 김민종 도박 사건과 관련해 녹취가 공개되며 상황이 변하고 있습니다.\n김민종의 영화 하차로 인해 스태프들이 울분을 토하고 있습니다."
     },
     {
-      "id": "news-20260820-075",
-      "title": "서은광, 던, 허영지, 이민정이 SBS 라디오 특급 라인업으로 출격합니다.\n해당 소식은 8월 19일에 전해졌습니다.",
+      "id": "news-20260821-080",
+      "title": "서은광, 던, 허영지, 이민정이 SBS 라디오 특급 라인업으로 출격합니다.\n해당 내용은 8월 19일 자 소식입니다.",
       "summary": "네이버검색 | 연예",
-      "url": "https://blog.naver.com/smallprg/224383884204",
+      "url": "https://blog.naver.com/smallprg/224385068183",
       "icon": "news",
       "type": "news",
-      "priority": 25,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
+      "priority": 20,
+      "start": "2026-08-21",
+      "end": "2026-08-22",
       "target": [
         "PhotoBoard"
       ],
@@ -1800,127 +1920,7 @@
         "source": "naver_search",
         "category": "연예"
       },
-      "ai_summary": "서은광, 던, 허영지, 이민정이 SBS 라디오 특급 라인업으로 출격합니다.\n해당 소식은 8월 19일에 전해졌습니다."
-    },
-    {
-      "id": "news-20260820-076",
-      "title": "연예나 문화 기사만 보던 과거와 달리 금리, 환율, 반도체 업황 등에 관심을 갖게 되었습니다.\n미국 금리와 국제 유가가 개인 계좌와 국내 증시에 영향을 주는 상황에 궁금증을 느꼈습니다.",
-      "summary": "네이버검색 | 연예",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 24,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://n.news.naver.com/article/658/0000152682?sid=110",
-      "source": {
-        "title": "예전에는 뉴스 를 봐도 연예 나 문화 쪽 기사만 훑고 지나갔다. 그런데 어느 순간 미국 연방준비제도가 금리를 올릴지, 환율이 왜 움직이는지, 반도체 업황이 어떤지, 지구 반대편에서 벌어진 전쟁이 왜 국내 증시에 영향을 주는지가 궁금해졌다. 미국의 금리가 내 계좌를 흔들고, 국제 유가가 내...",
-        "url": "https://n.news.naver.com/article/658/0000152682?sid=110",
-        "press": "네이버검색",
-        "published_at": "",
-        "source": "naver_search",
-        "category": "연예"
-      },
-      "ai_summary": "연예나 문화 기사만 보던 과거와 달리 금리, 환율, 반도체 업황 등에 관심을 갖게 되었습니다.\n미국 금리와 국제 유가가 개인 계좌와 국내 증시에 영향을 주는 상황에 궁금증을 느꼈습니다."
-    },
-    {
-      "id": "news-20260820-077",
-      "title": "상습 도박 및 음주운전 혐의를 받는 이진호에게 징역 2년이 구형되었습니다.",
-      "summary": "네이버검색 | 연예",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 23,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://m.entertain.naver.com/article/427/0000044531",
-      "source": {
-        "title": "[잇슈 연예 브리핑] '상습 도박 및 음주운전 혐의' 이진호 징역 2년 구형",
-        "url": "https://m.entertain.naver.com/article/427/0000044531",
-        "press": "네이버검색",
-        "published_at": "",
-        "source": "naver_search",
-        "category": "연예"
-      },
-      "ai_summary": "상습 도박 및 음주운전 혐의를 받는 이진호에게 징역 2년이 구형되었습니다."
-    },
-    {
-      "id": "news-20260820-078",
-      "title": "미스트롯4 Top 7과 스페셜 DJ 이민정 등 풍성한 게스트들이 SBS 라디오를 방문합니다.\n이번 게스트 라인업은 8월 18일에 공개되었습니다.",
-      "summary": "네이버검색 | 연예",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 22,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://m.entertain.naver.com/article/416/0000325869",
-      "source": {
-        "title": "미스트롯4 Top 7부터 스페셜 DJ 이민정까지, SBS 라디오를 찾아온 풍성한 게스트 라인업 / 8월 18일",
-        "url": "https://m.entertain.naver.com/article/416/0000325869",
-        "press": "네이버검색",
-        "published_at": "",
-        "source": "naver_search",
-        "category": "연예"
-      },
-      "ai_summary": "미스트롯4 Top 7과 스페셜 DJ 이민정 등 풍성한 게스트들이 SBS 라디오를 방문합니다.\n이번 게스트 라인업은 8월 18일에 공개되었습니다."
-    },
-    {
-      "id": "news-20260820-079",
-      "title": "9명을 살해하고도 웃으며 피해자에게 미안함이 없다고 말한 인물이 등장했습니다.\n해당 내용은 '꼬꼬무 찐리뷰'를 통해 공개되었습니다.",
-      "summary": "네이버검색 | 연예",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 21,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://m.entertain.naver.com/article/416/0000325848",
-      "source": {
-        "title": "[꼬꼬무 찐리뷰]\"피해자에 미안한 적 없고 앞으로도 없다\"…9명 살해하고도 웃었던 '악인전' 진짜 주인공",
-        "url": "https://m.entertain.naver.com/article/416/0000325848",
-        "press": "네이버검색",
-        "published_at": "",
-        "source": "naver_search",
-        "category": "연예"
-      },
-      "ai_summary": "9명을 살해하고도 웃으며 피해자에게 미안함이 없다고 말한 인물이 등장했습니다.\n해당 내용은 '꼬꼬무 찐리뷰'를 통해 공개되었습니다."
-    },
-    {
-      "id": "news-20260820-080",
-      "title": "샤이니 키와 입짧은 햇님이 '주사 이모' 사건으로 경찰 조사를 받습니다.\n해당 내용은 연예 브리핑을 통해 알려졌습니다.",
-      "summary": "네이버검색 | 연예",
-      "url": "https://blog.naver.com/smallprg/224383884204",
-      "icon": "news",
-      "type": "news",
-      "priority": 20,
-      "start": "2026-08-20",
-      "end": "2026-08-21",
-      "target": [
-        "PhotoBoard"
-      ],
-      "source_url": "https://m.entertain.naver.com/article/427/0000044523",
-      "source": {
-        "title": "[잇슈 연예 브리핑] 샤이니 키·입짧은 햇님…'주사 이모' 사건 경찰 조사",
-        "url": "https://m.entertain.naver.com/article/427/0000044523",
-        "press": "네이버검색",
-        "published_at": "",
-        "source": "naver_search",
-        "category": "연예"
-      },
-      "ai_summary": "샤이니 키와 입짧은 햇님이 '주사 이모' 사건으로 경찰 조사를 받습니다.\n해당 내용은 연예 브리핑을 통해 알려졌습니다."
+      "ai_summary": "서은광, 던, 허영지, 이민정이 SBS 라디오 특급 라인업으로 출격합니다.\n해당 내용은 8월 19일 자 소식입니다."
     }
   ]
 }
