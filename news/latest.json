@@ -1,198 +1,198 @@
 {
   "version": 1,
-  "updated": "2026-10-29T05:08:42+09:00",
+  "updated": "2026-10-30T00:02:50+09:00",
   "items": [
     {
-      "id": "news-20261029-001",
-      "title": "외국인 없으면 농가 붕괴 우려가 있는 상황입니다.\n대통령이 소비만을 기준으로 한 경제 기여론을 펼쳤습니다.",
-      "summary": "한국일보 | 정치",
-      "url": "https://blog.naver.com/smallprg/224457323985",
+      "id": "news-20261030-001",
+      "title": "주진우가 황제골프의 진실을 밝혀야 한다며 李대통령 부부를 고발했습니다.\n이에 대해 與는 사이버렉카와 다를 바 없다고 반응했습니다.",
+      "summary": "조선비즈 | 정치",
+      "url": "https://blog.naver.com/smallprg/224458393278",
       "icon": "news",
       "type": "news",
       "priority": 99,
-      "start": "2026-10-29",
-      "end": "2026-10-30",
+      "start": "2026-10-30",
+      "end": "2026-10-31",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/469/0000962301",
+      "source_url": "https://n.news.naver.com/mnews/article/366/0001201315",
       "source": {
-        "title": "외국인 없으면 농가 붕괴인데… '소비'만 따진 대통령의 '경제 기여론' [팩트체크]",
-        "url": "https://n.news.naver.com/mnews/article/469/0000962301",
-        "press": "한국일보",
+        "title": "주진우, 李대통령 부부 고발 “황제골프 진실 밝혀야” 與 “사이버렉카와 다를 바 없어”",
+        "url": "https://n.news.naver.com/mnews/article/366/0001201315",
+        "press": "조선비즈",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "외국인 없으면 농가 붕괴 우려가 있는 상황입니다.\n대통령이 소비만을 기준으로 한 경제 기여론을 펼쳤습니다."
+      "ai_summary": "주진우가 황제골프의 진실을 밝혀야 한다며 李대통령 부부를 고발했습니다.\n이에 대해 與는 사이버렉카와 다를 바 없다고 반응했습니다."
     },
     {
-      "id": "news-20261029-002",
-      "title": "농협생명의 3분기 누적 순익은 68억 원을 기록했습니다.\nCSM은 2배 가까이 증가했습니다.",
-      "summary": "헤럴드경제 | 경제",
-      "url": "https://blog.naver.com/smallprg/224457323985",
+      "id": "news-20261030-002",
+      "title": "삼성전자가 빅테크 기업 중 최초로 분기 영업이익 100조 원을 돌파했습니다.",
+      "summary": "YTN | 경제",
+      "url": "https://blog.naver.com/smallprg/224458393278",
       "icon": "news",
       "type": "news",
       "priority": 98,
-      "start": "2026-10-29",
-      "end": "2026-10-30",
+      "start": "2026-10-30",
+      "end": "2026-10-31",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/016/0002715691",
+      "source_url": "https://n.news.naver.com/mnews/article/052/0002425534",
       "source": {
-        "title": "농협생명, 3분기 누적 순익 68억원…CSM 2배 가까이 증가",
-        "url": "https://n.news.naver.com/mnews/article/016/0002715691",
-        "press": "헤럴드경제",
+        "title": "삼성전자 분기 영업익 100조 돌파...빅테크 기업 중 최초 [자막뉴스]",
+        "url": "https://n.news.naver.com/mnews/article/052/0002425534",
+        "press": "YTN",
         "published_at": "",
         "source": "naver",
         "category": "경제"
       },
-      "ai_summary": "농협생명의 3분기 누적 순익은 68억 원을 기록했습니다.\nCSM은 2배 가까이 증가했습니다."
+      "ai_summary": "삼성전자가 빅테크 기업 중 최초로 분기 영업이익 100조 원을 돌파했습니다."
     },
     {
-      "id": "news-20261029-003",
-      "title": "강원경찰청이 경찰 개혁을 위해 도민의 의견을 듣는 경청회를 개최했습니다.",
-      "summary": "매일경제 | 사회",
-      "url": "https://blog.naver.com/smallprg/224457323985",
+      "id": "news-20261030-003",
+      "title": "247만장의 검증이 13시간 만에 끝났습니다.\n국힘은 투표지 이송을 막으며 밤샘 농성을 벌였습니다.",
+      "summary": "서울경제 | 사회",
+      "url": "https://blog.naver.com/smallprg/224458393278",
       "icon": "news",
       "type": "news",
       "priority": 97,
-      "start": "2026-10-29",
-      "end": "2026-10-30",
+      "start": "2026-10-30",
+      "end": "2026-10-31",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/009/0005755492",
+      "source_url": "https://n.news.naver.com/mnews/article/011/0004676308",
       "source": {
-        "title": "경찰 개혁, 도민에게 듣다…강원경찰청 경청회 개최",
-        "url": "https://n.news.naver.com/mnews/article/009/0005755492",
-        "press": "매일경제",
+        "title": "247만장 검증 13시간 만에 끝났지만…국힘, 투표지 이송 막고 밤샘 농성",
+        "url": "https://n.news.naver.com/mnews/article/011/0004676308",
+        "press": "서울경제",
         "published_at": "",
         "source": "naver",
         "category": "사회"
       },
-      "ai_summary": "강원경찰청이 경찰 개혁을 위해 도민의 의견을 듣는 경청회를 개최했습니다."
+      "ai_summary": "247만장의 검증이 13시간 만에 끝났습니다.\n국힘은 투표지 이송을 막으며 밤샘 농성을 벌였습니다."
     },
     {
-      "id": "news-20261029-004",
-      "title": "최휘영 문체부 장관은 올해 외국인 관광객이 2300만 명을 돌파했다고 밝혔습니다.\n나아가 외국인 관광객 3000만 명 달성 시점을 앞당기겠다고 강조했습니다.",
-      "summary": "한국경제 | 생활/문화",
-      "url": "https://blog.naver.com/smallprg/224457323985",
+      "id": "news-20261030-004",
+      "title": "서울에 올가을 첫서리가 내렸습니다.\n설악산 고지대에는 첫눈이 내렸습니다.",
+      "summary": "YTN | 생활/문화",
+      "url": "https://blog.naver.com/smallprg/224458393278",
       "icon": "news",
       "type": "news",
       "priority": 96,
-      "start": "2026-10-29",
-      "end": "2026-10-30",
+      "start": "2026-10-30",
+      "end": "2026-10-31",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/015/0005347667",
+      "source_url": "https://n.news.naver.com/mnews/article/052/0002425616",
       "source": {
-        "title": "최휘영 문체부 장관 \"외국인 관광객 올 2300만명 돌파…3000만명도 앞당길 것\"",
-        "url": "https://n.news.naver.com/mnews/article/015/0005347667",
-        "press": "한국경제",
+        "title": "서울 올가을 '첫서리'...설악산 고지대에는 '첫눈'[날씨]",
+        "url": "https://n.news.naver.com/mnews/article/052/0002425616",
+        "press": "YTN",
         "published_at": "",
         "source": "naver",
         "category": "생활/문화"
       },
-      "ai_summary": "최휘영 문체부 장관은 올해 외국인 관광객이 2300만 명을 돌파했다고 밝혔습니다.\n나아가 외국인 관광객 3000만 명 달성 시점을 앞당기겠다고 강조했습니다."
+      "ai_summary": "서울에 올가을 첫서리가 내렸습니다.\n설악산 고지대에는 첫눈이 내렸습니다."
     },
     {
-      "id": "news-20261029-005",
-      "title": "한·미 안보협의회가 내년 초로 연기되었습니다.",
-      "summary": "경향신문 | 세계",
-      "url": "https://blog.naver.com/smallprg/224457323985",
+      "id": "news-20261030-005",
+      "title": "스페인 고속열차 추돌사고의 사망자가 69명으로 늘어났습니다.",
+      "summary": "연합뉴스 | 세계",
+      "url": "https://blog.naver.com/smallprg/224458393278",
       "icon": "news",
       "type": "news",
       "priority": 95,
-      "start": "2026-10-29",
-      "end": "2026-10-30",
+      "start": "2026-10-30",
+      "end": "2026-10-31",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/032/0003479299",
+      "source_url": "https://n.news.naver.com/mnews/article/001/0016410591",
       "source": {
-        "title": "한·미 “안보협의회 내년 초로 연기”",
-        "url": "https://n.news.naver.com/mnews/article/032/0003479299",
-        "press": "경향신문",
+        "title": "스페인 고속열차 추돌사고 사망자 69명으로 늘어",
+        "url": "https://n.news.naver.com/mnews/article/001/0016410591",
+        "press": "연합뉴스",
         "published_at": "",
         "source": "naver",
         "category": "세계"
       },
-      "ai_summary": "한·미 안보협의회가 내년 초로 연기되었습니다."
+      "ai_summary": "스페인 고속열차 추돌사고의 사망자가 69명으로 늘어났습니다."
     },
     {
-      "id": "news-20261029-006",
-      "title": "SKT 해지율이 1년 만에 절반으로 줄었습니다.\n해킹 사고 이후 해지율이 감소한 것으로 나타났습니다.",
-      "summary": "동아일보 | IT/과학",
-      "url": "https://blog.naver.com/smallprg/224457323985",
+      "id": "news-20261030-006",
+      "title": "이상중 KISA 원장이 경력 허위 기재 의혹으로 해임되었습니다.\n류재철 교수가 직무대행을 맡게 되었습니다.",
+      "summary": "헤럴드경제 | IT/과학",
+      "url": "https://blog.naver.com/smallprg/224458393278",
       "icon": "news",
       "type": "news",
       "priority": 94,
-      "start": "2026-10-29",
-      "end": "2026-10-30",
+      "start": "2026-10-30",
+      "end": "2026-10-31",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/020/0003758448",
+      "source_url": "https://n.news.naver.com/mnews/article/016/0002715951",
       "source": {
-        "title": "‘해킹 사고’ SKT 해지율, 1년만에 절반으로",
-        "url": "https://n.news.naver.com/mnews/article/020/0003758448",
-        "press": "동아일보",
+        "title": "“경력 허위 기재 의혹” 이상중 KISA 원장 해임…류재철 교수 직무대행",
+        "url": "https://n.news.naver.com/mnews/article/016/0002715951",
+        "press": "헤럴드경제",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
       },
-      "ai_summary": "SKT 해지율이 1년 만에 절반으로 줄었습니다.\n해킹 사고 이후 해지율이 감소한 것으로 나타났습니다."
+      "ai_summary": "이상중 KISA 원장이 경력 허위 기재 의혹으로 해임되었습니다.\n류재철 교수가 직무대행을 맡게 되었습니다."
     },
     {
-      "id": "news-20261029-007",
-      "title": "어르신 스포츠 걷기대회가 사랑의 광장에서 개최됩니다.\n전북시군의회의장단 협의회 회의와 진안파크골프협회장배 파크골프대회 등 다양한 일정이 진행됩니다.",
+      "id": "news-20261030-007",
+      "title": "보조금을 유용한 속초 축구협회가 제재를 받았습니다.\n이로 인해 2년간 지원이 중단됩니다.",
       "summary": "네이버검색 | 스포츠",
-      "url": "https://blog.naver.com/smallprg/224457323985",
+      "url": "https://blog.naver.com/smallprg/224458393278",
       "icon": "news",
       "type": "news",
       "priority": 93,
-      "start": "2026-10-29",
-      "end": "2026-10-30",
+      "start": "2026-10-30",
+      "end": "2026-10-31",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/article/003/0014285854?sid=102",
+      "source_url": "https://n.news.naver.com/article/056/0012283771?sid=102",
       "source": {
-        "title": "어르신 스포츠 걷기대회, 사랑의 광장 ▲오전 11시, 전북시군의회의장단 협의회, 시의회 대회의실 ▲오후 1시30분, 초록우산... KBS 뉴스 7 완주군편」 생방송 촬영, 브리핑룸 ◇진안군 ▲오전 9시30분, 연예인과 함께하는 진안파크골프협회장배 파크골프대회, 진안파크골프장 ▲오전 10시...",
-        "url": "https://n.news.naver.com/article/003/0014285854?sid=102",
+        "title": "‘보조금 유용’ 속초 축구협회 철퇴…2년간 지원 끊긴다",
+        "url": "https://n.news.naver.com/article/056/0012283771?sid=102",
         "press": "네이버검색",
         "published_at": "",
         "source": "naver_search",
         "category": "스포츠"
       },
-      "ai_summary": "어르신 스포츠 걷기대회가 사랑의 광장에서 개최됩니다.\n전북시군의회의장단 협의회 회의와 진안파크골프협회장배 파크골프대회 등 다양한 일정이 진행됩니다."
+      "ai_summary": "보조금을 유용한 속초 축구협회가 제재를 받았습니다.\n이로 인해 2년간 지원이 중단됩니다."
     },
     {
-      "id": "news-20261029-008",
-      "title": "승리가 이미 결혼한 상태였다는 사실이 밝혀졌습니다.\n아내가 임신 중이며 내년 초에 출산할 예정입니다.",
+      "id": "news-20261030-008",
+      "title": "故신해철이 은관 훈장을 받습니다.\n유재석, 한영애, 블랙핑크가 문화훈장을 받습니다.",
       "summary": "네이버검색 | 연예",
-      "url": "https://blog.naver.com/smallprg/224457323985",
+      "url": "https://blog.naver.com/smallprg/224458393278",
       "icon": "news",
       "type": "news",
       "priority": 92,
-      "start": "2026-10-29",
-      "end": "2026-10-30",
+      "start": "2026-10-30",
+      "end": "2026-10-31",
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://m.entertain.naver.com/article/009/0005755242",
+      "source_url": "https://m.entertain.naver.com/article/416/0000327715",
       "source": {
-        "title": "승리, 이미 유부남이었다…아내 임신·내년 초 출산 예정 [종합]",
-        "url": "https://m.entertain.naver.com/article/009/0005755242",
+        "title": "故신해철 은관 훈장→유재석·한영애·블랙핑크 문화훈장 받는다",
+        "url": "https://m.entertain.naver.com/article/416/0000327715",
         "press": "네이버검색",
         "published_at": "",
         "source": "naver_search",
         "category": "연예"
       },
-      "ai_summary": "승리가 이미 결혼한 상태였다는 사실이 밝혀졌습니다.\n아내가 임신 중이며 내년 초에 출산할 예정입니다."
+      "ai_summary": "故신해철이 은관 훈장을 받습니다.\n유재석, 한영애, 블랙핑크가 문화훈장을 받습니다."
     }
   ]
 }
