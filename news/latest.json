@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-11-07T20:22:32+09:00",
+  "updated": "2026-11-07T20:35:28+09:00",
   "items": [
     {
       "id": "news-20261107-001",
-      "title": "'조작기소 특검법'이 통과됐습니다. 신임 법무장관에는 이용철이 임명됐습니다.",
-      "summary": "YTN | 정치",
+      "title": "오세훈은 한동훈의 복당에 대해 당내 대다수의 공감대 형성이 전제되어야 한다고 밝혔습니다.",
+      "summary": "MBC | 정치",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -15,21 +15,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/052/0002429445",
+      "source_url": "https://n.news.naver.com/mnews/article/214/0001533940",
       "source": {
-        "title": "'조작기소 특검법' 통과...신임 법무장관에 이용철 [포커스]",
-        "url": "https://n.news.naver.com/mnews/article/052/0002429445",
-        "press": "YTN",
+        "title": "오세훈, '한동훈 복당'에 \"당내 대다수 공감대 형성이 전제\"",
+        "url": "https://n.news.naver.com/mnews/article/214/0001533940",
+        "press": "MBC",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "'조작기소 특검법'이 통과됐습니다. 신임 법무장관에는 이용철이 임명됐습니다."
+      "ai_summary": "오세훈은 한동훈의 복당에 대해 당내 대다수의 공감대 형성이 전제되어야 한다고 밝혔습니다."
     },
     {
       "id": "news-20261107-002",
-      "title": "노무라가 '1만피' 전망을 유지했습니다. AI 투자 위축 우려가 있지만 영향은 제한적일 것으로 평가했습니다.",
-      "summary": "국민일보 | 경제",
+      "title": "HD현대중공업의 역사를 담은 우표가 올해 '나만의 우표' 중 가장 많이 판매됐습니다.",
+      "summary": "연합뉴스 | 경제",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -39,21 +39,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/005/0001883497",
+      "source_url": "https://n.news.naver.com/mnews/article/001/0016425678",
       "source": {
-        "title": "‘1만피’ 전망 유지한 노무라, “AI투자 위축 우려, 영향 제한적”",
-        "url": "https://n.news.naver.com/mnews/article/005/0001883497",
-        "press": "국민일보",
+        "title": "HD현대중 역사 담은 우표, 올해 '나만의 우표' 중 최다 판매",
+        "url": "https://n.news.naver.com/mnews/article/001/0016425678",
+        "press": "연합뉴스",
         "published_at": "",
         "source": "naver",
         "category": "경제"
       },
-      "ai_summary": "노무라가 '1만피' 전망을 유지했습니다. AI 투자 위축 우려가 있지만 영향은 제한적일 것으로 평가했습니다."
+      "ai_summary": "HD현대중공업의 역사를 담은 우표가 올해 '나만의 우표' 중 가장 많이 판매됐습니다."
     },
     {
       "id": "news-20261107-003",
-      "title": "도로 온수관 파열로 생긴 구멍에 행인이 빠지는 사고가 발생했습니다. 피해자는 전신의 60%에 화상을 입었습니다.",
-      "summary": "국제신문 | 사회",
+      "title": "공소청이 증거 부족을 이유로 강호동 농협중앙회장의 구속영장을 기각했습니다.",
+      "summary": "한국경제 | 사회",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -63,21 +63,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/658/0000160620",
+      "source_url": "https://n.news.naver.com/mnews/article/015/0005351311",
       "source": {
-        "title": "[속보] 도로 온수관 파열로 생긴 구멍에 행인 빠져…전신 60% 화상",
-        "url": "https://n.news.naver.com/mnews/article/658/0000160620",
-        "press": "국제신문",
+        "title": "\"증거 부족\" 공소청, 강호동 농협중앙회장 구속영장 기각",
+        "url": "https://n.news.naver.com/mnews/article/015/0005351311",
+        "press": "한국경제",
         "published_at": "",
         "source": "naver",
         "category": "사회"
       },
-      "ai_summary": "도로 온수관 파열로 생긴 구멍에 행인이 빠지는 사고가 발생했습니다. 피해자는 전신의 60%에 화상을 입었습니다."
+      "ai_summary": "공소청이 증거 부족을 이유로 강호동 농협중앙회장의 구속영장을 기각했습니다."
     },
     {
       "id": "news-20261107-004",
-      "title": "뉴진스가 연애금지와 초상권 무기한 사용에 관한 내용이 포함된 소속사와의 비밀 계약을 맺은 것으로 알려졌습니다.",
-      "summary": "SBS Biz | 생활/문화",
+      "title": "하루 사이 낮 기온이 10도 떨어졌습니다. 7일 아침에는 기온이 영하 5도까지 내려가는 초겨울 추위가 찾아왔습니다.",
+      "summary": "파이낸셜뉴스 | 생활/문화",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -87,21 +87,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/374/0000542166",
+      "source_url": "https://n.news.naver.com/mnews/article/014/0005600403",
       "source": {
-        "title": "뉴진스, 연애금지·초상권 무기사용 소속사와 비밀 계약 [NYT]",
-        "url": "https://n.news.naver.com/mnews/article/374/0000542166",
-        "press": "SBS Biz",
+        "title": "하루 새 낮 기온 10도 '뚝'…7일 아침엔 영하 5도 초겨울 추위",
+        "url": "https://n.news.naver.com/mnews/article/014/0005600403",
+        "press": "파이낸셜뉴스",
         "published_at": "",
         "source": "naver",
         "category": "생활/문화"
       },
-      "ai_summary": "뉴진스가 연애금지와 초상권 무기한 사용에 관한 내용이 포함된 소속사와의 비밀 계약을 맺은 것으로 알려졌습니다."
+      "ai_summary": "하루 사이 낮 기온이 10도 떨어졌습니다. 7일 아침에는 기온이 영하 5도까지 내려가는 초겨울 추위가 찾아왔습니다."
     },
     {
       "id": "news-20261107-005",
-      "title": "오픈AI CFO는 중간선거 결과와 관계없이 데이터센터 투자를 계속하겠다고 밝혔습니다.",
-      "summary": "뉴시스 | 세계",
+      "title": "다카이치의 대만 관련 발언이 나온 지 1년이 지난 가운데 일본이 중국에 유화적인 태도를 보이고 있습니다.",
+      "summary": "연합뉴스TV | 세계",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -111,21 +111,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/003/0014307437",
+      "source_url": "https://n.news.naver.com/mnews/article/422/0000923549",
       "source": {
-        "title": "오픈AI CFO \"중간선거 결과에도 데이터센터 투자 계속할 것\"",
-        "url": "https://n.news.naver.com/mnews/article/003/0014307437",
-        "press": "뉴시스",
+        "title": "다카이치 '대만 발언' 1년…日, 中에 유화 제스처",
+        "url": "https://n.news.naver.com/mnews/article/422/0000923549",
+        "press": "연합뉴스TV",
         "published_at": "",
         "source": "naver",
         "category": "세계"
       },
-      "ai_summary": "오픈AI CFO는 중간선거 결과와 관계없이 데이터센터 투자를 계속하겠다고 밝혔습니다."
+      "ai_summary": "다카이치의 대만 관련 발언이 나온 지 1년이 지난 가운데 일본이 중국에 유화적인 태도를 보이고 있습니다."
     },
     {
       "id": "news-20261107-006",
-      "title": "아이폰 듀오를 둘러싼 품질 논란이 계속되고 있습니다. 10명 중 4명이 구매할 생각을 접었다고 답했습니다.",
-      "summary": "파이낸셜뉴스 | IT/과학",
+      "title": "카카오모빌리티가 로봇 상용화의 핵심으로 통합 운영을 강조하며 '브링온' 확대에 나섰습니다.",
+      "summary": "이데일리 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -135,20 +135,20 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/014/0005600466",
+      "source_url": "https://n.news.naver.com/mnews/article/018/0006404780",
       "source": {
-        "title": "꺼지지 않는 아이폰 듀오 품질 논란…10명 중 4명 \"살 생각 접었다\"[1일IT템]",
-        "url": "https://n.news.naver.com/mnews/article/014/0005600466",
-        "press": "파이낸셜뉴스",
+        "title": "\"로봇 상용화 통합 운영에 달렸다\"…카카오모빌리티 '브링온' 확대",
+        "url": "https://n.news.naver.com/mnews/article/018/0006404780",
+        "press": "이데일리",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
       },
-      "ai_summary": "아이폰 듀오를 둘러싼 품질 논란이 계속되고 있습니다. 10명 중 4명이 구매할 생각을 접었다고 답했습니다."
+      "ai_summary": "카카오모빌리티가 로봇 상용화의 핵심으로 통합 운영을 강조하며 '브링온' 확대에 나섰습니다."
     },
     {
       "id": "news-20261107-007",
-      "title": "307억원을 포기하고 MLB 도전에 나서는 노시환에게 냉정한 평가가 나왔습니다. 장타력은 인정받았지만 잦은 헛스윙과 송구 능력에 의문이 제기됐습니다.",
+      "title": "307억 원을 포기하고 MLB 도전에 나선 노시환에 대해 냉정한 평가가 나왔습니다. 장타력은 확실하지만 잦은 헛스윙과 송구 능력이 약점으로 지적됐습니다.",
       "summary": "네이버검색 | 스포츠",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
@@ -168,11 +168,11 @@
         "source": "naver_search",
         "category": "스포츠"
       },
-      "ai_summary": "307억원을 포기하고 MLB 도전에 나서는 노시환에게 냉정한 평가가 나왔습니다. 장타력은 인정받았지만 잦은 헛스윙과 송구 능력에 의문이 제기됐습니다."
+      "ai_summary": "307억 원을 포기하고 MLB 도전에 나선 노시환에 대해 냉정한 평가가 나왔습니다. 장타력은 확실하지만 잦은 헛스윙과 송구 능력이 약점으로 지적됐습니다."
     },
     {
       "id": "news-20261107-008",
-      "title": "로버트 패틴슨이 새로운 제임스 본드 후보로 거론되고 있습니다. 영화 '007' 스크린 테스트와 관련된 내용입니다.",
+      "title": "로버트 패틴슨이 새로운 제임스 본드 역할을 위한 '007' 스크린 테스트를 받았습니다.",
       "summary": "네이버검색 | 연예",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
@@ -192,7 +192,7 @@
         "source": "naver_search",
         "category": "연예"
       },
-      "ai_summary": "로버트 패틴슨이 새로운 제임스 본드 후보로 거론되고 있습니다. 영화 '007' 스크린 테스트와 관련된 내용입니다."
+      "ai_summary": "로버트 패틴슨이 새로운 제임스 본드 역할을 위한 '007' 스크린 테스트를 받았습니다."
     }
   ]
 }
