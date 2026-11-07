@@ -22,7 +22,7 @@
         "press": "머니투데이",
         "published_at": "",
         "source": "naver",
-        "category": "정치"
+        "category": "세계"
       },
       "ai_summary": "한국과 동티모르가 정상회담을 열고 양자협의체 설립을 위한 양해각서 등을 체결했습니다."
     },
@@ -46,7 +46,7 @@
         "press": "SBS",
         "published_at": "",
         "source": "naver",
-        "category": "정치"
+        "category": "IT/과학"
       },
       "ai_summary": "조작기소 의혹 특검법이 민주당 주도로 국회를 통과했습니다. 국민의힘은 이를 이재명 방탄 악법이라고 비판했습니다."
     },
@@ -69,8 +69,8 @@
         "url": "https://n.news.naver.com/mnews/article/008/0005437764",
         "press": "머니투데이",
         "published_at": "",
-        "source": "naver",
-        "category": "정치"
+        "source": "naver_search",
+        "category": "스포츠"
       },
       "ai_summary": "정점식은 이용철 지명을 두고 공소취소를 맡길 인물이 성남라인뿐이냐고 비판했습니다."
     },
