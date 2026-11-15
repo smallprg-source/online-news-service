@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-11-15T13:33:30+09:00",
+  "updated": "2026-11-15T13:43:21+09:00",
   "items": [
     {
       "id": "news-20261115-001",
-      "title": "오세훈이 조작기소특검법 거부를 요구하자 여당은 한강버스 의혹에나 답하라며 맞섰습니다.",
-      "summary": "머니투데이 | 정치",
+      "title": "민주당은 국민의힘의 장외 집회를 두고 예산국회를 팽개치고 대통령을 조롱하고 있다고 비판했습니다.",
+      "summary": "MBC | 정치",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -15,21 +15,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/008/0005441170",
+      "source_url": "https://n.news.naver.com/mnews/article/214/0001535602",
       "source": {
-        "title": "與, 오세훈 '조작기소특검법 거부' 요구에 \"한강버스 의혹에나 답하라\"",
-        "url": "https://n.news.naver.com/mnews/article/008/0005441170",
-        "press": "머니투데이",
+        "title": "민주당, 국힘 장외 집회에 \"예산국회 팽개치고 대통령 조롱\"",
+        "url": "https://n.news.naver.com/mnews/article/214/0001535602",
+        "press": "MBC",
         "published_at": "",
         "source": "naver",
         "category": "정치"
       },
-      "ai_summary": "오세훈이 조작기소특검법 거부를 요구하자 여당은 한강버스 의혹에나 답하라며 맞섰습니다."
+      "ai_summary": "민주당은 국민의힘의 장외 집회를 두고 예산국회를 팽개치고 대통령을 조롱하고 있다고 비판했습니다."
     },
     {
       "id": "news-20261115-002",
-      "title": "반도체 설계 소프트웨어 입찰에서 9개 업체가 20년간 담합한 사실이 드러났습니다. 이들 업체에 총 2억 원의 과징금이 부과됐습니다.",
-      "summary": "전자신문 | 경제",
+      "title": "광주에서 자율주행차 120대가 운행될 예정입니다. 오는 30일 첫 도로주행을 추진합니다.",
+      "summary": "이데일리 | 경제",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -39,21 +39,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/030/0003485691",
+      "source_url": "https://n.news.naver.com/mnews/article/018/0006409961",
       "source": {
-        "title": "반도체 설계 SW 입찰서 20년간 담합…9개 업체에 과징금 2억원",
-        "url": "https://n.news.naver.com/mnews/article/030/0003485691",
-        "press": "전자신문",
+        "title": "광주에 자율주행차 120대 뜬다…30일 첫 도로주행 추진",
+        "url": "https://n.news.naver.com/mnews/article/018/0006409961",
+        "press": "이데일리",
         "published_at": "",
         "source": "naver",
         "category": "경제"
       },
-      "ai_summary": "반도체 설계 소프트웨어 입찰에서 9개 업체가 20년간 담합한 사실이 드러났습니다. 이들 업체에 총 2억 원의 과징금이 부과됐습니다."
+      "ai_summary": "광주에서 자율주행차 120대가 운행될 예정입니다. 오는 30일 첫 도로주행을 추진합니다."
     },
     {
       "id": "news-20261115-003",
-      "title": "경북 포항의 호미반도가 2037년까지 국가해양생태공원으로 조성될 예정입니다.",
-      "summary": "문화일보 | 사회",
+      "title": "14명의 사상자가 발생한 전남광주 아파트 방화 사건의 40대 피의자가 영장 심사에 출석했습니다.",
+      "summary": "MBN | 사회",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -63,21 +63,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/021/0002832813",
+      "source_url": "https://n.news.naver.com/mnews/article/057/0001978201",
       "source": {
-        "title": "포항 호미반도, 2037년 ‘국가해양생태공원’으로 탄생한다",
-        "url": "https://n.news.naver.com/mnews/article/021/0002832813",
-        "press": "문화일보",
+        "title": "'14명 사상' 전남광주 아파트 방화 40대 피의자, 영장 심사 출석",
+        "url": "https://n.news.naver.com/mnews/article/057/0001978201",
+        "press": "MBN",
         "published_at": "",
         "source": "naver",
         "category": "사회"
       },
-      "ai_summary": "경북 포항의 호미반도가 2037년까지 국가해양생태공원으로 조성될 예정입니다."
+      "ai_summary": "14명의 사상자가 발생한 전남광주 아파트 방화 사건의 40대 피의자가 영장 심사에 출석했습니다."
     },
     {
       "id": "news-20261115-004",
-      "title": "하이원리조트가 대형 MICE 행사를 잇달아 유치하며 지역경제에 활력을 불어넣고 있습니다.",
-      "summary": "강원일보 | 생활/문화",
+      "title": "늦가을 포근한 날씨가 이어지고 있습니다. 다음 주에는 기온이 영하권으로 떨어지는 수능 한파가 예상됩니다.",
+      "summary": "채널A | 생활/문화",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -87,21 +87,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/087/0001230862",
+      "source_url": "https://n.news.naver.com/mnews/article/449/0000367531",
       "source": {
-        "title": "하이원리조트, 대형 MICE 행사 잇단 유치…지역경제 활력",
-        "url": "https://n.news.naver.com/mnews/article/087/0001230862",
-        "press": "강원일보",
+        "title": "포근한 늦가을…다음 주, 영하권 수능 한파[날씨]",
+        "url": "https://n.news.naver.com/mnews/article/449/0000367531",
+        "press": "채널A",
         "published_at": "",
         "source": "naver",
         "category": "생활/문화"
       },
-      "ai_summary": "하이원리조트가 대형 MICE 행사를 잇달아 유치하며 지역경제에 활력을 불어넣고 있습니다."
+      "ai_summary": "늦가을 포근한 날씨가 이어지고 있습니다. 다음 주에는 기온이 영하권으로 떨어지는 수능 한파가 예상됩니다."
     },
     {
       "id": "news-20261115-005",
-      "title": "이른바 '젠슨황 스캔들'이 세계 정세에 영향을 미칠 가능성이 제기됐습니다. 미·중 정상회담과 미·중·러 정상회담에도 영향을 줄 수 있다는 관측입니다.",
-      "summary": "문화일보 | 세계",
+      "title": "엔비디아 투자자들이 AI 산업의 후퇴를 우려하며 젠슨 황의 복귀를 요구하는 서한을 보냈습니다.",
+      "summary": "한국경제 | 세계",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -111,21 +111,21 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/021/0002832711",
+      "source_url": "https://n.news.naver.com/mnews/article/015/0005353875",
       "source": {
-        "title": "‘젠슨황 스캔들’ 세계정세까지 뒤흔든다?…미·중, 미·중·러 정상회담에 영향 가능성",
-        "url": "https://n.news.naver.com/mnews/article/021/0002832711",
-        "press": "문화일보",
+        "title": "엔비디아 투자자, 젠슨황 복귀 요구 서한…\"AI산업 후퇴 우려\"",
+        "url": "https://n.news.naver.com/mnews/article/015/0005353875",
+        "press": "한국경제",
         "published_at": "",
         "source": "naver",
         "category": "세계"
       },
-      "ai_summary": "이른바 '젠슨황 스캔들'이 세계 정세에 영향을 미칠 가능성이 제기됐습니다. 미·중 정상회담과 미·중·러 정상회담에도 영향을 줄 수 있다는 관측입니다."
+      "ai_summary": "엔비디아 투자자들이 AI 산업의 후퇴를 우려하며 젠슨 황의 복귀를 요구하는 서한을 보냈습니다."
     },
     {
       "id": "news-20261115-006",
-      "title": "젠지가 롤드컵 결승전에서 BLG와 1대 1 동점을 기록했습니다. 양 팀이 팽팽한 승부를 펼치고 있습니다.",
-      "summary": "연합뉴스 | IT/과학",
+      "title": "컴투스의 SWC가 10주년을 맞았습니다. 중계진은 손자 세대에도 사랑받는 게임이 되기를 기대했습니다.",
+      "summary": "디지털데일리 | IT/과학",
       "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
@@ -135,22 +135,22 @@
       "target": [
         "PhotoBoard"
       ],
-      "source_url": "https://n.news.naver.com/mnews/article/001/0016442106",
+      "source_url": "https://n.news.naver.com/mnews/article/138/0002248546",
       "source": {
-        "title": "젠지, 롤드컵 결승전서 BLG와 1-1 동점…막상막하 승부",
-        "url": "https://n.news.naver.com/mnews/article/001/0016442106",
-        "press": "연합뉴스",
+        "title": "\"손자 때에도 사랑받을 게임\"…컴투스 'SWC' 10년 맞은 중계진의 기대",
+        "url": "https://n.news.naver.com/mnews/article/138/0002248546",
+        "press": "디지털데일리",
         "published_at": "",
         "source": "naver",
         "category": "IT/과학"
       },
-      "ai_summary": "젠지가 롤드컵 결승전에서 BLG와 1대 1 동점을 기록했습니다. 양 팀이 팽팽한 승부를 펼치고 있습니다."
+      "ai_summary": "컴투스의 SWC가 10주년을 맞았습니다. 중계진은 손자 세대에도 사랑받는 게임이 되기를 기대했습니다."
     },
     {
       "id": "news-20261115-007",
-      "title": "한일전 12연승을 이어가는 가운데 일본 매체가 마사무네의 활약을 예상했습니다. 3연패는 물론 MVP 수상 가능성까지 거론했습니다.",
+      "title": "한일전 12연승을 이어가는 가운데 일본 매체는 마사무네의 활약에 주목했습니다. 3연패는 물론 MVP 수상까지 예상했습니다.",
       "summary": "네이버검색 | 스포츠",
-      "url": "https://blog.naver.com/smallprg/224477492600",
+      "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
       "priority": 93,
@@ -168,13 +168,13 @@
         "source": "naver_search",
         "category": "스포츠"
       },
-      "ai_summary": "한일전 12연승을 이어가는 가운데 일본 매체가 마사무네의 활약을 예상했습니다. 3연패는 물론 MVP 수상 가능성까지 거론했습니다."
+      "ai_summary": "한일전 12연승을 이어가는 가운데 일본 매체는 마사무네의 활약에 주목했습니다. 3연패는 물론 MVP 수상까지 예상했습니다."
     },
     {
       "id": "news-20261115-008",
-      "title": "브래드 피트가 섭식장애를 밝힌 막내딸에게 가슴 아프지만 용기가 자랑스럽다는 마음을 전했습니다.",
+      "title": "브래드 피트는 막내딸의 섭식장애 고백에 가슴 아프다는 심정을 밝혔습니다. 동시에 딸의 용기가 자랑스럽다고 전했습니다.",
       "summary": "네이버검색 | 연예",
-      "url": "https://blog.naver.com/smallprg/224477492600",
+      "url": "https://blog.naver.com/smallprg",
       "icon": "news",
       "type": "news",
       "priority": 92,
@@ -192,7 +192,7 @@
         "source": "naver_search",
         "category": "연예"
       },
-      "ai_summary": "브래드 피트가 섭식장애를 밝힌 막내딸에게 가슴 아프지만 용기가 자랑스럽다는 마음을 전했습니다."
+      "ai_summary": "브래드 피트는 막내딸의 섭식장애 고백에 가슴 아프다는 심정을 밝혔습니다. 동시에 딸의 용기가 자랑스럽다고 전했습니다."
     }
   ]
 }
