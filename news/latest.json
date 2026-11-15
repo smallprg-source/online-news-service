@@ -46,7 +46,7 @@
         "press": "YTN",
         "published_at": "",
         "source": "naver",
-        "category": "정치"
+        "category": "경제"
       },
       "ai_summary": "한동훈과 최민희가 SNS에서 거짓말과 억지 주장을 둘러싸고 설전을 벌였습니다."
     },
@@ -70,7 +70,7 @@
         "press": "연합뉴스TV",
         "published_at": "",
         "source": "naver",
-        "category": "정치"
+        "category": "사회"
       },
       "ai_summary": "여당에서는 최민희 감찰 문제로 내부 갈등이 격화하고 있습니다. 야당은 특검법 규탄 집회를 열었습니다."
     },
@@ -94,7 +94,7 @@
         "press": "MBC",
         "published_at": "",
         "source": "naver",
-        "category": "정치"
+        "category": "생활/문화"
       },
       "ai_summary": "민주당은 국민의힘의 장외 집회를 두고 예산국회를 팽개친 채 대통령을 조롱하고 있다고 비판했습니다."
     },
@@ -118,7 +118,7 @@
         "press": "뉴시스",
         "published_at": "",
         "source": "naver",
-        "category": "정치"
+        "category": "세계"
       },
       "ai_summary": "국민의힘은 이 대통령이 조작기소 특검법을 강행하면 자신의 죄를 지우려 한다는 사실을 자백하는 것이라고 주장했습니다."
     },
@@ -142,7 +142,7 @@
         "press": "한국일보",
         "published_at": "",
         "source": "naver",
-        "category": "정치"
+        "category": "IT/과학"
       },
       "ai_summary": "국민의힘은 이 대통령의 공직선거법 위반 사건 1심 선고 2년을 맞아 재판 재개와 특검 거부권 행사를 촉구했습니다."
     },
@@ -165,8 +165,8 @@
         "url": "https://n.news.naver.com/mnews/article/020/0003762497",
         "press": "동아일보",
         "published_at": "",
-        "source": "naver",
-        "category": "정치"
+        "source": "naver_search",
+        "category": "스포츠"
       },
       "ai_summary": "이 대통령은 진정한 개혁은 인기 없는 일을 하는 것이라며 성과로 증명해야 한다고 강조했습니다."
     },
